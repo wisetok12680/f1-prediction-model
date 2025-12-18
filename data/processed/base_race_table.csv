@@ -1,0 +1,1360 @@
+season,round,race_name,driver_id,driver_name,constructor_id,constructor_name,grid_position,finish_position,status,points,qualifying_position,qualifying_time_ms,is_winner,is_podium,constructor_bayesian_podium_rate
+2022,1,Bahrain Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,1.0,Finished,26.0,1.0,,1,1,0.41559444158517755
+2022,1,Bahrain Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,3.0,2.0,Finished,18.0,3.0,,0,1,0.41559444158517755
+2022,1,Bahrain Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,5.0,3.0,Finished,15.0,5.0,,0,1,0.2763546798029557
+2022,1,Bahrain Grand Prix,russell,George Russell,mercedes,Mercedes,9.0,4.0,Finished,12.0,9.0,,0,0,0.2763546798029557
+2022,1,Bahrain Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,7.0,5.0,Finished,10.0,7.0,,0,0,0.05719091673675357
+2022,1,Bahrain Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,6.0,6.0,Finished,8.0,6.0,,0,0,0.07214854111405834
+2022,1,Bahrain Grand Prix,ocon,Esteban Ocon,alpine,Alpine,11.0,7.0,Finished,6.0,11.0,,0,0,0.0877742946708464
+2022,1,Bahrain Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,16.0,8.0,Finished,4.0,16.0,,0,0,0.07214854111405834
+2022,1,Bahrain Grand Prix,alonso,Fernando Alonso,alpine,Alpine,8.0,9.0,Finished,2.0,8.0,,0,0,0.0877742946708464
+2022,1,Bahrain Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,15.0,10.0,Finished,1.0,15.0,,0,0,0.07214854111405834
+2022,1,Bahrain Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,12.0,11.0,Finished,0.0,12.0,,0,0,0.05719091673675357
+2022,1,Bahrain Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,19.0,12.0,Finished,0.0,19.0,,0,0,0.11536050156739812
+2022,1,Bahrain Grand Prix,albon,Alexander Albon,williams,Williams,14.0,13.0,Finished,0.0,14.0,,0,0,0.0625287356321839
+2022,1,Bahrain Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,18.0,14.0,Finished,0.0,18.0,,0,0,0.27244011581995264
+2022,1,Bahrain Grand Prix,norris,Lando Norris,mclaren,McLaren,13.0,15.0,Finished,0.0,13.0,,0,0,0.27244011581995264
+2022,1,Bahrain Grand Prix,latifi,Nicholas Latifi,williams,Williams,20.0,16.0,Finished,0.0,20.0,,0,0,0.0625287356321839
+2022,1,Bahrain Grand Prix,hulkenberg,Nico Hulkenberg,aston_martin,Aston Martin,17.0,17.0,Finished,0.0,17.0,,0,0,0.11536050156739812
+2022,1,Bahrain Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,4.0,18.0,Fuel pressure,0.0,4.0,,0,0,0.5805011163483007
+2022,1,Bahrain Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,19.0,Fuel pressure,0.0,2.0,,0,0,0.5805011163483007
+2022,1,Bahrain Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,10.0,20.0,Power Unit,0.0,10.0,,0,0,0.07214854111405834
+2022,2,Saudi Arabian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,4.0,1.0,Finished,25.0,4.0,,1,1,0.5805011163483007
+2022,2,Saudi Arabian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,2.0,2.0,Finished,19.0,2.0,,0,1,0.41559444158517755
+2022,2,Saudi Arabian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,3.0,3.0,Finished,15.0,3.0,,0,1,0.41559444158517755
+2022,2,Saudi Arabian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,1.0,4.0,Finished,12.0,1.0,,0,0,0.5805011163483007
+2022,2,Saudi Arabian Grand Prix,russell,George Russell,mercedes,Mercedes,6.0,5.0,Finished,10.0,6.0,,0,0,0.2763546798029557
+2022,2,Saudi Arabian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,5.0,6.0,Finished,8.0,5.0,,0,0,0.0877742946708464
+2022,2,Saudi Arabian Grand Prix,norris,Lando Norris,mclaren,McLaren,11.0,7.0,Finished,6.0,11.0,,0,0,0.27244011581995264
+2022,2,Saudi Arabian Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,9.0,8.0,Finished,4.0,9.0,,0,0,0.07214854111405834
+2022,2,Saudi Arabian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,10.0,9.0,Finished,2.0,10.0,,0,0,0.05719091673675357
+2022,2,Saudi Arabian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,15.0,10.0,Finished,1.0,16.0,,0,0,0.2763546798029557
+2022,2,Saudi Arabian Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,12.0,11.0,Finished,0.0,13.0,,0,0,0.07214854111405834
+2022,2,Saudi Arabian Grand Prix,hulkenberg,Nico Hulkenberg,aston_martin,Aston Martin,17.0,12.0,Finished,0.0,18.0,,0,0,0.11536050156739812
+2022,2,Saudi Arabian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,13.0,13.0,+1 Lap,0.0,15.0,,0,0,0.11536050156739812
+2022,2,Saudi Arabian Grand Prix,albon,Alexander Albon,williams,Williams,16.0,14.0,Collision damage,0.0,17.0,,0,0,0.0625287356321839
+2022,2,Saudi Arabian Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,8.0,15.0,Cooling system,0.0,8.0,,0,0,0.07214854111405834
+2022,2,Saudi Arabian Grand Prix,alonso,Fernando Alonso,alpine,Alpine,7.0,16.0,Water pump,0.0,7.0,,0,0,0.0877742946708464
+2022,2,Saudi Arabian Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,14.0,17.0,Gearbox,0.0,12.0,,0,0,0.27244011581995264
+2022,2,Saudi Arabian Grand Prix,latifi,Nicholas Latifi,williams,Williams,18.0,18.0,Accident,0.0,19.0,,0,0,0.0625287356321839
+2022,2,Saudi Arabian Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,19.0,19.0,Power Unit,0.0,20.0,,0,0,0.07214854111405834
+2022,2,Saudi Arabian Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,,,Withdrew,0.0,14.0,,0,0,0.05719091673675357
+2022,3,Australian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,1.0,Finished,26.0,1.0,,1,1,0.41559444158517755
+2022,3,Australian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,3.0,2.0,Finished,18.0,3.0,,0,1,0.5805011163483007
+2022,3,Australian Grand Prix,russell,George Russell,mercedes,Mercedes,6.0,3.0,Finished,15.0,6.0,,0,1,0.2763546798029557
+2022,3,Australian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,5.0,4.0,Finished,12.0,5.0,,0,0,0.2763546798029557
+2022,3,Australian Grand Prix,norris,Lando Norris,mclaren,McLaren,4.0,5.0,Finished,10.0,4.0,,0,0,0.27244011581995264
+2022,3,Australian Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,7.0,6.0,Finished,8.0,7.0,,0,0,0.27244011581995264
+2022,3,Australian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,8.0,7.0,Finished,6.0,8.0,,0,0,0.0877742946708464
+2022,3,Australian Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,12.0,8.0,Finished,4.0,12.0,,0,0,0.07214854111405834
+2022,3,Australian Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,11.0,9.0,Finished,2.0,11.0,,0,0,0.07214854111405834
+2022,3,Australian Grand Prix,albon,Alexander Albon,williams,Williams,20.0,10.0,Finished,1.0,16.0,,0,0,0.0625287356321839
+2022,3,Australian Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,14.0,11.0,Finished,0.0,14.0,,0,0,0.07214854111405834
+2022,3,Australian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,19.0,12.0,Finished,0.0,20.0,,0,0,0.11536050156739812
+2022,3,Australian Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,15.0,13.0,+1 Lap,0.0,15.0,,0,0,0.05719091673675357
+2022,3,Australian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,16.0,14.0,+1 Lap,0.0,17.0,,0,0,0.05719091673675357
+2022,3,Australian Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,13.0,15.0,+1 Lap,0.0,13.0,,0,0,0.07214854111405834
+2022,3,Australian Grand Prix,latifi,Nicholas Latifi,williams,Williams,18.0,16.0,+1 Lap,0.0,19.0,,0,0,0.0625287356321839
+2022,3,Australian Grand Prix,alonso,Fernando Alonso,alpine,Alpine,10.0,17.0,+1 Lap,0.0,10.0,,0,0,0.0877742946708464
+2022,3,Australian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,18.0,Fuel leak,0.0,2.0,,0,0,0.5805011163483007
+2022,3,Australian Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,17.0,19.0,Accident,0.0,18.0,,0,0,0.11536050156739812
+2022,3,Australian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,9.0,20.0,Spun off,0.0,9.0,,0,0,0.41559444158517755
+2022,4,Emilia Romagna Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,26.0,1.0,,1,1,0.5805011163483007
+2022,4,Emilia Romagna Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,3.0,2.0,Finished,18.0,7.0,,0,1,0.5805011163483007
+2022,4,Emilia Romagna Grand Prix,norris,Lando Norris,mclaren,McLaren,5.0,3.0,Finished,15.0,3.0,,0,1,0.27244011581995264
+2022,4,Emilia Romagna Grand Prix,russell,George Russell,mercedes,Mercedes,11.0,4.0,Finished,12.0,11.0,,0,0,0.2763546798029557
+2022,4,Emilia Romagna Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,7.0,5.0,Finished,10.0,8.0,,0,0,0.07214854111405834
+2022,4,Emilia Romagna Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,2.0,6.0,Finished,8.0,2.0,,0,0,0.41559444158517755
+2022,4,Emilia Romagna Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,12.0,7.0,Finished,6.0,16.0,,0,0,0.07214854111405834
+2022,4,Emilia Romagna Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,13.0,8.0,Finished,4.0,9.0,,0,0,0.11536050156739812
+2022,4,Emilia Romagna Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,8.0,9.0,Finished,2.0,4.0,,0,0,0.05719091673675357
+2022,4,Emilia Romagna Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,15.0,10.0,+1 Lap,1.0,15.0,,0,0,0.11536050156739812
+2022,4,Emilia Romagna Grand Prix,albon,Alexander Albon,williams,Williams,18.0,11.0,+1 Lap,0.0,20.0,,0,0,0.0625287356321839
+2022,4,Emilia Romagna Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,17.0,12.0,+1 Lap,0.0,17.0,,0,0,0.07214854111405834
+2022,4,Emilia Romagna Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,14.0,13.0,+1 Lap,0.0,13.0,,0,0,0.2763546798029557
+2022,4,Emilia Romagna Grand Prix,ocon,Esteban Ocon,alpine,Alpine,16.0,14.0,+1 Lap,0.0,19.0,,0,0,0.0877742946708464
+2022,4,Emilia Romagna Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,0.0,15.0,+1 Lap,0.0,14.0,,0,0,0.07214854111405834
+2022,4,Emilia Romagna Grand Prix,latifi,Nicholas Latifi,williams,Williams,19.0,16.0,+1 Lap,0.0,18.0,,0,0,0.0625287356321839
+2022,4,Emilia Romagna Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,10.0,17.0,+1 Lap,0.0,12.0,,0,0,0.05719091673675357
+2022,4,Emilia Romagna Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,6.0,18.0,+1 Lap,0.0,6.0,,0,0,0.27244011581995264
+2022,4,Emilia Romagna Grand Prix,alonso,Fernando Alonso,alpine,Alpine,9.0,19.0,Collision damage,0.0,5.0,,0,0,0.0877742946708464
+2022,4,Emilia Romagna Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,4.0,20.0,Collision,0.0,10.0,,0,0,0.41559444158517755
+2022,5,Miami Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,3.0,1.0,Finished,26.0,3.0,,1,1,0.5805011163483007
+2022,5,Miami Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,2.0,Finished,18.0,1.0,,0,1,0.41559444158517755
+2022,5,Miami Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,2.0,3.0,Finished,15.0,2.0,,0,1,0.41559444158517755
+2022,5,Miami Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,4.0,4.0,Finished,12.0,4.0,,0,0,0.5805011163483007
+2022,5,Miami Grand Prix,russell,George Russell,mercedes,Mercedes,12.0,5.0,Finished,10.0,12.0,,0,0,0.2763546798029557
+2022,5,Miami Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,6.0,6.0,Finished,8.0,6.0,,0,0,0.2763546798029557
+2022,5,Miami Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,5.0,7.0,Finished,6.0,5.0,,0,0,0.07214854111405834
+2022,5,Miami Grand Prix,ocon,Esteban Ocon,alpine,Alpine,20.0,8.0,Finished,4.0,20.0,,0,0,0.0877742946708464
+2022,5,Miami Grand Prix,albon,Alexander Albon,williams,Williams,18.0,9.0,Finished,2.0,18.0,,0,0,0.0625287356321839
+2022,5,Miami Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,0.0,10.0,Finished,1.0,10.0,,0,0,0.11536050156739812
+2022,5,Miami Grand Prix,alonso,Fernando Alonso,alpine,Alpine,11.0,11.0,Finished,0.0,11.0,,0,0,0.0877742946708464
+2022,5,Miami Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,9.0,12.0,Finished,0.0,9.0,,0,0,0.07214854111405834
+2022,5,Miami Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,14.0,13.0,Finished,0.0,14.0,,0,0,0.27244011581995264
+2022,5,Miami Grand Prix,latifi,Nicholas Latifi,williams,Williams,19.0,14.0,Finished,0.0,19.0,,0,0,0.0625287356321839
+2022,5,Miami Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,15.0,15.0,Finished,0.0,15.0,,0,0,0.05719091673675357
+2022,5,Miami Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,16.0,16.0,Front wing,0.0,16.0,,0,0,0.05719091673675357
+2022,5,Miami Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,0.0,17.0,Collision,0.0,13.0,,0,0,0.11536050156739812
+2022,5,Miami Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,7.0,18.0,Suspension,0.0,7.0,,0,0,0.07214854111405834
+2022,5,Miami Grand Prix,norris,Lando Norris,mclaren,McLaren,8.0,19.0,Collision,0.0,8.0,,0,0,0.27244011581995264
+2022,5,Miami Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,17.0,20.0,Water leak,0.0,17.0,,0,0,0.07214854111405834
+2022,6,Spanish Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,25.0,2.0,,1,1,0.5805011163483007
+2022,6,Spanish Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,5.0,2.0,Finished,19.0,5.0,,0,1,0.5805011163483007
+2022,6,Spanish Grand Prix,russell,George Russell,mercedes,Mercedes,4.0,3.0,Finished,15.0,4.0,,0,1,0.2763546798029557
+2022,6,Spanish Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,3.0,4.0,Finished,12.0,3.0,,0,0,0.41559444158517755
+2022,6,Spanish Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,6.0,5.0,Finished,10.0,6.0,,0,0,0.2763546798029557
+2022,6,Spanish Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,7.0,6.0,Finished,8.0,7.0,,0,0,0.07214854111405834
+2022,6,Spanish Grand Prix,ocon,Esteban Ocon,alpine,Alpine,12.0,7.0,Finished,6.0,12.0,,0,0,0.0877742946708464
+2022,6,Spanish Grand Prix,norris,Lando Norris,mclaren,McLaren,11.0,8.0,Finished,4.0,11.0,,0,0,0.27244011581995264
+2022,6,Spanish Grand Prix,alonso,Fernando Alonso,alpine,Alpine,20.0,9.0,+1 Lap,2.0,17.0,,0,0,0.0877742946708464
+2022,6,Spanish Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,13.0,10.0,+1 Lap,1.0,13.0,,0,0,0.07214854111405834
+2022,6,Spanish Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,16.0,11.0,+1 Lap,0.0,16.0,,0,0,0.11536050156739812
+2022,6,Spanish Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,9.0,12.0,+1 Lap,0.0,9.0,,0,0,0.27244011581995264
+2022,6,Spanish Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,14.0,13.0,+1 Lap,0.0,14.0,,0,0,0.07214854111405834
+2022,6,Spanish Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,10.0,14.0,+1 Lap,0.0,10.0,,0,0,0.05719091673675357
+2022,6,Spanish Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,17.0,15.0,+1 Lap,0.0,18.0,,0,0,0.11536050156739812
+2022,6,Spanish Grand Prix,latifi,Nicholas Latifi,williams,Williams,19.0,16.0,+2 Laps,0.0,20.0,,0,0,0.0625287356321839
+2022,6,Spanish Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,8.0,17.0,+2 Laps,0.0,8.0,,0,0,0.05719091673675357
+2022,6,Spanish Grand Prix,albon,Alexander Albon,williams,Williams,18.0,18.0,+2 Laps,0.0,19.0,,0,0,0.0625287356321839
+2022,6,Spanish Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,15.0,19.0,Power loss,0.0,15.0,,0,0,0.07214854111405834
+2022,6,Spanish Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,20.0,Turbo,0.0,1.0,,0,0,0.41559444158517755
+2022,7,Monaco Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,3.0,1.0,Finished,25.0,3.0,,1,1,0.5805011163483007
+2022,7,Monaco Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,2.0,2.0,Finished,18.0,2.0,,0,1,0.41559444158517755
+2022,7,Monaco Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,4.0,3.0,Finished,15.0,4.0,,0,1,0.5805011163483007
+2022,7,Monaco Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,4.0,Finished,12.0,1.0,,0,0,0.41559444158517755
+2022,7,Monaco Grand Prix,russell,George Russell,mercedes,Mercedes,6.0,5.0,Finished,10.0,6.0,,0,0,0.2763546798029557
+2022,7,Monaco Grand Prix,norris,Lando Norris,mclaren,McLaren,5.0,6.0,Finished,9.0,5.0,,0,0,0.27244011581995264
+2022,7,Monaco Grand Prix,alonso,Fernando Alonso,alpine,Alpine,7.0,7.0,Finished,6.0,7.0,,0,0,0.0877742946708464
+2022,7,Monaco Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,8.0,8.0,Finished,4.0,8.0,,0,0,0.2763546798029557
+2022,7,Monaco Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,12.0,9.0,Finished,2.0,12.0,,0,0,0.07214854111405834
+2022,7,Monaco Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,9.0,10.0,Finished,1.0,9.0,,0,0,0.11536050156739812
+2022,7,Monaco Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,17.0,11.0,Finished,0.0,17.0,,0,0,0.07214854111405834
+2022,7,Monaco Grand Prix,ocon,Esteban Ocon,alpine,Alpine,10.0,12.0,Finished,0.0,10.0,,0,0,0.0877742946708464
+2022,7,Monaco Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,14.0,13.0,Finished,0.0,14.0,,0,0,0.27244011581995264
+2022,7,Monaco Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,18.0,14.0,Finished,0.0,18.0,,0,0,0.11536050156739812
+2022,7,Monaco Grand Prix,latifi,Nicholas Latifi,williams,Williams,19.0,15.0,+1 Lap,0.0,19.0,,0,0,0.0625287356321839
+2022,7,Monaco Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,20.0,16.0,+1 Lap,0.0,20.0,,0,0,0.07214854111405834
+2022,7,Monaco Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,11.0,17.0,+1 Lap,0.0,11.0,,0,0,0.07214854111405834
+2022,7,Monaco Grand Prix,albon,Alexander Albon,williams,Williams,16.0,18.0,Mechanical,0.0,16.0,,0,0,0.0625287356321839
+2022,7,Monaco Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,15.0,19.0,Accident,0.0,15.0,,0,0,0.05719091673675357
+2022,7,Monaco Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,13.0,20.0,Water pressure,0.0,13.0,,0,0,0.05719091673675357
+2022,8,Azerbaijan Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,3.0,1.0,Finished,25.0,3.0,,1,1,0.5805011163483007
+2022,8,Azerbaijan Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,2.0,2.0,Finished,19.0,2.0,,0,1,0.5805011163483007
+2022,8,Azerbaijan Grand Prix,russell,George Russell,mercedes,Mercedes,5.0,3.0,Finished,15.0,5.0,,0,1,0.2763546798029557
+2022,8,Azerbaijan Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,7.0,4.0,Finished,12.0,7.0,,0,0,0.2763546798029557
+2022,8,Azerbaijan Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,6.0,5.0,Finished,10.0,6.0,,0,0,0.07214854111405834
+2022,8,Azerbaijan Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,9.0,6.0,Finished,8.0,9.0,,0,0,0.11536050156739812
+2022,8,Azerbaijan Grand Prix,alonso,Fernando Alonso,alpine,Alpine,10.0,7.0,Finished,6.0,10.0,,0,0,0.0877742946708464
+2022,8,Azerbaijan Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,12.0,8.0,Finished,4.0,12.0,,0,0,0.27244011581995264
+2022,8,Azerbaijan Grand Prix,norris,Lando Norris,mclaren,McLaren,11.0,9.0,Finished,2.0,11.0,,0,0,0.27244011581995264
+2022,8,Azerbaijan Grand Prix,ocon,Esteban Ocon,alpine,Alpine,13.0,10.0,Finished,1.0,13.0,,0,0,0.0877742946708464
+2022,8,Azerbaijan Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,15.0,11.0,+1 Lap,0.0,15.0,,0,0,0.07214854111405834
+2022,8,Azerbaijan Grand Prix,albon,Alexander Albon,williams,Williams,17.0,12.0,+1 Lap,0.0,17.0,,0,0,0.0625287356321839
+2022,8,Azerbaijan Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,8.0,13.0,+1 Lap,0.0,8.0,,0,0,0.07214854111405834
+2022,8,Azerbaijan Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,20.0,14.0,+1 Lap,0.0,20.0,,0,0,0.05719091673675357
+2022,8,Azerbaijan Grand Prix,latifi,Nicholas Latifi,williams,Williams,18.0,15.0,+1 Lap,0.0,18.0,,0,0,0.0625287356321839
+2022,8,Azerbaijan Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,19.0,16.0,Vibrations,0.0,19.0,,0,0,0.11536050156739812
+2022,8,Azerbaijan Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,16.0,17.0,Power Unit,0.0,16.0,,0,0,0.05719091673675357
+2022,8,Azerbaijan Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,14.0,18.0,Hydraulics,0.0,14.0,,0,0,0.07214854111405834
+2022,8,Azerbaijan Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,19.0,Power Unit,0.0,1.0,,0,0,0.41559444158517755
+2022,8,Azerbaijan Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,4.0,20.0,Hydraulics,0.0,4.0,,0,0,0.41559444158517755
+2022,9,Canadian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,,1,1,0.5805011163483007
+2022,9,Canadian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,3.0,2.0,Finished,19.0,3.0,,0,1,0.41559444158517755
+2022,9,Canadian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,4.0,3.0,Finished,15.0,4.0,,0,1,0.2763546798029557
+2022,9,Canadian Grand Prix,russell,George Russell,mercedes,Mercedes,8.0,4.0,Finished,12.0,8.0,,0,0,0.2763546798029557
+2022,9,Canadian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,19.0,5.0,Finished,10.0,15.0,,0,0,0.41559444158517755
+2022,9,Canadian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,7.0,6.0,Finished,8.0,7.0,,0,0,0.0877742946708464
+2022,9,Canadian Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,11.0,7.0,Finished,6.0,11.0,,0,0,0.07214854111405834
+2022,9,Canadian Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,10.0,8.0,Finished,4.0,10.0,,0,0,0.07214854111405834
+2022,9,Canadian Grand Prix,alonso,Fernando Alonso,alpine,Alpine,2.0,9.0,Finished,2.0,2.0,,0,0,0.0877742946708464
+2022,9,Canadian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,17.0,10.0,Finished,1.0,18.0,,0,0,0.11536050156739812
+2022,9,Canadian Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,9.0,11.0,Finished,0.0,9.0,,0,0,0.27244011581995264
+2022,9,Canadian Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,16.0,12.0,Finished,0.0,17.0,,0,0,0.11536050156739812
+2022,9,Canadian Grand Prix,albon,Alexander Albon,williams,Williams,12.0,13.0,Finished,0.0,12.0,,0,0,0.0625287356321839
+2022,9,Canadian Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,15.0,14.0,Finished,0.0,16.0,,0,0,0.07214854111405834
+2022,9,Canadian Grand Prix,norris,Lando Norris,mclaren,McLaren,14.0,15.0,Finished,0.0,14.0,,0,0,0.27244011581995264
+2022,9,Canadian Grand Prix,latifi,Nicholas Latifi,williams,Williams,18.0,16.0,Finished,0.0,19.0,,0,0,0.0625287356321839
+2022,9,Canadian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,5.0,17.0,Finished,0.0,5.0,,0,0,0.05719091673675357
+2022,9,Canadian Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,20.0,18.0,Accident,0.0,20.0,,0,0,0.07214854111405834
+2022,9,Canadian Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,6.0,19.0,Engine,0.0,6.0,,0,0,0.05719091673675357
+2022,9,Canadian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,13.0,20.0,Gearbox,0.0,13.0,,0,0,0.5805011163483007
+2022,10,British Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,1.0,1.0,Finished,25.0,1.0,,1,1,0.41559444158517755
+2022,10,British Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,4.0,2.0,Finished,18.0,4.0,,0,1,0.5805011163483007
+2022,10,British Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,5.0,3.0,Finished,16.0,5.0,,0,1,0.2763546798029557
+2022,10,British Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,3.0,4.0,Finished,12.0,3.0,,0,0,0.41559444158517755
+2022,10,British Grand Prix,alonso,Fernando Alonso,alpine,Alpine,7.0,5.0,Finished,10.0,7.0,,0,0,0.0877742946708464
+2022,10,British Grand Prix,norris,Lando Norris,mclaren,McLaren,6.0,6.0,Finished,8.0,6.0,,0,0,0.27244011581995264
+2022,10,British Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,7.0,Finished,6.0,2.0,,0,0,0.5805011163483007
+2022,10,British Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,19.0,8.0,Finished,4.0,19.0,,0,0,0.05719091673675357
+2022,10,British Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,18.0,9.0,Finished,2.0,18.0,,0,0,0.11536050156739812
+2022,10,British Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,17.0,10.0,Finished,1.0,17.0,,0,0,0.05719091673675357
+2022,10,British Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,20.0,11.0,Finished,0.0,20.0,,0,0,0.11536050156739812
+2022,10,British Grand Prix,latifi,Nicholas Latifi,williams,Williams,10.0,12.0,Finished,0.0,10.0,,0,0,0.0625287356321839
+2022,10,British Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,14.0,13.0,Finished,0.0,14.0,,0,0,0.27244011581995264
+2022,10,British Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,13.0,14.0,Finished,0.0,13.0,,0,0,0.07214854111405834
+2022,10,British Grand Prix,ocon,Esteban Ocon,alpine,Alpine,15.0,15.0,Fuel pump,0.0,15.0,,0,0,0.0877742946708464
+2022,10,British Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,11.0,16.0,Collision damage,0.0,11.0,,0,0,0.07214854111405834
+2022,10,British Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,12.0,17.0,Gearbox,0.0,12.0,,0,0,0.07214854111405834
+2022,10,British Grand Prix,russell,George Russell,mercedes,Mercedes,8.0,18.0,Collision,0.0,8.0,,0,0,0.2763546798029557
+2022,10,British Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,9.0,19.0,Collision,0.0,9.0,,0,0,0.07214854111405834
+2022,10,British Grand Prix,albon,Alexander Albon,williams,Williams,16.0,20.0,Collision,0.0,16.0,,0,0,0.0625287356321839
+2022,11,Austrian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,2.0,1.0,Finished,25.0,2.0,,1,1,0.41559444158517755
+2022,11,Austrian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,2.0,Finished,19.0,1.0,,0,1,0.5805011163483007
+2022,11,Austrian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,8.0,3.0,Finished,15.0,9.0,,0,1,0.2763546798029557
+2022,11,Austrian Grand Prix,russell,George Russell,mercedes,Mercedes,4.0,4.0,Finished,12.0,4.0,,0,0,0.2763546798029557
+2022,11,Austrian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,6.0,5.0,Finished,10.0,5.0,,0,0,0.0877742946708464
+2022,11,Austrian Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,9.0,6.0,+1 Lap,8.0,7.0,,0,0,0.05719091673675357
+2022,11,Austrian Grand Prix,norris,Lando Norris,mclaren,McLaren,10.0,7.0,+1 Lap,6.0,15.0,,0,0,0.27244011581995264
+2022,11,Austrian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,7.0,8.0,+1 Lap,4.0,6.0,,0,0,0.05719091673675357
+2022,11,Austrian Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,11.0,9.0,+1 Lap,2.0,16.0,,0,0,0.27244011581995264
+2022,11,Austrian Grand Prix,alonso,Fernando Alonso,alpine,Alpine,19.0,10.0,+1 Lap,1.0,8.0,,0,0,0.0877742946708464
+2022,11,Austrian Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,0.0,11.0,+1 Lap,0.0,12.0,,0,0,0.07214854111405834
+2022,11,Austrian Grand Prix,albon,Alexander Albon,williams,Williams,15.0,12.0,+1 Lap,0.0,11.0,,0,0,0.0625287356321839
+2022,11,Austrian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,12.0,13.0,+1 Lap,0.0,17.0,,0,0,0.11536050156739812
+2022,11,Austrian Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,13.0,14.0,+1 Lap,0.0,18.0,,0,0,0.07214854111405834
+2022,11,Austrian Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,14.0,15.0,+1 Lap,0.0,10.0,,0,0,0.07214854111405834
+2022,11,Austrian Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,16.0,16.0,+1 Lap,0.0,14.0,,0,0,0.07214854111405834
+2022,11,Austrian Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,18.0,17.0,+1 Lap,0.0,20.0,,0,0,0.11536050156739812
+2022,11,Austrian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,3.0,18.0,Power Unit,0.0,3.0,,0,0,0.41559444158517755
+2022,11,Austrian Grand Prix,latifi,Nicholas Latifi,williams,Williams,17.0,19.0,Undertray,0.0,19.0,,0,0,0.0625287356321839
+2022,11,Austrian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,5.0,20.0,Collision damage,0.0,13.0,,0,0,0.5805011163483007
+2022,12,French Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,25.0,2.0,,1,1,0.5805011163483007
+2022,12,French Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,4.0,2.0,Finished,18.0,4.0,,0,1,0.2763546798029557
+2022,12,French Grand Prix,russell,George Russell,mercedes,Mercedes,6.0,3.0,Finished,15.0,6.0,,0,1,0.2763546798029557
+2022,12,French Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,3.0,4.0,Finished,12.0,3.0,,0,0,0.5805011163483007
+2022,12,French Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,19.0,5.0,Finished,11.0,9.0,,0,0,0.41559444158517755
+2022,12,French Grand Prix,alonso,Fernando Alonso,alpine,Alpine,7.0,6.0,Finished,8.0,7.0,,0,0,0.0877742946708464
+2022,12,French Grand Prix,norris,Lando Norris,mclaren,McLaren,5.0,7.0,Finished,6.0,5.0,,0,0,0.27244011581995264
+2022,12,French Grand Prix,ocon,Esteban Ocon,alpine,Alpine,10.0,8.0,Finished,4.0,12.0,,0,0,0.0877742946708464
+2022,12,French Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,9.0,9.0,Finished,2.0,11.0,,0,0,0.27244011581995264
+2022,12,French Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,15.0,10.0,Finished,1.0,17.0,,0,0,0.11536050156739812
+2022,12,French Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,12.0,11.0,Finished,0.0,14.0,,0,0,0.11536050156739812
+2022,12,French Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,14.0,12.0,Finished,0.0,16.0,,0,0,0.07214854111405834
+2022,12,French Grand Prix,albon,Alexander Albon,williams,Williams,13.0,13.0,Finished,0.0,15.0,,0,0,0.0625287356321839
+2022,12,French Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,11.0,14.0,Finished,0.0,13.0,,0,0,0.07214854111405834
+2022,12,French Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,17.0,15.0,Finished,0.0,19.0,,0,0,0.05719091673675357
+2022,12,French Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,16.0,16.0,+6 Laps,0.0,18.0,,0,0,0.07214854111405834
+2022,12,French Grand Prix,latifi,Nicholas Latifi,williams,Williams,18.0,17.0,Collision damage,0.0,20.0,,0,0,0.0625287356321839
+2022,12,French Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,20.0,18.0,Collision damage,0.0,10.0,,0,0,0.05719091673675357
+2022,12,French Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,19.0,Accident,0.0,1.0,,0,0,0.41559444158517755
+2022,12,French Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,8.0,20.0,Undertray,0.0,8.0,,0,0,0.07214854111405834
+2022,13,Hungarian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,10.0,1.0,Finished,25.0,10.0,,1,1,0.5805011163483007
+2022,13,Hungarian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,7.0,2.0,Finished,19.0,7.0,,0,1,0.2763546798029557
+2022,13,Hungarian Grand Prix,russell,George Russell,mercedes,Mercedes,1.0,3.0,Finished,15.0,1.0,,0,1,0.2763546798029557
+2022,13,Hungarian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,2.0,4.0,Finished,12.0,2.0,,0,0,0.41559444158517755
+2022,13,Hungarian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,11.0,5.0,Finished,10.0,11.0,,0,0,0.5805011163483007
+2022,13,Hungarian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,3.0,6.0,Finished,8.0,3.0,,0,0,0.41559444158517755
+2022,13,Hungarian Grand Prix,norris,Lando Norris,mclaren,McLaren,4.0,7.0,Finished,6.0,4.0,,0,0,0.27244011581995264
+2022,13,Hungarian Grand Prix,alonso,Fernando Alonso,alpine,Alpine,6.0,8.0,+1 Lap,4.0,6.0,,0,0,0.0877742946708464
+2022,13,Hungarian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,5.0,9.0,+1 Lap,2.0,5.0,,0,0,0.0877742946708464
+2022,13,Hungarian Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,18.0,10.0,+1 Lap,1.0,18.0,,0,0,0.11536050156739812
+2022,13,Hungarian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,14.0,11.0,+1 Lap,0.0,14.0,,0,0,0.11536050156739812
+2022,13,Hungarian Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,0.0,12.0,+1 Lap,0.0,19.0,,0,0,0.07214854111405834
+2022,13,Hungarian Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,12.0,13.0,+1 Lap,0.0,12.0,,0,0,0.07214854111405834
+2022,13,Hungarian Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,15.0,14.0,+1 Lap,0.0,15.0,,0,0,0.05719091673675357
+2022,13,Hungarian Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,9.0,15.0,+1 Lap,0.0,9.0,,0,0,0.27244011581995264
+2022,13,Hungarian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,13.0,16.0,+1 Lap,0.0,13.0,,0,0,0.05719091673675357
+2022,13,Hungarian Grand Prix,albon,Alexander Albon,williams,Williams,17.0,17.0,+1 Lap,0.0,17.0,,0,0,0.0625287356321839
+2022,13,Hungarian Grand Prix,latifi,Nicholas Latifi,williams,Williams,19.0,18.0,+1 Lap,0.0,20.0,,0,0,0.0625287356321839
+2022,13,Hungarian Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,16.0,19.0,+2 Laps,0.0,16.0,,0,0,0.07214854111405834
+2022,13,Hungarian Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,8.0,20.0,Power Unit,0.0,8.0,,0,0,0.07214854111405834
+2022,14,Belgian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,14.0,1.0,Finished,26.0,1.0,,1,1,0.5805011163483007
+2022,14,Belgian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,2.0,2.0,Finished,18.0,3.0,,0,1,0.5805011163483007
+2022,14,Belgian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,1.0,3.0,Finished,15.0,2.0,,0,1,0.41559444158517755
+2022,14,Belgian Grand Prix,russell,George Russell,mercedes,Mercedes,5.0,4.0,Finished,12.0,8.0,,0,0,0.2763546798029557
+2022,14,Belgian Grand Prix,alonso,Fernando Alonso,alpine,Alpine,3.0,5.0,Finished,10.0,6.0,,0,0,0.0877742946708464
+2022,14,Belgian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,15.0,6.0,Finished,8.0,4.0,,0,0,0.41559444158517755
+2022,14,Belgian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,16.0,7.0,Finished,6.0,5.0,,0,0,0.0877742946708464
+2022,14,Belgian Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,10.0,8.0,Finished,4.0,16.0,,0,0,0.11536050156739812
+2022,14,Belgian Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,0.0,9.0,Finished,2.0,12.0,,0,0,0.07214854111405834
+2022,14,Belgian Grand Prix,albon,Alexander Albon,williams,Williams,6.0,10.0,Finished,1.0,9.0,,0,0,0.0625287356321839
+2022,14,Belgian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,9.0,11.0,Finished,0.0,14.0,,0,0,0.11536050156739812
+2022,14,Belgian Grand Prix,norris,Lando Norris,mclaren,McLaren,17.0,12.0,Finished,0.0,10.0,,0,0,0.27244011581995264
+2022,14,Belgian Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,0.0,13.0,Finished,0.0,19.0,,0,0,0.07214854111405834
+2022,14,Belgian Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,18.0,14.0,Finished,0.0,13.0,,0,0,0.07214854111405834
+2022,14,Belgian Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,7.0,15.0,Finished,0.0,11.0,,0,0,0.27244011581995264
+2022,14,Belgian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,12.0,16.0,+1 Lap,0.0,18.0,,0,0,0.05719091673675357
+2022,14,Belgian Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,19.0,17.0,+1 Lap,0.0,15.0,,0,0,0.05719091673675357
+2022,14,Belgian Grand Prix,latifi,Nicholas Latifi,williams,Williams,11.0,18.0,+1 Lap,0.0,17.0,,0,0,0.0625287356321839
+2022,14,Belgian Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,13.0,19.0,Accident,0.0,20.0,,0,0,0.07214854111405834
+2022,14,Belgian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,4.0,20.0,Collision damage,0.0,7.0,,0,0,0.2763546798029557
+2022,15,Dutch Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,26.0,1.0,,1,1,0.5805011163483007
+2022,15,Dutch Grand Prix,russell,George Russell,mercedes,Mercedes,6.0,2.0,Finished,18.0,6.0,,0,1,0.2763546798029557
+2022,15,Dutch Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,2.0,3.0,Finished,15.0,2.0,,0,1,0.41559444158517755
+2022,15,Dutch Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,4.0,4.0,Finished,12.0,4.0,,0,0,0.2763546798029557
+2022,15,Dutch Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,5.0,5.0,Finished,10.0,5.0,,0,0,0.5805011163483007
+2022,15,Dutch Grand Prix,alonso,Fernando Alonso,alpine,Alpine,13.0,6.0,Finished,8.0,13.0,,0,0,0.0877742946708464
+2022,15,Dutch Grand Prix,norris,Lando Norris,mclaren,McLaren,7.0,7.0,Finished,6.0,7.0,,0,0,0.27244011581995264
+2022,15,Dutch Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,3.0,8.0,Finished,4.0,3.0,,0,0,0.41559444158517755
+2022,15,Dutch Grand Prix,ocon,Esteban Ocon,alpine,Alpine,12.0,9.0,Finished,2.0,12.0,,0,0,0.0877742946708464
+2022,15,Dutch Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,10.0,10.0,Finished,1.0,10.0,,0,0,0.11536050156739812
+2022,15,Dutch Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,11.0,11.0,Finished,0.0,11.0,,0,0,0.07214854111405834
+2022,15,Dutch Grand Prix,albon,Alexander Albon,williams,Williams,15.0,12.0,Finished,0.0,15.0,,0,0,0.0625287356321839
+2022,15,Dutch Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,8.0,13.0,Finished,0.0,8.0,,0,0,0.05719091673675357
+2022,15,Dutch Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,19.0,14.0,Finished,0.0,19.0,,0,0,0.11536050156739812
+2022,15,Dutch Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,18.0,15.0,Finished,0.0,18.0,,0,0,0.05719091673675357
+2022,15,Dutch Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,14.0,16.0,Finished,0.0,14.0,,0,0,0.07214854111405834
+2022,15,Dutch Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,17.0,17.0,Finished,0.0,17.0,,0,0,0.27244011581995264
+2022,15,Dutch Grand Prix,latifi,Nicholas Latifi,williams,Williams,20.0,18.0,+1 Lap,0.0,20.0,,0,0,0.0625287356321839
+2022,15,Dutch Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,16.0,19.0,Engine,0.0,16.0,,0,0,0.07214854111405834
+2022,15,Dutch Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,9.0,20.0,Differential,0.0,9.0,,0,0,0.07214854111405834
+2022,16,Italian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,7.0,1.0,Finished,25.0,2.0,,1,1,0.5805011163483007
+2022,16,Italian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,2.0,Finished,18.0,1.0,,0,1,0.41559444158517755
+2022,16,Italian Grand Prix,russell,George Russell,mercedes,Mercedes,2.0,3.0,Finished,15.0,6.0,,0,1,0.2763546798029557
+2022,16,Italian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,18.0,4.0,Finished,12.0,3.0,,0,0,0.41559444158517755
+2022,16,Italian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,19.0,5.0,Finished,10.0,5.0,,0,0,0.2763546798029557
+2022,16,Italian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,13.0,6.0,Finished,9.0,4.0,,0,0,0.5805011163483007
+2022,16,Italian Grand Prix,norris,Lando Norris,mclaren,McLaren,3.0,7.0,Finished,6.0,7.0,,0,0,0.27244011581995264
+2022,16,Italian Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,5.0,8.0,Finished,4.0,9.0,,0,0,0.07214854111405834
+2022,16,Italian Grand Prix,de_vries,Nyck De Vries,williams,Williams,8.0,9.0,Finished,2.0,13.0,,0,0,0.0625287356321839
+2022,16,Italian Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,9.0,10.0,Finished,1.0,14.0,,0,0,0.07214854111405834
+2022,16,Italian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,14.0,11.0,Finished,0.0,11.0,,0,0,0.0877742946708464
+2022,16,Italian Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,17.0,12.0,Finished,0.0,20.0,,0,0,0.05719091673675357
+2022,16,Italian Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,15.0,13.0,+1 Lap,0.0,12.0,,0,0,0.07214854111405834
+2022,16,Italian Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,20.0,14.0,+1 Lap,0.0,15.0,,0,0,0.07214854111405834
+2022,16,Italian Grand Prix,latifi,Nicholas Latifi,williams,Williams,10.0,15.0,+1 Lap,0.0,16.0,,0,0,0.0625287356321839
+2022,16,Italian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,16.0,16.0,+1 Lap,0.0,19.0,,0,0,0.05719091673675357
+2022,16,Italian Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,4.0,17.0,Oil leak,0.0,8.0,,0,0,0.27244011581995264
+2022,16,Italian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,12.0,18.0,Engine,0.0,18.0,,0,0,0.11536050156739812
+2022,16,Italian Grand Prix,alonso,Fernando Alonso,alpine,Alpine,6.0,19.0,Water pressure,0.0,10.0,,0,0,0.0877742946708464
+2022,16,Italian Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,11.0,20.0,Engine,0.0,17.0,,0,0,0.11536050156739812
+2022,17,Singapore Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,2.0,1.0,Finished,25.0,2.0,,1,1,0.5805011163483007
+2022,17,Singapore Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,2.0,Finished,18.0,1.0,,0,1,0.41559444158517755
+2022,17,Singapore Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,4.0,3.0,Finished,15.0,4.0,,0,1,0.41559444158517755
+2022,17,Singapore Grand Prix,norris,Lando Norris,mclaren,McLaren,6.0,4.0,Finished,12.0,6.0,,0,0,0.27244011581995264
+2022,17,Singapore Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,16.0,5.0,Finished,10.0,17.0,,0,0,0.27244011581995264
+2022,17,Singapore Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,11.0,6.0,Finished,8.0,12.0,,0,0,0.11536050156739812
+2022,17,Singapore Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,8.0,7.0,Finished,6.0,8.0,,0,0,0.5805011163483007
+2022,17,Singapore Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,13.0,8.0,Finished,4.0,14.0,,0,0,0.11536050156739812
+2022,17,Singapore Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,3.0,9.0,Finished,2.0,3.0,,0,0,0.2763546798029557
+2022,17,Singapore Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,7.0,10.0,Finished,1.0,7.0,,0,0,0.07214854111405834
+2022,17,Singapore Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,15.0,11.0,Finished,0.0,16.0,,0,0,0.07214854111405834
+2022,17,Singapore Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,9.0,12.0,Finished,0.0,9.0,,0,0,0.05719091673675357
+2022,17,Singapore Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,12.0,13.0,+1 Lap,0.0,13.0,,0,0,0.05719091673675357
+2022,17,Singapore Grand Prix,russell,George Russell,mercedes,Mercedes,0.0,14.0,+2 Laps,0.0,11.0,,0,0,0.2763546798029557
+2022,17,Singapore Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,10.0,15.0,Accident,0.0,10.0,,0,0,0.07214854111405834
+2022,17,Singapore Grand Prix,ocon,Esteban Ocon,alpine,Alpine,17.0,16.0,Engine,0.0,18.0,,0,0,0.0877742946708464
+2022,17,Singapore Grand Prix,albon,Alexander Albon,williams,Williams,18.0,17.0,Collision damage,0.0,19.0,,0,0,0.0625287356321839
+2022,17,Singapore Grand Prix,alonso,Fernando Alonso,alpine,Alpine,5.0,18.0,Engine,0.0,5.0,,0,0,0.0877742946708464
+2022,17,Singapore Grand Prix,latifi,Nicholas Latifi,williams,Williams,19.0,19.0,Collision damage,0.0,20.0,,0,0,0.0625287356321839
+2022,17,Singapore Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,14.0,20.0,Collision,0.0,15.0,,0,0,0.07214854111405834
+2022,18,Japanese Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,,1,1,0.5805011163483007
+2022,18,Japanese Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,4.0,2.0,Finished,18.0,4.0,,0,1,0.5805011163483007
+2022,18,Japanese Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,2.0,3.0,Finished,15.0,2.0,,0,1,0.41559444158517755
+2022,18,Japanese Grand Prix,ocon,Esteban Ocon,alpine,Alpine,5.0,4.0,Finished,12.0,5.0,,0,0,0.0877742946708464
+2022,18,Japanese Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,6.0,5.0,Finished,10.0,6.0,,0,0,0.2763546798029557
+2022,18,Japanese Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,9.0,6.0,Finished,8.0,9.0,,0,0,0.11536050156739812
+2022,18,Japanese Grand Prix,alonso,Fernando Alonso,alpine,Alpine,7.0,7.0,Finished,6.0,7.0,,0,0,0.0877742946708464
+2022,18,Japanese Grand Prix,russell,George Russell,mercedes,Mercedes,8.0,8.0,Finished,4.0,8.0,,0,0,0.2763546798029557
+2022,18,Japanese Grand Prix,latifi,Nicholas Latifi,williams,Williams,20.0,9.0,Finished,2.0,20.0,,0,0,0.0625287356321839
+2022,18,Japanese Grand Prix,norris,Lando Norris,mclaren,McLaren,10.0,10.0,Finished,1.0,10.0,,0,0,0.27244011581995264
+2022,18,Japanese Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,11.0,11.0,Finished,0.0,11.0,,0,0,0.27244011581995264
+2022,18,Japanese Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,19.0,12.0,Finished,0.0,19.0,,0,0,0.11536050156739812
+2022,18,Japanese Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,13.0,13.0,Finished,0.0,13.0,,0,0,0.07214854111405834
+2022,18,Japanese Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,18.0,14.0,Finished,0.0,18.0,,0,0,0.05719091673675357
+2022,18,Japanese Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,12.0,15.0,Finished,0.0,12.0,,0,0,0.07214854111405834
+2022,18,Japanese Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,14.0,16.0,Finished,0.0,14.0,,0,0,0.07214854111405834
+2022,18,Japanese Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,15.0,17.0,Finished,0.0,15.0,,0,0,0.05719091673675357
+2022,18,Japanese Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,17.0,18.0,Finished,0.0,17.0,,0,0,0.07214854111405834
+2022,18,Japanese Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,3.0,19.0,Accident,0.0,3.0,,0,0,0.41559444158517755
+2022,18,Japanese Grand Prix,albon,Alexander Albon,williams,Williams,16.0,20.0,Hydraulics,0.0,16.0,,0,0,0.0625287356321839
+2022,19,United States Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,25.0,3.0,,1,1,0.5805011163483007
+2022,19,United States Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,3.0,2.0,Finished,18.0,5.0,,0,1,0.2763546798029557
+2022,19,United States Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,12.0,3.0,Finished,15.0,2.0,,0,1,0.41559444158517755
+2022,19,United States Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,9.0,4.0,Finished,12.0,4.0,,0,0,0.5805011163483007
+2022,19,United States Grand Prix,russell,George Russell,mercedes,Mercedes,4.0,5.0,Finished,11.0,6.0,,0,0,0.2763546798029557
+2022,19,United States Grand Prix,norris,Lando Norris,mclaren,McLaren,6.0,6.0,Finished,8.0,8.0,,0,0,0.27244011581995264
+2022,19,United States Grand Prix,alonso,Fernando Alonso,alpine,Alpine,14.0,7.0,Finished,6.0,9.0,,0,0,0.0877742946708464
+2022,19,United States Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,10.0,8.0,Finished,4.0,12.0,,0,0,0.11536050156739812
+2022,19,United States Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,13.0,9.0,Finished,2.0,16.0,,0,0,0.05719091673675357
+2022,19,United States Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,19.0,10.0,Finished,1.0,15.0,,0,0,0.07214854111405834
+2022,19,United States Grand Prix,ocon,Esteban Ocon,alpine,Alpine,0.0,11.0,Finished,0.0,18.0,,0,0,0.0877742946708464
+2022,19,United States Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,18.0,12.0,Finished,0.0,14.0,,0,0,0.07214854111405834
+2022,19,United States Grand Prix,albon,Alexander Albon,williams,Williams,8.0,13.0,Finished,0.0,11.0,,0,0,0.0625287356321839
+2022,19,United States Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,11.0,14.0,Finished,0.0,13.0,,0,0,0.07214854111405834
+2022,19,United States Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,16.0,15.0,Finished,0.0,19.0,,0,0,0.05719091673675357
+2022,19,United States Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,15.0,16.0,Finished,0.0,17.0,,0,0,0.27244011581995264
+2022,19,United States Grand Prix,latifi,Nicholas Latifi,williams,Williams,17.0,17.0,Finished,0.0,20.0,,0,0,0.0625287356321839
+2022,19,United States Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,5.0,18.0,Collision,0.0,7.0,,0,0,0.11536050156739812
+2022,19,United States Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,7.0,19.0,Spun off,0.0,10.0,,0,0,0.07214854111405834
+2022,19,United States Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,1.0,20.0,Collision damage,0.0,1.0,,0,0,0.41559444158517755
+2022,20,Mexico City Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,,1,1,0.5805011163483007
+2022,20,Mexico City Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,3.0,2.0,Finished,18.0,3.0,,0,1,0.2763546798029557
+2022,20,Mexico City Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,4.0,3.0,Finished,15.0,4.0,,0,1,0.5805011163483007
+2022,20,Mexico City Grand Prix,russell,George Russell,mercedes,Mercedes,2.0,4.0,Finished,13.0,2.0,,0,0,0.2763546798029557
+2022,20,Mexico City Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,5.0,5.0,Finished,10.0,5.0,,0,0,0.41559444158517755
+2022,20,Mexico City Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,7.0,6.0,Finished,8.0,7.0,,0,0,0.41559444158517755
+2022,20,Mexico City Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,11.0,7.0,+1 Lap,6.0,11.0,,0,0,0.27244011581995264
+2022,20,Mexico City Grand Prix,ocon,Esteban Ocon,alpine,Alpine,10.0,8.0,+1 Lap,4.0,10.0,,0,0,0.0877742946708464
+2022,20,Mexico City Grand Prix,norris,Lando Norris,mclaren,McLaren,8.0,9.0,+1 Lap,2.0,8.0,,0,0,0.27244011581995264
+2022,20,Mexico City Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,6.0,10.0,+1 Lap,1.0,6.0,,0,0,0.07214854111405834
+2022,20,Mexico City Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,14.0,11.0,+1 Lap,0.0,14.0,,0,0,0.07214854111405834
+2022,20,Mexico City Grand Prix,albon,Alexander Albon,williams,Williams,17.0,12.0,+1 Lap,0.0,19.0,,0,0,0.0625287356321839
+2022,20,Mexico City Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,12.0,13.0,+1 Lap,0.0,12.0,,0,0,0.07214854111405834
+2022,20,Mexico City Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,16.0,14.0,+1 Lap,0.0,17.0,,0,0,0.11536050156739812
+2022,20,Mexico City Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,20.0,15.0,+1 Lap,0.0,18.0,,0,0,0.11536050156739812
+2022,20,Mexico City Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,15.0,16.0,+1 Lap,0.0,16.0,,0,0,0.05719091673675357
+2022,20,Mexico City Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,19.0,17.0,+1 Lap,0.0,15.0,,0,0,0.05719091673675357
+2022,20,Mexico City Grand Prix,latifi,Nicholas Latifi,williams,Williams,18.0,18.0,+2 Laps,0.0,20.0,,0,0,0.0625287356321839
+2022,20,Mexico City Grand Prix,alonso,Fernando Alonso,alpine,Alpine,9.0,19.0,Engine,0.0,9.0,,0,0,0.0877742946708464
+2022,20,Mexico City Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,13.0,20.0,Collision damage,0.0,13.0,,0,0,0.07214854111405834
+2022,21,São Paulo Grand Prix,russell,George Russell,mercedes,Mercedes,1.0,1.0,Finished,26.0,3.0,,1,1,0.2763546798029557
+2022,21,São Paulo Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,2.0,2.0,Finished,18.0,8.0,,0,1,0.2763546798029557
+2022,21,São Paulo Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,7.0,3.0,Finished,15.0,5.0,,0,1,0.41559444158517755
+2022,21,São Paulo Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,5.0,4.0,Finished,12.0,10.0,,0,0,0.41559444158517755
+2022,21,São Paulo Grand Prix,alonso,Fernando Alonso,alpine,Alpine,17.0,5.0,Finished,10.0,7.0,,0,0,0.0877742946708464
+2022,21,São Paulo Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,3.0,6.0,Finished,8.0,2.0,,0,0,0.5805011163483007
+2022,21,São Paulo Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,4.0,7.0,Finished,6.0,9.0,,0,0,0.5805011163483007
+2022,21,São Paulo Grand Prix,ocon,Esteban Ocon,alpine,Alpine,16.0,8.0,Finished,4.0,6.0,,0,0,0.0877742946708464
+2022,21,São Paulo Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,14.0,9.0,Finished,2.0,18.0,,0,0,0.07214854111405834
+2022,21,São Paulo Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,15.0,10.0,Finished,1.0,15.0,,0,0,0.11536050156739812
+2022,21,São Paulo Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,9.0,11.0,Finished,0.0,13.0,,0,0,0.11536050156739812
+2022,21,São Paulo Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,13.0,12.0,Finished,0.0,17.0,,0,0,0.07214854111405834
+2022,21,São Paulo Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,12.0,13.0,Finished,0.0,20.0,,0,0,0.05719091673675357
+2022,21,São Paulo Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,10.0,14.0,Finished,0.0,12.0,,0,0,0.07214854111405834
+2022,21,São Paulo Grand Prix,albon,Alexander Albon,williams,Williams,19.0,15.0,Finished,0.0,11.0,,0,0,0.0625287356321839
+2022,21,São Paulo Grand Prix,latifi,Nicholas Latifi,williams,Williams,18.0,16.0,Finished,0.0,16.0,,0,0,0.0625287356321839
+2022,21,São Paulo Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,0.0,17.0,+1 Lap,0.0,19.0,,0,0,0.07214854111405834
+2022,21,São Paulo Grand Prix,norris,Lando Norris,mclaren,McLaren,6.0,18.0,Gearbox,0.0,4.0,,0,0,0.27244011581995264
+2022,21,São Paulo Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,8.0,19.0,Collision,0.0,1.0,,0,0,0.05719091673675357
+2022,21,São Paulo Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,11.0,20.0,Collision,0.0,14.0,,0,0,0.27244011581995264
+2022,22,Abu Dhabi Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,,1,1,0.5805011163483007
+2022,22,Abu Dhabi Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,3.0,2.0,Finished,18.0,3.0,,0,1,0.41559444158517755
+2022,22,Abu Dhabi Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,2.0,3.0,Finished,15.0,2.0,,0,1,0.5805011163483007
+2022,22,Abu Dhabi Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,4.0,4.0,Finished,12.0,4.0,,0,0,0.41559444158517755
+2022,22,Abu Dhabi Grand Prix,russell,George Russell,mercedes,Mercedes,6.0,5.0,Finished,10.0,6.0,,0,0,0.2763546798029557
+2022,22,Abu Dhabi Grand Prix,norris,Lando Norris,mclaren,McLaren,7.0,6.0,Finished,9.0,7.0,,0,0,0.27244011581995264
+2022,22,Abu Dhabi Grand Prix,ocon,Esteban Ocon,alpine,Alpine,8.0,7.0,Finished,6.0,8.0,,0,0,0.0877742946708464
+2022,22,Abu Dhabi Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,14.0,8.0,Finished,4.0,14.0,,0,0,0.11536050156739812
+2022,22,Abu Dhabi Grand Prix,ricciardo,Daniel Ricciardo,mclaren,McLaren,13.0,9.0,Finished,2.0,10.0,,0,0,0.27244011581995264
+2022,22,Abu Dhabi Grand Prix,vettel,Sebastian Vettel,aston_martin,Aston Martin,9.0,10.0,Finished,1.0,9.0,,0,0,0.11536050156739812
+2022,22,Abu Dhabi Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,11.0,11.0,Finished,0.0,12.0,,0,0,0.07214854111405834
+2022,22,Abu Dhabi Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,15.0,12.0,+1 Lap,0.0,15.0,,0,0,0.07214854111405834
+2022,22,Abu Dhabi Grand Prix,albon,Alexander Albon,williams,Williams,19.0,13.0,+1 Lap,0.0,19.0,,0,0,0.0625287356321839
+2022,22,Abu Dhabi Grand Prix,gasly,Pierre Gasly,alphatauri,AlphaTauri,17.0,14.0,+1 Lap,0.0,17.0,,0,0,0.07214854111405834
+2022,22,Abu Dhabi Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,18.0,15.0,+1 Lap,0.0,18.0,,0,0,0.07214854111405834
+2022,22,Abu Dhabi Grand Prix,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,12.0,16.0,+1 Lap,0.0,13.0,,0,0,0.05719091673675357
+2022,22,Abu Dhabi Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,16.0,17.0,+1 Lap,0.0,16.0,,0,0,0.05719091673675357
+2022,22,Abu Dhabi Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,5.0,18.0,Hydraulics,0.0,5.0,,0,0,0.2763546798029557
+2022,22,Abu Dhabi Grand Prix,latifi,Nicholas Latifi,williams,Williams,20.0,19.0,Collision damage,0.0,20.0,,0,0,0.0625287356321839
+2022,22,Abu Dhabi Grand Prix,alonso,Fernando Alonso,alpine,Alpine,10.0,20.0,Water leak,0.0,11.0,,0,0,0.0877742946708464
+2023,1,Bahrain Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,,1,1,0.5805011163483007
+2023,1,Bahrain Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,2.0,2.0,Finished,18.0,2.0,,0,1,0.5805011163483007
+2023,1,Bahrain Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,5.0,3.0,Finished,15.0,5.0,,0,1,0.11536050156739812
+2023,1,Bahrain Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,4.0,4.0,Finished,12.0,4.0,,0,0,0.41559444158517755
+2023,1,Bahrain Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,7.0,5.0,Finished,10.0,7.0,,0,0,0.2763546798029557
+2023,1,Bahrain Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,8.0,6.0,Finished,8.0,8.0,,0,0,0.11536050156739812
+2023,1,Bahrain Grand Prix,russell,George Russell,mercedes,Mercedes,6.0,7.0,Finished,6.0,6.0,,0,0,0.2763546798029557
+2023,1,Bahrain Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,12.0,8.0,Finished,4.0,12.0,,0,0,0.07214854111405834
+2023,1,Bahrain Grand Prix,gasly,Pierre Gasly,alpine,Alpine,20.0,9.0,Finished,2.0,20.0,,0,0,0.0877742946708464
+2023,1,Bahrain Grand Prix,albon,Alexander Albon,williams,Williams,15.0,10.0,Finished,1.0,15.0,,0,0,0.0625287356321839
+2023,1,Bahrain Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,14.0,11.0,Finished,0.0,14.0,,0,0,0.07214854111405834
+2023,1,Bahrain Grand Prix,sargeant,Logan Sargeant,williams,Williams,16.0,12.0,Lapped,0.0,16.0,,0,0,0.0625287356321839
+2023,1,Bahrain Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,17.0,13.0,Lapped,0.0,17.0,,0,0,0.05719091673675357
+2023,1,Bahrain Grand Prix,de_vries,Nyck De Vries,alphatauri,AlphaTauri,19.0,14.0,Lapped,0.0,19.0,,0,0,0.07214854111405834
+2023,1,Bahrain Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,10.0,15.0,Lapped,0.0,10.0,,0,0,0.05719091673675357
+2023,1,Bahrain Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,13.0,16.0,Lapped,0.0,13.0,,0,0,0.07214854111405834
+2023,1,Bahrain Grand Prix,norris,Lando Norris,mclaren,McLaren,11.0,17.0,Lapped,0.0,11.0,,0,0,0.27244011581995264
+2023,1,Bahrain Grand Prix,ocon,Esteban Ocon,alpine,Alpine,9.0,18.0,Retired,0.0,9.0,,0,0,0.0877742946708464
+2023,1,Bahrain Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,3.0,19.0,Retired,0.0,3.0,,0,0,0.41559444158517755
+2023,1,Bahrain Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,18.0,20.0,Retired,0.0,18.0,,0,0,0.27244011581995264
+2023,2,Saudi Arabian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,,1,1,0.5805011163483007
+2023,2,Saudi Arabian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,15.0,2.0,Finished,19.0,15.0,,0,1,0.5805011163483007
+2023,2,Saudi Arabian Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,2.0,3.0,Finished,15.0,3.0,,0,1,0.11536050156739812
+2023,2,Saudi Arabian Grand Prix,russell,George Russell,mercedes,Mercedes,3.0,4.0,Finished,12.0,4.0,,0,0,0.2763546798029557
+2023,2,Saudi Arabian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,7.0,5.0,Finished,10.0,8.0,,0,0,0.2763546798029557
+2023,2,Saudi Arabian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,4.0,6.0,Finished,8.0,5.0,,0,0,0.41559444158517755
+2023,2,Saudi Arabian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,12.0,7.0,Finished,6.0,2.0,,0,0,0.41559444158517755
+2023,2,Saudi Arabian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,6.0,8.0,Finished,4.0,7.0,,0,0,0.0877742946708464
+2023,2,Saudi Arabian Grand Prix,gasly,Pierre Gasly,alpine,Alpine,9.0,9.0,Finished,2.0,10.0,,0,0,0.0877742946708464
+2023,2,Saudi Arabian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,13.0,10.0,Finished,1.0,13.0,,0,0,0.05719091673675357
+2023,2,Saudi Arabian Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,16.0,11.0,Finished,0.0,16.0,,0,0,0.07214854111405834
+2023,2,Saudi Arabian Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,10.0,12.0,Finished,0.0,11.0,,0,0,0.05719091673675357
+2023,2,Saudi Arabian Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,11.0,13.0,Finished,0.0,12.0,,0,0,0.07214854111405834
+2023,2,Saudi Arabian Grand Prix,de_vries,Nyck De Vries,alphatauri,AlphaTauri,18.0,14.0,Finished,0.0,18.0,,0,0,0.07214854111405834
+2023,2,Saudi Arabian Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,8.0,15.0,Finished,0.0,9.0,,0,0,0.27244011581995264
+2023,2,Saudi Arabian Grand Prix,sargeant,Logan Sargeant,williams,Williams,20.0,16.0,Finished,0.0,20.0,,0,0,0.0625287356321839
+2023,2,Saudi Arabian Grand Prix,norris,Lando Norris,mclaren,McLaren,19.0,17.0,Finished,0.0,19.0,,0,0,0.27244011581995264
+2023,2,Saudi Arabian Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,14.0,18.0,Lapped,0.0,14.0,,0,0,0.07214854111405834
+2023,2,Saudi Arabian Grand Prix,albon,Alexander Albon,williams,Williams,17.0,19.0,Retired,0.0,17.0,,0,0,0.0625287356321839
+2023,2,Saudi Arabian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,5.0,20.0,Retired,0.0,6.0,,0,0,0.11536050156739812
+2023,3,Australian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,,1,1,0.5805011163483007
+2023,3,Australian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,3.0,2.0,Finished,18.0,3.0,,0,1,0.2763546798029557
+2023,3,Australian Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,4.0,3.0,Finished,15.0,4.0,,0,1,0.11536050156739812
+2023,3,Australian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,6.0,4.0,Finished,12.0,6.0,,0,0,0.11536050156739812
+2023,3,Australian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,20.0,5.0,Finished,11.0,20.0,,0,0,0.5805011163483007
+2023,3,Australian Grand Prix,norris,Lando Norris,mclaren,McLaren,13.0,6.0,Finished,8.0,13.0,,0,0,0.27244011581995264
+2023,3,Australian Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,10.0,7.0,Finished,6.0,10.0,,0,0,0.05719091673675357
+2023,3,Australian Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,16.0,8.0,Finished,4.0,16.0,,0,0,0.27244011581995264
+2023,3,Australian Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,17.0,9.0,Finished,2.0,17.0,,0,0,0.07214854111405834
+2023,3,Australian Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,12.0,10.0,Finished,1.0,12.0,,0,0,0.07214854111405834
+2023,3,Australian Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,19.0,11.0,Finished,0.0,19.0,,0,0,0.07214854111405834
+2023,3,Australian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,5.0,12.0,Finished,0.0,5.0,,0,0,0.41559444158517755
+2023,3,Australian Grand Prix,gasly,Pierre Gasly,alpine,Alpine,9.0,13.0,Retired,0.0,9.0,,0,0,0.0877742946708464
+2023,3,Australian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,11.0,14.0,Retired,0.0,11.0,,0,0,0.0877742946708464
+2023,3,Australian Grand Prix,de_vries,Nyck De Vries,alphatauri,AlphaTauri,15.0,15.0,Retired,0.0,15.0,,0,0,0.07214854111405834
+2023,3,Australian Grand Prix,sargeant,Logan Sargeant,williams,Williams,18.0,16.0,Retired,0.0,18.0,,0,0,0.0625287356321839
+2023,3,Australian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,14.0,17.0,Retired,0.0,14.0,,0,0,0.05719091673675357
+2023,3,Australian Grand Prix,russell,George Russell,mercedes,Mercedes,2.0,18.0,Retired,0.0,2.0,,0,0,0.2763546798029557
+2023,3,Australian Grand Prix,albon,Alexander Albon,williams,Williams,8.0,19.0,Retired,0.0,8.0,,0,0,0.0625287356321839
+2023,3,Australian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,7.0,20.0,Retired,0.0,7.0,,0,0,0.41559444158517755
+2023,4,Azerbaijan Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,3.0,1.0,Finished,25.0,3.0,,1,1,0.5805011163483007
+2023,4,Azerbaijan Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,2.0,Finished,18.0,2.0,,0,1,0.5805011163483007
+2023,4,Azerbaijan Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,3.0,Finished,15.0,1.0,,0,1,0.41559444158517755
+2023,4,Azerbaijan Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,6.0,4.0,Finished,12.0,6.0,,0,0,0.11536050156739812
+2023,4,Azerbaijan Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,4.0,5.0,Finished,10.0,4.0,,0,0,0.41559444158517755
+2023,4,Azerbaijan Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,5.0,6.0,Finished,8.0,5.0,,0,0,0.2763546798029557
+2023,4,Azerbaijan Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,9.0,7.0,Finished,6.0,9.0,,0,0,0.11536050156739812
+2023,4,Azerbaijan Grand Prix,russell,George Russell,mercedes,Mercedes,11.0,8.0,Finished,5.0,11.0,,0,0,0.2763546798029557
+2023,4,Azerbaijan Grand Prix,norris,Lando Norris,mclaren,McLaren,7.0,9.0,Finished,2.0,7.0,,0,0,0.27244011581995264
+2023,4,Azerbaijan Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,8.0,10.0,Finished,1.0,8.0,,0,0,0.07214854111405834
+2023,4,Azerbaijan Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,10.0,11.0,Finished,0.0,10.0,,0,0,0.27244011581995264
+2023,4,Azerbaijan Grand Prix,albon,Alexander Albon,williams,Williams,12.0,12.0,Finished,0.0,13.0,,0,0,0.0625287356321839
+2023,4,Azerbaijan Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,16.0,13.0,Finished,0.0,18.0,,0,0,0.05719091673675357
+2023,4,Azerbaijan Grand Prix,gasly,Pierre Gasly,alpine,Alpine,17.0,14.0,Finished,0.0,19.0,,0,0,0.0877742946708464
+2023,4,Azerbaijan Grand Prix,ocon,Esteban Ocon,alpine,Alpine,19.0,15.0,Finished,0.0,12.0,,0,0,0.0877742946708464
+2023,4,Azerbaijan Grand Prix,sargeant,Logan Sargeant,williams,Williams,14.0,16.0,Finished,0.0,15.0,,0,0,0.0625287356321839
+2023,4,Azerbaijan Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,20.0,17.0,Lapped,0.0,17.0,,0,0,0.05719091673675357
+2023,4,Azerbaijan Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,13.0,18.0,Lapped,0.0,14.0,,0,0,0.07214854111405834
+2023,4,Azerbaijan Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,15.0,19.0,Retired,0.0,16.0,,0,0,0.07214854111405834
+2023,4,Azerbaijan Grand Prix,de_vries,Nyck De Vries,alphatauri,AlphaTauri,18.0,20.0,Retired,0.0,20.0,,0,0,0.07214854111405834
+2023,5,Miami Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,9.0,1.0,Finished,26.0,9.0,,1,1,0.5805011163483007
+2023,5,Miami Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,1.0,2.0,Finished,18.0,1.0,,0,1,0.5805011163483007
+2023,5,Miami Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,2.0,3.0,Finished,15.0,2.0,,0,1,0.11536050156739812
+2023,5,Miami Grand Prix,russell,George Russell,mercedes,Mercedes,6.0,4.0,Finished,12.0,6.0,,0,0,0.2763546798029557
+2023,5,Miami Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,3.0,5.0,Finished,10.0,3.0,,0,0,0.41559444158517755
+2023,5,Miami Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,13.0,6.0,Finished,8.0,13.0,,0,0,0.2763546798029557
+2023,5,Miami Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,7.0,7.0,Finished,6.0,7.0,,0,0,0.41559444158517755
+2023,5,Miami Grand Prix,gasly,Pierre Gasly,alpine,Alpine,5.0,8.0,Finished,4.0,5.0,,0,0,0.0877742946708464
+2023,5,Miami Grand Prix,ocon,Esteban Ocon,alpine,Alpine,8.0,9.0,Finished,2.0,8.0,,0,0,0.0877742946708464
+2023,5,Miami Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,4.0,10.0,Finished,1.0,4.0,,0,0,0.05719091673675357
+2023,5,Miami Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,17.0,11.0,Finished,0.0,17.0,,0,0,0.07214854111405834
+2023,5,Miami Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,18.0,12.0,Finished,0.0,18.0,,0,0,0.11536050156739812
+2023,5,Miami Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,10.0,13.0,Finished,0.0,10.0,,0,0,0.07214854111405834
+2023,5,Miami Grand Prix,albon,Alexander Albon,williams,Williams,11.0,14.0,Finished,0.0,11.0,,0,0,0.0625287356321839
+2023,5,Miami Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,12.0,15.0,Finished,0.0,12.0,,0,0,0.05719091673675357
+2023,5,Miami Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,14.0,16.0,Finished,0.0,14.0,,0,0,0.07214854111405834
+2023,5,Miami Grand Prix,norris,Lando Norris,mclaren,McLaren,16.0,17.0,Finished,0.0,16.0,,0,0,0.27244011581995264
+2023,5,Miami Grand Prix,de_vries,Nyck De Vries,alphatauri,AlphaTauri,15.0,18.0,Finished,0.0,15.0,,0,0,0.07214854111405834
+2023,5,Miami Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,19.0,19.0,Lapped,0.0,19.0,,0,0,0.27244011581995264
+2023,5,Miami Grand Prix,sargeant,Logan Sargeant,williams,Williams,20.0,20.0,Lapped,0.0,20.0,,0,0,0.0625287356321839
+2023,6,Monaco Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,,1,1,0.5805011163483007
+2023,6,Monaco Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,2.0,2.0,Finished,18.0,2.0,,0,1,0.11536050156739812
+2023,6,Monaco Grand Prix,ocon,Esteban Ocon,alpine,Alpine,3.0,3.0,Finished,15.0,4.0,,0,1,0.0877742946708464
+2023,6,Monaco Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,5.0,4.0,Finished,13.0,6.0,,0,0,0.2763546798029557
+2023,6,Monaco Grand Prix,russell,George Russell,mercedes,Mercedes,8.0,5.0,Finished,10.0,8.0,,0,0,0.2763546798029557
+2023,6,Monaco Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,6.0,6.0,Finished,8.0,3.0,,0,0,0.41559444158517755
+2023,6,Monaco Grand Prix,gasly,Pierre Gasly,alpine,Alpine,7.0,7.0,Finished,6.0,7.0,,0,0,0.0877742946708464
+2023,6,Monaco Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,4.0,8.0,Finished,4.0,5.0,,0,0,0.41559444158517755
+2023,6,Monaco Grand Prix,norris,Lando Norris,mclaren,McLaren,10.0,9.0,Lapped,2.0,10.0,,0,0,0.27244011581995264
+2023,6,Monaco Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,11.0,10.0,Lapped,1.0,11.0,,0,0,0.27244011581995264
+2023,6,Monaco Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,15.0,11.0,Lapped,0.0,15.0,,0,0,0.07214854111405834
+2023,6,Monaco Grand Prix,de_vries,Nyck De Vries,alphatauri,AlphaTauri,12.0,12.0,Lapped,0.0,12.0,,0,0,0.07214854111405834
+2023,6,Monaco Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,19.0,13.0,Lapped,0.0,19.0,,0,0,0.07214854111405834
+2023,6,Monaco Grand Prix,albon,Alexander Albon,williams,Williams,13.0,14.0,Lapped,0.0,13.0,,0,0,0.0625287356321839
+2023,6,Monaco Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,9.0,15.0,Lapped,0.0,9.0,,0,0,0.07214854111405834
+2023,6,Monaco Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,20.0,16.0,Lapped,0.0,20.0,,0,0,0.5805011163483007
+2023,6,Monaco Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,18.0,17.0,Lapped,0.0,18.0,,0,0,0.05719091673675357
+2023,6,Monaco Grand Prix,sargeant,Logan Sargeant,williams,Williams,16.0,18.0,Lapped,0.0,16.0,,0,0,0.0625287356321839
+2023,6,Monaco Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,17.0,19.0,Retired,0.0,17.0,,0,0,0.05719091673675357
+2023,6,Monaco Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,14.0,20.0,Retired,0.0,14.0,,0,0,0.11536050156739812
+2023,7,Spanish Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,26.0,1.0,,1,1,0.5805011163483007
+2023,7,Spanish Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,4.0,2.0,Finished,18.0,5.0,,0,1,0.2763546798029557
+2023,7,Spanish Grand Prix,russell,George Russell,mercedes,Mercedes,12.0,3.0,Finished,15.0,12.0,,0,1,0.2763546798029557
+2023,7,Spanish Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,11.0,4.0,Finished,12.0,11.0,,0,0,0.5805011163483007
+2023,7,Spanish Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,2.0,5.0,Finished,10.0,2.0,,0,0,0.41559444158517755
+2023,7,Spanish Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,5.0,6.0,Finished,8.0,6.0,,0,0,0.11536050156739812
+2023,7,Spanish Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,8.0,7.0,Finished,6.0,9.0,,0,0,0.11536050156739812
+2023,7,Spanish Grand Prix,ocon,Esteban Ocon,alpine,Alpine,6.0,8.0,Finished,4.0,7.0,,0,0,0.0877742946708464
+2023,7,Spanish Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,13.0,9.0,Finished,2.0,13.0,,0,0,0.07214854111405834
+2023,7,Spanish Grand Prix,gasly,Pierre Gasly,alpine,Alpine,10.0,10.0,Finished,1.0,4.0,,0,0,0.0877742946708464
+2023,7,Spanish Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,19.0,11.0,Finished,0.0,19.0,,0,0,0.41559444158517755
+2023,7,Spanish Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,15.0,12.0,Finished,0.0,15.0,,0,0,0.07214854111405834
+2023,7,Spanish Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,9.0,13.0,Lapped,0.0,10.0,,0,0,0.27244011581995264
+2023,7,Spanish Grand Prix,de_vries,Nyck De Vries,alphatauri,AlphaTauri,14.0,14.0,Lapped,0.0,14.0,,0,0,0.07214854111405834
+2023,7,Spanish Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,7.0,15.0,Lapped,0.0,8.0,,0,0,0.05719091673675357
+2023,7,Spanish Grand Prix,albon,Alexander Albon,williams,Williams,18.0,16.0,Lapped,0.0,18.0,,0,0,0.0625287356321839
+2023,7,Spanish Grand Prix,norris,Lando Norris,mclaren,McLaren,3.0,17.0,Lapped,0.0,3.0,,0,0,0.27244011581995264
+2023,7,Spanish Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,17.0,18.0,Lapped,0.0,17.0,,0,0,0.05719091673675357
+2023,7,Spanish Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,16.0,19.0,Lapped,0.0,16.0,,0,0,0.07214854111405834
+2023,7,Spanish Grand Prix,sargeant,Logan Sargeant,williams,Williams,20.0,20.0,Lapped,0.0,20.0,,0,0,0.0625287356321839
+2023,8,Canadian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,,1,1,0.5805011163483007
+2023,8,Canadian Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,2.0,2.0,Finished,18.0,3.0,,0,1,0.11536050156739812
+2023,8,Canadian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,3.0,3.0,Finished,15.0,4.0,,0,1,0.2763546798029557
+2023,8,Canadian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,10.0,4.0,Finished,12.0,11.0,,0,0,0.41559444158517755
+2023,8,Canadian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,11.0,5.0,Finished,10.0,8.0,,0,0,0.41559444158517755
+2023,8,Canadian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,12.0,6.0,Finished,9.0,12.0,,0,0,0.5805011163483007
+2023,8,Canadian Grand Prix,albon,Alexander Albon,williams,Williams,9.0,7.0,Finished,6.0,10.0,,0,0,0.0625287356321839
+2023,8,Canadian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,6.0,8.0,Finished,4.0,6.0,,0,0,0.0877742946708464
+2023,8,Canadian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,16.0,9.0,Finished,2.0,13.0,,0,0,0.11536050156739812
+2023,8,Canadian Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,14.0,10.0,Finished,1.0,15.0,,0,0,0.07214854111405834
+2023,8,Canadian Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,8.0,11.0,Finished,0.0,9.0,,0,0,0.27244011581995264
+2023,8,Canadian Grand Prix,gasly,Pierre Gasly,alpine,Alpine,15.0,12.0,Finished,0.0,17.0,,0,0,0.0877742946708464
+2023,8,Canadian Grand Prix,norris,Lando Norris,mclaren,McLaren,7.0,13.0,Finished,0.0,7.0,,0,0,0.27244011581995264
+2023,8,Canadian Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,19.0,14.0,Finished,0.0,16.0,,0,0,0.07214854111405834
+2023,8,Canadian Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,5.0,15.0,Lapped,0.0,2.0,,0,0,0.05719091673675357
+2023,8,Canadian Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,20.0,16.0,Lapped,0.0,20.0,,0,0,0.07214854111405834
+2023,8,Canadian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,13.0,17.0,Lapped,0.0,14.0,,0,0,0.05719091673675357
+2023,8,Canadian Grand Prix,de_vries,Nyck De Vries,alphatauri,AlphaTauri,17.0,18.0,Lapped,0.0,18.0,,0,0,0.07214854111405834
+2023,8,Canadian Grand Prix,russell,George Russell,mercedes,Mercedes,4.0,19.0,Retired,0.0,5.0,,0,0,0.2763546798029557
+2023,8,Canadian Grand Prix,sargeant,Logan Sargeant,williams,Williams,18.0,20.0,Retired,0.0,19.0,,0,0,0.0625287356321839
+2023,9,Austrian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,26.0,1.0,,1,1,0.5805011163483007
+2023,9,Austrian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,2.0,2.0,Finished,18.0,2.0,,0,1,0.41559444158517755
+2023,9,Austrian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,15.0,3.0,Finished,15.0,15.0,,0,1,0.5805011163483007
+2023,9,Austrian Grand Prix,norris,Lando Norris,mclaren,McLaren,4.0,4.0,Finished,12.0,4.0,,0,0,0.27244011581995264
+2023,9,Austrian Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,7.0,5.0,Finished,10.0,7.0,,0,0,0.11536050156739812
+2023,9,Austrian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,3.0,6.0,Finished,8.0,3.0,,0,0,0.41559444158517755
+2023,9,Austrian Grand Prix,russell,George Russell,mercedes,Mercedes,11.0,7.0,Finished,6.0,11.0,,0,0,0.2763546798029557
+2023,9,Austrian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,5.0,8.0,Finished,4.0,5.0,,0,0,0.2763546798029557
+2023,9,Austrian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,6.0,9.0,Finished,2.0,6.0,,0,0,0.11536050156739812
+2023,9,Austrian Grand Prix,gasly,Pierre Gasly,alpine,Alpine,9.0,10.0,Finished,1.0,9.0,,0,0,0.0877742946708464
+2023,9,Austrian Grand Prix,albon,Alexander Albon,williams,Williams,10.0,11.0,Finished,0.0,10.0,,0,0,0.0625287356321839
+2023,9,Austrian Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,17.0,12.0,Lapped,0.0,17.0,,0,0,0.07214854111405834
+2023,9,Austrian Grand Prix,sargeant,Logan Sargeant,williams,Williams,18.0,13.0,Lapped,0.0,18.0,,0,0,0.0625287356321839
+2023,9,Austrian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,12.0,14.0,Lapped,0.0,12.0,,0,0,0.0877742946708464
+2023,9,Austrian Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,14.0,15.0,Lapped,0.0,14.0,,0,0,0.07214854111405834
+2023,9,Austrian Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,13.0,16.0,Lapped,0.0,13.0,,0,0,0.27244011581995264
+2023,9,Austrian Grand Prix,de_vries,Nyck De Vries,alphatauri,AlphaTauri,20.0,17.0,Lapped,0.0,20.0,,0,0,0.07214854111405834
+2023,9,Austrian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,19.0,18.0,Lapped,0.0,19.0,,0,0,0.05719091673675357
+2023,9,Austrian Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,16.0,19.0,Lapped,0.0,16.0,,0,0,0.07214854111405834
+2023,9,Austrian Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,8.0,20.0,Retired,0.0,8.0,,0,0,0.05719091673675357
+2023,10,British Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,26.0,1.0,,1,1,0.5805011163483007
+2023,10,British Grand Prix,norris,Lando Norris,mclaren,McLaren,2.0,2.0,Finished,18.0,2.0,,0,1,0.27244011581995264
+2023,10,British Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,7.0,3.0,Finished,15.0,7.0,,0,1,0.2763546798029557
+2023,10,British Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,3.0,4.0,Finished,12.0,3.0,,0,0,0.27244011581995264
+2023,10,British Grand Prix,russell,George Russell,mercedes,Mercedes,6.0,5.0,Finished,10.0,6.0,,0,0,0.2763546798029557
+2023,10,British Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,15.0,6.0,Finished,8.0,15.0,,0,0,0.5805011163483007
+2023,10,British Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,9.0,7.0,Finished,6.0,9.0,,0,0,0.11536050156739812
+2023,10,British Grand Prix,albon,Alexander Albon,williams,Williams,8.0,8.0,Finished,4.0,8.0,,0,0,0.0625287356321839
+2023,10,British Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,4.0,9.0,Finished,2.0,4.0,,0,0,0.41559444158517755
+2023,10,British Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,5.0,10.0,Finished,1.0,5.0,,0,0,0.41559444158517755
+2023,10,British Grand Prix,sargeant,Logan Sargeant,williams,Williams,14.0,11.0,Finished,0.0,14.0,,0,0,0.0625287356321839
+2023,10,British Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,20.0,12.0,Finished,0.0,15.0,,0,0,0.07214854111405834
+2023,10,British Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,11.0,13.0,Finished,0.0,11.0,,0,0,0.05719091673675357
+2023,10,British Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,12.0,14.0,Finished,0.0,12.0,,0,0,0.11536050156739812
+2023,10,British Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,17.0,15.0,Finished,0.0,17.0,,0,0,0.07214854111405834
+2023,10,British Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,16.0,16.0,Finished,0.0,16.0,,0,0,0.07214854111405834
+2023,10,British Grand Prix,de_vries,Nyck De Vries,alphatauri,AlphaTauri,18.0,17.0,Finished,0.0,18.0,,0,0,0.07214854111405834
+2023,10,British Grand Prix,gasly,Pierre Gasly,alpine,Alpine,10.0,18.0,Retired,0.0,10.0,,0,0,0.0877742946708464
+2023,10,British Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,19.0,19.0,Retired,0.0,19.0,,0,0,0.05719091673675357
+2023,10,British Grand Prix,ocon,Esteban Ocon,alpine,Alpine,13.0,20.0,Retired,0.0,13.0,,0,0,0.0877742946708464
+2023,11,Hungarian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,26.0,2.0,,1,1,0.5805011163483007
+2023,11,Hungarian Grand Prix,norris,Lando Norris,mclaren,McLaren,3.0,2.0,Finished,18.0,3.0,,0,1,0.27244011581995264
+2023,11,Hungarian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,9.0,3.0,Finished,15.0,9.0,,0,1,0.5805011163483007
+2023,11,Hungarian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,1.0,4.0,Finished,12.0,1.0,,0,0,0.2763546798029557
+2023,11,Hungarian Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,4.0,5.0,Finished,10.0,4.0,,0,0,0.27244011581995264
+2023,11,Hungarian Grand Prix,russell,George Russell,mercedes,Mercedes,18.0,6.0,Finished,8.0,18.0,,0,0,0.2763546798029557
+2023,11,Hungarian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,6.0,7.0,Finished,6.0,6.0,,0,0,0.41559444158517755
+2023,11,Hungarian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,11.0,8.0,Finished,4.0,11.0,,0,0,0.41559444158517755
+2023,11,Hungarian Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,8.0,9.0,Finished,2.0,8.0,,0,0,0.11536050156739812
+2023,11,Hungarian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,14.0,10.0,Lapped,1.0,14.0,,0,0,0.11536050156739812
+2023,11,Hungarian Grand Prix,albon,Alexander Albon,williams,Williams,16.0,11.0,Lapped,0.0,16.0,,0,0,0.0625287356321839
+2023,11,Hungarian Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,7.0,12.0,Lapped,0.0,7.0,,0,0,0.07214854111405834
+2023,11,Hungarian Grand Prix,ricciardo,Daniel Ricciardo,alphatauri,AlphaTauri,13.0,13.0,Lapped,0.0,13.0,,0,0,0.07214854111405834
+2023,11,Hungarian Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,10.0,14.0,Lapped,0.0,10.0,,0,0,0.05719091673675357
+2023,11,Hungarian Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,17.0,15.0,Lapped,0.0,17.0,,0,0,0.07214854111405834
+2023,11,Hungarian Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,5.0,16.0,Lapped,0.0,5.0,,0,0,0.07214854111405834
+2023,11,Hungarian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,19.0,17.0,Lapped,0.0,19.0,,0,0,0.05719091673675357
+2023,11,Hungarian Grand Prix,sargeant,Logan Sargeant,williams,Williams,20.0,18.0,Retired,0.0,20.0,,0,0,0.0625287356321839
+2023,11,Hungarian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,12.0,19.0,Retired,0.0,12.0,,0,0,0.0877742946708464
+2023,11,Hungarian Grand Prix,gasly,Pierre Gasly,alpine,Alpine,15.0,20.0,Retired,0.0,15.0,,0,0,0.0877742946708464
+2023,12,Belgian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,6.0,1.0,Finished,25.0,1.0,,1,1,0.5805011163483007
+2023,12,Belgian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,2.0,2.0,Finished,18.0,3.0,,0,1,0.5805011163483007
+2023,12,Belgian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,3.0,Finished,15.0,2.0,,0,1,0.41559444158517755
+2023,12,Belgian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,3.0,4.0,Finished,13.0,4.0,,0,0,0.2763546798029557
+2023,12,Belgian Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,9.0,5.0,Finished,10.0,9.0,,0,0,0.11536050156739812
+2023,12,Belgian Grand Prix,russell,George Russell,mercedes,Mercedes,8.0,6.0,Finished,8.0,8.0,,0,0,0.2763546798029557
+2023,12,Belgian Grand Prix,norris,Lando Norris,mclaren,McLaren,7.0,7.0,Finished,6.0,7.0,,0,0,0.27244011581995264
+2023,12,Belgian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,14.0,8.0,Finished,4.0,15.0,,0,0,0.0877742946708464
+2023,12,Belgian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,10.0,9.0,Finished,2.0,10.0,,0,0,0.11536050156739812
+2023,12,Belgian Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,11.0,10.0,Finished,1.0,11.0,,0,0,0.07214854111405834
+2023,12,Belgian Grand Prix,gasly,Pierre Gasly,alpine,Alpine,12.0,11.0,Finished,0.0,12.0,,0,0,0.0877742946708464
+2023,12,Belgian Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,13.0,12.0,Finished,0.0,14.0,,0,0,0.07214854111405834
+2023,12,Belgian Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,17.0,13.0,Finished,0.0,17.0,,0,0,0.07214854111405834
+2023,12,Belgian Grand Prix,albon,Alexander Albon,williams,Williams,15.0,14.0,Finished,0.0,16.0,,0,0,0.0625287356321839
+2023,12,Belgian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,16.0,15.0,Finished,0.0,13.0,,0,0,0.05719091673675357
+2023,12,Belgian Grand Prix,ricciardo,Daniel Ricciardo,alphatauri,AlphaTauri,19.0,16.0,Finished,0.0,19.0,,0,0,0.07214854111405834
+2023,12,Belgian Grand Prix,sargeant,Logan Sargeant,williams,Williams,18.0,17.0,Finished,0.0,18.0,,0,0,0.0625287356321839
+2023,12,Belgian Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,20.0,18.0,Finished,0.0,20.0,,0,0,0.05719091673675357
+2023,12,Belgian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,4.0,19.0,Retired,0.0,5.0,,0,0,0.41559444158517755
+2023,12,Belgian Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,5.0,20.0,Retired,0.0,6.0,,0,0,0.27244011581995264
+2023,13,Dutch Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,,1,1,0.5805011163483007
+2023,13,Dutch Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,5.0,2.0,Finished,19.0,5.0,,0,1,0.11536050156739812
+2023,13,Dutch Grand Prix,gasly,Pierre Gasly,alpine,Alpine,12.0,3.0,Finished,15.0,12.0,,0,1,0.0877742946708464
+2023,13,Dutch Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,7.0,4.0,Finished,12.0,7.0,,0,0,0.5805011163483007
+2023,13,Dutch Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,6.0,5.0,Finished,10.0,6.0,,0,0,0.41559444158517755
+2023,13,Dutch Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,13.0,6.0,Finished,8.0,13.0,,0,0,0.2763546798029557
+2023,13,Dutch Grand Prix,norris,Lando Norris,mclaren,McLaren,2.0,7.0,Finished,6.0,2.0,,0,0,0.27244011581995264
+2023,13,Dutch Grand Prix,albon,Alexander Albon,williams,Williams,4.0,8.0,Finished,4.0,4.0,,0,0,0.0625287356321839
+2023,13,Dutch Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,8.0,9.0,Finished,2.0,8.0,,0,0,0.27244011581995264
+2023,13,Dutch Grand Prix,ocon,Esteban Ocon,alpine,Alpine,16.0,10.0,Finished,1.0,17.0,,0,0,0.0877742946708464
+2023,13,Dutch Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,11.0,11.0,Finished,0.0,11.0,,0,0,0.11536050156739812
+2023,13,Dutch Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,14.0,12.0,Finished,0.0,15.0,,0,0,0.05719091673675357
+2023,13,Dutch Grand Prix,lawson,Liam Lawson,alphatauri,AlphaTauri,19.0,13.0,Finished,0.0,20.0,,0,0,0.07214854111405834
+2023,13,Dutch Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,18.0,14.0,Finished,0.0,19.0,,0,0,0.07214854111405834
+2023,13,Dutch Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,17.0,15.0,Finished,0.0,14.0,,0,0,0.07214854111405834
+2023,13,Dutch Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,0.0,16.0,Finished,0.0,18.0,,0,0,0.05719091673675357
+2023,13,Dutch Grand Prix,russell,George Russell,mercedes,Mercedes,3.0,17.0,Finished,0.0,3.0,,0,0,0.2763546798029557
+2023,13,Dutch Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,15.0,18.0,Accident,0.0,16.0,,0,0,0.07214854111405834
+2023,13,Dutch Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,9.0,19.0,Undertray,0.0,9.0,,0,0,0.41559444158517755
+2023,13,Dutch Grand Prix,sargeant,Logan Sargeant,williams,Williams,10.0,20.0,Accident,0.0,10.0,,0,0,0.0625287356321839
+2023,14,Italian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,25.0,2.0,,1,1,0.5805011163483007
+2023,14,Italian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,5.0,2.0,Finished,18.0,5.0,,0,1,0.5805011163483007
+2023,14,Italian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,1.0,3.0,Finished,15.0,1.0,,0,1,0.41559444158517755
+2023,14,Italian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,3.0,4.0,Finished,12.0,3.0,,0,0,0.41559444158517755
+2023,14,Italian Grand Prix,russell,George Russell,mercedes,Mercedes,4.0,5.0,Finished,10.0,4.0,,0,0,0.2763546798029557
+2023,14,Italian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,8.0,6.0,Finished,8.0,8.0,,0,0,0.2763546798029557
+2023,14,Italian Grand Prix,albon,Alexander Albon,williams,Williams,6.0,7.0,Finished,6.0,6.0,,0,0,0.0625287356321839
+2023,14,Italian Grand Prix,norris,Lando Norris,mclaren,McLaren,9.0,8.0,Finished,4.0,9.0,,0,0,0.27244011581995264
+2023,14,Italian Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,10.0,9.0,Finished,2.0,10.0,,0,0,0.11536050156739812
+2023,14,Italian Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,14.0,10.0,Finished,1.0,14.0,,0,0,0.07214854111405834
+2023,14,Italian Grand Prix,lawson,Liam Lawson,alphatauri,AlphaTauri,12.0,11.0,Finished,0.0,12.0,,0,0,0.07214854111405834
+2023,14,Italian Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,7.0,12.0,Finished,0.0,7.0,,0,0,0.27244011581995264
+2023,14,Italian Grand Prix,sargeant,Logan Sargeant,williams,Williams,15.0,13.0,Finished,0.0,15.0,,0,0,0.0625287356321839
+2023,14,Italian Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,16.0,14.0,Finished,0.0,16.0,,0,0,0.07214854111405834
+2023,14,Italian Grand Prix,gasly,Pierre Gasly,alpine,Alpine,17.0,15.0,Finished,0.0,17.0,,0,0,0.0877742946708464
+2023,14,Italian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,20.0,16.0,Finished,0.0,20.0,,0,0,0.11536050156739812
+2023,14,Italian Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,13.0,17.0,Lapped,0.0,13.0,,0,0,0.05719091673675357
+2023,14,Italian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,19.0,18.0,Lapped,0.0,19.0,,0,0,0.05719091673675357
+2023,14,Italian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,18.0,19.0,Retired,0.0,18.0,,0,0,0.0877742946708464
+2023,14,Italian Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,11.0,20.0,Did not start,0.0,11.0,,0,0,0.07214854111405834
+2023,15,Singapore Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,1.0,1.0,Finished,25.0,1.0,,1,1,0.41559444158517755
+2023,15,Singapore Grand Prix,norris,Lando Norris,mclaren,McLaren,4.0,2.0,Finished,18.0,4.0,,0,1,0.27244011581995264
+2023,15,Singapore Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,5.0,3.0,Finished,16.0,5.0,,0,1,0.2763546798029557
+2023,15,Singapore Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,3.0,4.0,Finished,12.0,3.0,,0,0,0.41559444158517755
+2023,15,Singapore Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,11.0,5.0,Finished,10.0,11.0,,0,0,0.5805011163483007
+2023,15,Singapore Grand Prix,gasly,Pierre Gasly,alpine,Alpine,12.0,6.0,Finished,8.0,12.0,,0,0,0.0877742946708464
+2023,15,Singapore Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,17.0,7.0,Finished,6.0,17.0,,0,0,0.27244011581995264
+2023,15,Singapore Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,13.0,8.0,Finished,4.0,13.0,,0,0,0.5805011163483007
+2023,15,Singapore Grand Prix,lawson,Liam Lawson,alphatauri,AlphaTauri,10.0,9.0,Finished,2.0,10.0,,0,0,0.07214854111405834
+2023,15,Singapore Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,6.0,10.0,Finished,1.0,6.0,,0,0,0.05719091673675357
+2023,15,Singapore Grand Prix,albon,Alexander Albon,williams,Williams,14.0,11.0,Finished,0.0,14.0,,0,0,0.0625287356321839
+2023,15,Singapore Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,19.0,12.0,Finished,0.0,19.0,,0,0,0.07214854111405834
+2023,15,Singapore Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,9.0,13.0,Finished,0.0,9.0,,0,0,0.05719091673675357
+2023,15,Singapore Grand Prix,sargeant,Logan Sargeant,williams,Williams,18.0,14.0,Finished,0.0,18.0,,0,0,0.0625287356321839
+2023,15,Singapore Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,7.0,15.0,Finished,0.0,7.0,,0,0,0.11536050156739812
+2023,15,Singapore Grand Prix,russell,George Russell,mercedes,Mercedes,2.0,16.0,Retired,0.0,2.0,,0,0,0.2763546798029557
+2023,15,Singapore Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,16.0,17.0,Retired,0.0,16.0,,0,0,0.07214854111405834
+2023,15,Singapore Grand Prix,ocon,Esteban Ocon,alpine,Alpine,8.0,18.0,Retired,0.0,8.0,,0,0,0.0877742946708464
+2023,15,Singapore Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,15.0,19.0,Retired,0.0,15.0,,0,0,0.07214854111405834
+2023,15,Singapore Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,,,Withdrew,0.0,20.0,,0,0,0.11536050156739812
+2023,16,Japanese Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,26.0,1.0,,1,1,0.5805011163483007
+2023,16,Japanese Grand Prix,norris,Lando Norris,mclaren,McLaren,3.0,2.0,Finished,18.0,3.0,,0,1,0.27244011581995264
+2023,16,Japanese Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,2.0,3.0,Finished,15.0,2.0,,0,1,0.27244011581995264
+2023,16,Japanese Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,4.0,4.0,Finished,12.0,4.0,,0,0,0.41559444158517755
+2023,16,Japanese Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,7.0,5.0,Finished,10.0,7.0,,0,0,0.2763546798029557
+2023,16,Japanese Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,6.0,6.0,Finished,8.0,6.0,,0,0,0.41559444158517755
+2023,16,Japanese Grand Prix,russell,George Russell,mercedes,Mercedes,8.0,7.0,Finished,6.0,8.0,,0,0,0.2763546798029557
+2023,16,Japanese Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,10.0,8.0,Finished,4.0,10.0,,0,0,0.11536050156739812
+2023,16,Japanese Grand Prix,ocon,Esteban Ocon,alpine,Alpine,14.0,9.0,Finished,2.0,14.0,,0,0,0.0877742946708464
+2023,16,Japanese Grand Prix,gasly,Pierre Gasly,alpine,Alpine,12.0,10.0,Finished,1.0,12.0,,0,0,0.0877742946708464
+2023,16,Japanese Grand Prix,lawson,Liam Lawson,alphatauri,AlphaTauri,11.0,11.0,Lapped,0.0,11.0,,0,0,0.07214854111405834
+2023,16,Japanese Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,9.0,12.0,Lapped,0.0,9.0,,0,0,0.07214854111405834
+2023,16,Japanese Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,19.0,13.0,Lapped,0.0,19.0,,0,0,0.07214854111405834
+2023,16,Japanese Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,18.0,14.0,Lapped,0.0,18.0,,0,0,0.05719091673675357
+2023,16,Japanese Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,15.0,15.0,Lapped,0.0,15.0,,0,0,0.05719091673675357
+2023,16,Japanese Grand Prix,albon,Alexander Albon,williams,Williams,13.0,16.0,Retired,0.0,13.0,,0,0,0.0625287356321839
+2023,16,Japanese Grand Prix,sargeant,Logan Sargeant,williams,Williams,20.0,17.0,Retired,0.0,20.0,,0,0,0.0625287356321839
+2023,16,Japanese Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,17.0,18.0,Retired,0.0,17.0,,0,0,0.11536050156739812
+2023,16,Japanese Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,5.0,19.0,Retired,0.0,5.0,,0,0,0.5805011163483007
+2023,16,Japanese Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,16.0,20.0,Retired,0.0,16.0,,0,0,0.07214854111405834
+2023,17,Qatar Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,26.0,1.0,,1,1,0.5805011163483007
+2023,17,Qatar Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,6.0,2.0,Finished,18.0,6.0,,0,1,0.27244011581995264
+2023,17,Qatar Grand Prix,norris,Lando Norris,mclaren,McLaren,10.0,3.0,Finished,15.0,10.0,,0,1,0.27244011581995264
+2023,17,Qatar Grand Prix,russell,George Russell,mercedes,Mercedes,2.0,4.0,Finished,12.0,2.0,,0,0,0.2763546798029557
+2023,17,Qatar Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,5.0,5.0,Finished,10.0,5.0,,0,0,0.41559444158517755
+2023,17,Qatar Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,4.0,6.0,Finished,8.0,4.0,,0,0,0.11536050156739812
+2023,17,Qatar Grand Prix,ocon,Esteban Ocon,alpine,Alpine,8.0,7.0,Finished,6.0,8.0,,0,0,0.0877742946708464
+2023,17,Qatar Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,9.0,8.0,Finished,4.0,9.0,,0,0,0.07214854111405834
+2023,17,Qatar Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,19.0,9.0,Finished,2.0,20.0,,0,0,0.07214854111405834
+2023,17,Qatar Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,20.0,10.0,Finished,1.0,13.0,,0,0,0.5805011163483007
+2023,17,Qatar Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,16.0,11.0,Finished,0.0,17.0,,0,0,0.11536050156739812
+2023,17,Qatar Grand Prix,gasly,Pierre Gasly,alpine,Alpine,7.0,12.0,Finished,0.0,7.0,,0,0,0.0877742946708464
+2023,17,Qatar Grand Prix,albon,Alexander Albon,williams,Williams,13.0,13.0,Finished,0.0,14.0,,0,0,0.0625287356321839
+2023,17,Qatar Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,18.0,14.0,Lapped,0.0,19.0,,0,0,0.05719091673675357
+2023,17,Qatar Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,11.0,15.0,Lapped,0.0,11.0,,0,0,0.07214854111405834
+2023,17,Qatar Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,14.0,16.0,Lapped,0.0,15.0,,0,0,0.05719091673675357
+2023,17,Qatar Grand Prix,lawson,Liam Lawson,alphatauri,AlphaTauri,17.0,17.0,Lapped,0.0,18.0,,0,0,0.07214854111405834
+2023,17,Qatar Grand Prix,sargeant,Logan Sargeant,williams,Williams,15.0,18.0,Retired,0.0,16.0,,0,0,0.0625287356321839
+2023,17,Qatar Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,3.0,19.0,Retired,0.0,3.0,,0,0,0.2763546798029557
+2023,17,Qatar Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,12.0,20.0,Did not start,0.0,12.0,,0,0,0.41559444158517755
+2023,18,United States Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,6.0,1.0,Finished,25.0,6.0,,1,1,0.5805011163483007
+2023,18,United States Grand Prix,norris,Lando Norris,mclaren,McLaren,2.0,2.0,Finished,18.0,2.0,,0,1,0.27244011581995264
+2023,18,United States Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,4.0,3.0,Finished,15.0,4.0,,0,1,0.41559444158517755
+2023,18,United States Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,9.0,4.0,Finished,12.0,9.0,,0,0,0.5805011163483007
+2023,18,United States Grand Prix,russell,George Russell,mercedes,Mercedes,5.0,5.0,Finished,10.0,5.0,,0,0,0.2763546798029557
+2023,18,United States Grand Prix,gasly,Pierre Gasly,alpine,Alpine,7.0,6.0,Finished,8.0,7.0,,0,0,0.0877742946708464
+2023,18,United States Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,20.0,7.0,Finished,6.0,19.0,,0,0,0.11536050156739812
+2023,18,United States Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,11.0,8.0,Finished,5.0,11.0,,0,0,0.07214854111405834
+2023,18,United States Grand Prix,albon,Alexander Albon,williams,Williams,15.0,9.0,Finished,2.0,18.0,,0,0,0.0625287356321839
+2023,18,United States Grand Prix,sargeant,Logan Sargeant,williams,Williams,16.0,10.0,Finished,1.0,20.0,,0,0,0.0625287356321839
+2023,18,United States Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,18.0,11.0,Finished,0.0,16.0,,0,0,0.05719091673675357
+2023,18,United States Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,13.0,12.0,Finished,0.0,13.0,,0,0,0.07214854111405834
+2023,18,United States Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,12.0,13.0,Lapped,0.0,12.0,,0,0,0.07214854111405834
+2023,18,United States Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,17.0,14.0,Lapped,0.0,14.0,,0,0,0.05719091673675357
+2023,18,United States Grand Prix,ricciardo,Daniel Ricciardo,alphatauri,AlphaTauri,14.0,15.0,Lapped,0.0,15.0,,0,0,0.07214854111405834
+2023,18,United States Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,19.0,16.0,Retired,0.0,17.0,,0,0,0.11536050156739812
+2023,18,United States Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,10.0,17.0,Retired,0.0,10.0,,0,0,0.27244011581995264
+2023,18,United States Grand Prix,ocon,Esteban Ocon,alpine,Alpine,8.0,18.0,Retired,0.0,8.0,,0,0,0.0877742946708464
+2023,18,United States Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,3.0,19.0,Disqualified,0.0,3.0,,0,0,0.2763546798029557
+2023,18,United States Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,20.0,Disqualified,0.0,1.0,,0,0,0.41559444158517755
+2023,19,Mexico City Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,3.0,1.0,Finished,25.0,3.0,,1,1,0.5805011163483007
+2023,19,Mexico City Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,6.0,2.0,Finished,19.0,6.0,,0,1,0.2763546798029557
+2023,19,Mexico City Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,3.0,Finished,15.0,1.0,,0,1,0.41559444158517755
+2023,19,Mexico City Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,2.0,4.0,Finished,12.0,2.0,,0,0,0.41559444158517755
+2023,19,Mexico City Grand Prix,norris,Lando Norris,mclaren,McLaren,17.0,5.0,Finished,10.0,19.0,,0,0,0.27244011581995264
+2023,19,Mexico City Grand Prix,russell,George Russell,mercedes,Mercedes,8.0,6.0,Finished,8.0,8.0,,0,0,0.2763546798029557
+2023,19,Mexico City Grand Prix,ricciardo,Daniel Ricciardo,alphatauri,AlphaTauri,4.0,7.0,Finished,6.0,4.0,,0,0,0.07214854111405834
+2023,19,Mexico City Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,7.0,8.0,Finished,4.0,7.0,,0,0,0.27244011581995264
+2023,19,Mexico City Grand Prix,albon,Alexander Albon,williams,Williams,14.0,9.0,Finished,2.0,14.0,,0,0,0.0625287356321839
+2023,19,Mexico City Grand Prix,ocon,Esteban Ocon,alpine,Alpine,15.0,10.0,Finished,1.0,16.0,,0,0,0.0877742946708464
+2023,19,Mexico City Grand Prix,gasly,Pierre Gasly,alpine,Alpine,11.0,11.0,Finished,0.0,11.0,,0,0,0.0877742946708464
+2023,19,Mexico City Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,18.0,12.0,Finished,0.0,15.0,,0,0,0.07214854111405834
+2023,19,Mexico City Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,12.0,13.0,Finished,0.0,12.0,,0,0,0.05719091673675357
+2023,19,Mexico City Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,10.0,14.0,Finished,0.0,10.0,,0,0,0.07214854111405834
+2023,19,Mexico City Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,9.0,15.0,Finished,0.0,9.0,,0,0,0.07214854111405834
+2023,19,Mexico City Grand Prix,sargeant,Logan Sargeant,williams,Williams,19.0,16.0,Retired,0.0,20.0,,0,0,0.0625287356321839
+2023,19,Mexico City Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,0.0,17.0,Collision damage,0.0,18.0,,0,0,0.11536050156739812
+2023,19,Mexico City Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,13.0,18.0,Withdrew,0.0,13.0,,0,0,0.11536050156739812
+2023,19,Mexico City Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,16.0,19.0,Accident,0.0,17.0,,0,0,0.05719091673675357
+2023,19,Mexico City Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,5.0,20.0,Collision damage,0.0,5.0,,0,0,0.5805011163483007
+2023,20,São Paulo Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,,1,1,0.5805011163483007
+2023,20,São Paulo Grand Prix,norris,Lando Norris,mclaren,McLaren,6.0,2.0,Finished,19.0,7.0,,0,1,0.27244011581995264
+2023,20,São Paulo Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,4.0,3.0,Finished,15.0,4.0,,0,1,0.11536050156739812
+2023,20,São Paulo Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,9.0,4.0,Finished,12.0,9.0,,0,0,0.5805011163483007
+2023,20,São Paulo Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,3.0,5.0,Finished,10.0,3.0,,0,0,0.11536050156739812
+2023,20,São Paulo Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,7.0,6.0,Finished,8.0,8.0,,0,0,0.41559444158517755
+2023,20,São Paulo Grand Prix,gasly,Pierre Gasly,alpine,Alpine,15.0,7.0,Finished,6.0,13.0,,0,0,0.0877742946708464
+2023,20,São Paulo Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,5.0,8.0,Finished,4.0,5.0,,0,0,0.2763546798029557
+2023,20,São Paulo Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,16.0,9.0,Finished,2.0,16.0,,0,0,0.07214854111405834
+2023,20,São Paulo Grand Prix,ocon,Esteban Ocon,alpine,Alpine,14.0,10.0,Lapped,1.0,12.0,,0,0,0.0877742946708464
+2023,20,São Paulo Grand Prix,sargeant,Logan Sargeant,williams,Williams,19.0,11.0,Lapped,0.0,19.0,,0,0,0.0625287356321839
+2023,20,São Paulo Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,11.0,12.0,Lapped,0.0,11.0,,0,0,0.05719091673675357
+2023,20,São Paulo Grand Prix,ricciardo,Daniel Ricciardo,alphatauri,AlphaTauri,17.0,13.0,Lapped,0.0,17.0,,0,0,0.07214854111405834
+2023,20,São Paulo Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,10.0,14.0,Lapped,0.0,10.0,,0,0,0.27244011581995264
+2023,20,São Paulo Grand Prix,russell,George Russell,mercedes,Mercedes,8.0,15.0,Retired,0.0,6.0,,0,0,0.2763546798029557
+2023,20,São Paulo Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,18.0,16.0,Retired,0.0,18.0,,0,0,0.07214854111405834
+2023,20,São Paulo Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,20.0,17.0,Retired,0.0,20.0,,0,0,0.07214854111405834
+2023,20,São Paulo Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,12.0,18.0,Retired,0.0,14.0,,0,0,0.05719091673675357
+2023,20,São Paulo Grand Prix,albon,Alexander Albon,williams,Williams,13.0,19.0,Retired,0.0,15.0,,0,0,0.0625287356321839
+2023,20,São Paulo Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,2.0,20.0,Did not start,0.0,2.0,,0,0,0.41559444158517755
+2023,21,Las Vegas Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,25.0,3.0,,1,1,0.5805011163483007
+2023,21,Las Vegas Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,2.0,Finished,18.0,1.0,,0,1,0.41559444158517755
+2023,21,Las Vegas Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,11.0,3.0,Finished,15.0,12.0,,0,1,0.5805011163483007
+2023,21,Las Vegas Grand Prix,ocon,Esteban Ocon,alpine,Alpine,16.0,4.0,Finished,12.0,17.0,,0,0,0.0877742946708464
+2023,21,Las Vegas Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,19.0,5.0,Finished,10.0,14.0,,0,0,0.11536050156739812
+2023,21,Las Vegas Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,12.0,6.0,Finished,8.0,2.0,,0,0,0.41559444158517755
+2023,21,Las Vegas Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,10.0,7.0,Finished,6.0,11.0,,0,0,0.2763546798029557
+2023,21,Las Vegas Grand Prix,russell,George Russell,mercedes,Mercedes,3.0,8.0,Finished,4.0,4.0,,0,0,0.2763546798029557
+2023,21,Las Vegas Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,9.0,9.0,Finished,2.0,10.0,,0,0,0.11536050156739812
+2023,21,Las Vegas Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,18.0,10.0,Finished,2.0,19.0,,0,0,0.27244011581995264
+2023,21,Las Vegas Grand Prix,gasly,Pierre Gasly,alpine,Alpine,4.0,11.0,Finished,0.0,5.0,,0,0,0.0877742946708464
+2023,21,Las Vegas Grand Prix,albon,Alexander Albon,williams,Williams,5.0,12.0,Finished,0.0,6.0,,0,0,0.0625287356321839
+2023,21,Las Vegas Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,8.0,13.0,Finished,0.0,9.0,,0,0,0.05719091673675357
+2023,21,Las Vegas Grand Prix,ricciardo,Daniel Ricciardo,alphatauri,AlphaTauri,14.0,14.0,Finished,0.0,15.0,,0,0,0.07214854111405834
+2023,21,Las Vegas Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,17.0,15.0,Finished,0.0,18.0,,0,0,0.07214854111405834
+2023,21,Las Vegas Grand Prix,sargeant,Logan Sargeant,williams,Williams,6.0,16.0,Finished,0.0,7.0,,0,0,0.0625287356321839
+2023,21,Las Vegas Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,7.0,17.0,Finished,0.0,8.0,,0,0,0.07214854111405834
+2023,21,Las Vegas Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,20.0,18.0,Retired,0.0,20.0,,0,0,0.07214854111405834
+2023,21,Las Vegas Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,13.0,19.0,Retired,0.0,13.0,,0,0,0.05719091673675357
+2023,21,Las Vegas Grand Prix,norris,Lando Norris,mclaren,McLaren,15.0,20.0,Retired,0.0,16.0,,0,0,0.27244011581995264
+2023,22,Abu Dhabi Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,26.0,1.0,,1,1,0.5805011163483007
+2023,22,Abu Dhabi Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,2.0,2.0,Finished,18.0,2.0,,0,1,0.41559444158517755
+2023,22,Abu Dhabi Grand Prix,russell,George Russell,mercedes,Mercedes,4.0,3.0,Finished,15.0,4.0,,0,1,0.2763546798029557
+2023,22,Abu Dhabi Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,9.0,4.0,Finished,12.0,9.0,,0,0,0.5805011163483007
+2023,22,Abu Dhabi Grand Prix,norris,Lando Norris,mclaren,McLaren,5.0,5.0,Finished,10.0,5.0,,0,0,0.27244011581995264
+2023,22,Abu Dhabi Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,3.0,6.0,Finished,8.0,3.0,,0,0,0.27244011581995264
+2023,22,Abu Dhabi Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,7.0,7.0,Finished,6.0,7.0,,0,0,0.11536050156739812
+2023,22,Abu Dhabi Grand Prix,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,6.0,8.0,Finished,4.0,6.0,,0,0,0.07214854111405834
+2023,22,Abu Dhabi Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,11.0,9.0,Finished,2.0,11.0,,0,0,0.2763546798029557
+2023,22,Abu Dhabi Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,13.0,10.0,Finished,1.0,13.0,,0,0,0.11536050156739812
+2023,22,Abu Dhabi Grand Prix,ricciardo,Daniel Ricciardo,alphatauri,AlphaTauri,15.0,11.0,Finished,0.0,15.0,,0,0,0.07214854111405834
+2023,22,Abu Dhabi Grand Prix,ocon,Esteban Ocon,alpine,Alpine,12.0,12.0,Finished,0.0,12.0,,0,0,0.0877742946708464
+2023,22,Abu Dhabi Grand Prix,gasly,Pierre Gasly,alpine,Alpine,10.0,13.0,Finished,0.0,10.0,,0,0,0.0877742946708464
+2023,22,Abu Dhabi Grand Prix,albon,Alexander Albon,williams,Williams,14.0,14.0,Finished,0.0,14.0,,0,0,0.0625287356321839
+2023,22,Abu Dhabi Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,8.0,15.0,Finished,0.0,8.0,,0,0,0.05719091673675357
+2023,22,Abu Dhabi Grand Prix,sargeant,Logan Sargeant,williams,Williams,20.0,16.0,Finished,0.0,20.0,,0,0,0.0625287356321839
+2023,22,Abu Dhabi Grand Prix,zhou,Guanyu Zhou,alfa,Alfa Romeo,19.0,17.0,Finished,0.0,19.0,,0,0,0.07214854111405834
+2023,22,Abu Dhabi Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,16.0,18.0,Retired,0.0,16.0,,0,0,0.41559444158517755
+2023,22,Abu Dhabi Grand Prix,bottas,Valtteri Bottas,alfa,Alfa Romeo,18.0,19.0,Lapped,0.0,18.0,,0,0,0.07214854111405834
+2023,22,Abu Dhabi Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,17.0,20.0,Lapped,0.0,17.0,,0,0,0.05719091673675357
+2024,1,Bahrain Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,26.0,1.0,,1,1,0.5805011163483007
+2024,1,Bahrain Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,5.0,2.0,Finished,18.0,5.0,,0,1,0.5805011163483007
+2024,1,Bahrain Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,4.0,3.0,Finished,15.0,4.0,,0,1,0.41559444158517755
+2024,1,Bahrain Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,2.0,4.0,Finished,12.0,2.0,,0,0,0.41559444158517755
+2024,1,Bahrain Grand Prix,russell,George Russell,mercedes,Mercedes,3.0,5.0,Finished,10.0,3.0,,0,0,0.2763546798029557
+2024,1,Bahrain Grand Prix,norris,Lando Norris,mclaren,McLaren,7.0,6.0,Finished,8.0,7.0,,0,0,0.27244011581995264
+2024,1,Bahrain Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,9.0,7.0,Finished,6.0,9.0,,0,0,0.2763546798029557
+2024,1,Bahrain Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,8.0,8.0,Finished,4.0,8.0,,0,0,0.27244011581995264
+2024,1,Bahrain Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,6.0,9.0,Finished,2.0,6.0,,0,0,0.11536050156739812
+2024,1,Bahrain Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,12.0,10.0,Finished,1.0,12.0,,0,0,0.11536050156739812
+2024,1,Bahrain Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,17.0,11.0,Lapped,0.0,17.0,,0,0,0.15127919911012236
+2024,1,Bahrain Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,15.0,12.0,Lapped,0.0,15.0,,0,0,0.05719091673675357
+2024,1,Bahrain Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,14.0,13.0,Lapped,0.0,14.0,,0,0,0.12024756852343058
+2024,1,Bahrain Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,11.0,14.0,Lapped,0.0,11.0,,0,0,0.12024756852343058
+2024,1,Bahrain Grand Prix,albon,Alexander Albon,williams,Williams,13.0,15.0,Lapped,0.0,13.0,,0,0,0.0625287356321839
+2024,1,Bahrain Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,10.0,16.0,Lapped,0.0,10.0,,0,0,0.05719091673675357
+2024,1,Bahrain Grand Prix,ocon,Esteban Ocon,alpine,Alpine,19.0,17.0,Lapped,0.0,19.0,,0,0,0.0877742946708464
+2024,1,Bahrain Grand Prix,gasly,Pierre Gasly,alpine,Alpine,20.0,18.0,Lapped,0.0,20.0,,0,0,0.0877742946708464
+2024,1,Bahrain Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,16.0,19.0,Lapped,0.0,16.0,,0,0,0.15127919911012236
+2024,1,Bahrain Grand Prix,sargeant,Logan Sargeant,williams,Williams,18.0,20.0,Lapped,0.0,18.0,,0,0,0.0625287356321839
+2024,2,Saudi Arabian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,,1,1,0.5805011163483007
+2024,2,Saudi Arabian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,3.0,2.0,Finished,18.0,3.0,,0,1,0.5805011163483007
+2024,2,Saudi Arabian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,2.0,3.0,Finished,16.0,2.0,,0,1,0.41559444158517755
+2024,2,Saudi Arabian Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,5.0,4.0,Finished,12.0,5.0,,0,0,0.27244011581995264
+2024,2,Saudi Arabian Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,4.0,5.0,Finished,10.0,4.0,,0,0,0.11536050156739812
+2024,2,Saudi Arabian Grand Prix,russell,George Russell,mercedes,Mercedes,7.0,6.0,Finished,8.0,7.0,,0,0,0.2763546798029557
+2024,2,Saudi Arabian Grand Prix,bearman,Oliver Bearman,ferrari,Ferrari,11.0,7.0,Finished,6.0,11.0,,0,0,0.41559444158517755
+2024,2,Saudi Arabian Grand Prix,norris,Lando Norris,mclaren,McLaren,6.0,8.0,Finished,4.0,6.0,,0,0,0.27244011581995264
+2024,2,Saudi Arabian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,8.0,9.0,Finished,2.0,8.0,,0,0,0.2763546798029557
+2024,2,Saudi Arabian Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,15.0,10.0,Finished,1.0,15.0,,0,0,0.05719091673675357
+2024,2,Saudi Arabian Grand Prix,albon,Alexander Albon,williams,Williams,12.0,11.0,Finished,0.0,12.0,,0,0,0.0625287356321839
+2024,2,Saudi Arabian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,13.0,12.0,Finished,0.0,13.0,,0,0,0.05719091673675357
+2024,2,Saudi Arabian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,17.0,13.0,Lapped,0.0,17.0,,0,0,0.0877742946708464
+2024,2,Saudi Arabian Grand Prix,sargeant,Logan Sargeant,williams,Williams,19.0,14.0,Lapped,0.0,19.0,,0,0,0.0625287356321839
+2024,2,Saudi Arabian Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,9.0,15.0,Lapped,0.0,9.0,,0,0,0.12024756852343058
+2024,2,Saudi Arabian Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,14.0,16.0,Lapped,0.0,14.0,,0,0,0.12024756852343058
+2024,2,Saudi Arabian Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,16.0,17.0,Lapped,0.0,16.0,,0,0,0.15127919911012236
+2024,2,Saudi Arabian Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,20.0,18.0,Lapped,0.0,20.0,,0,0,0.15127919911012236
+2024,2,Saudi Arabian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,10.0,19.0,Retired,0.0,10.0,,0,0,0.11536050156739812
+2024,2,Saudi Arabian Grand Prix,gasly,Pierre Gasly,alpine,Alpine,18.0,20.0,Retired,0.0,18.0,,0,0,0.0877742946708464
+2024,3,Australian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,2.0,1.0,Finished,25.0,2.0,,1,1,0.41559444158517755
+2024,3,Australian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,4.0,2.0,Finished,19.0,5.0,,0,1,0.41559444158517755
+2024,3,Australian Grand Prix,norris,Lando Norris,mclaren,McLaren,3.0,3.0,Finished,15.0,4.0,,0,1,0.27244011581995264
+2024,3,Australian Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,5.0,4.0,Finished,12.0,6.0,,0,0,0.27244011581995264
+2024,3,Australian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,6.0,5.0,Finished,10.0,3.0,,0,0,0.5805011163483007
+2024,3,Australian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,9.0,6.0,Finished,8.0,9.0,,0,0,0.11536050156739812
+2024,3,Australian Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,8.0,7.0,Finished,6.0,8.0,,0,0,0.12024756852343058
+2024,3,Australian Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,10.0,8.0,Finished,4.0,10.0,,0,0,0.11536050156739812
+2024,3,Australian Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,16.0,9.0,Finished,2.0,16.0,,0,0,0.05719091673675357
+2024,3,Australian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,14.0,10.0,Lapped,1.0,14.0,,0,0,0.05719091673675357
+2024,3,Australian Grand Prix,albon,Alexander Albon,williams,Williams,12.0,11.0,Lapped,0.0,12.0,,0,0,0.0625287356321839
+2024,3,Australian Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,18.0,12.0,Lapped,0.0,18.0,,0,0,0.12024756852343058
+2024,3,Australian Grand Prix,gasly,Pierre Gasly,alpine,Alpine,17.0,13.0,Lapped,0.0,17.0,,0,0,0.0877742946708464
+2024,3,Australian Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,13.0,14.0,Lapped,0.0,13.0,,0,0,0.15127919911012236
+2024,3,Australian Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,19.0,15.0,Lapped,0.0,19.0,,0,0,0.15127919911012236
+2024,3,Australian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,15.0,16.0,Lapped,0.0,15.0,,0,0,0.0877742946708464
+2024,3,Australian Grand Prix,russell,George Russell,mercedes,Mercedes,7.0,17.0,Retired,0.0,7.0,,0,0,0.2763546798029557
+2024,3,Australian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,11.0,18.0,Retired,0.0,11.0,,0,0,0.2763546798029557
+2024,3,Australian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,19.0,Retired,0.0,1.0,,0,0,0.5805011163483007
+2024,4,Japanese Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,26.0,1.0,,1,1,0.5805011163483007
+2024,4,Japanese Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,2.0,2.0,Finished,18.0,2.0,,0,1,0.5805011163483007
+2024,4,Japanese Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,4.0,3.0,Finished,15.0,4.0,,0,1,0.41559444158517755
+2024,4,Japanese Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,8.0,4.0,Finished,12.0,8.0,,0,0,0.41559444158517755
+2024,4,Japanese Grand Prix,norris,Lando Norris,mclaren,McLaren,3.0,5.0,Finished,10.0,3.0,,0,0,0.27244011581995264
+2024,4,Japanese Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,5.0,6.0,Finished,8.0,5.0,,0,0,0.11536050156739812
+2024,4,Japanese Grand Prix,russell,George Russell,mercedes,Mercedes,9.0,7.0,Finished,6.0,9.0,,0,0,0.2763546798029557
+2024,4,Japanese Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,6.0,8.0,Finished,4.0,6.0,,0,0,0.27244011581995264
+2024,4,Japanese Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,7.0,9.0,Finished,2.0,7.0,,0,0,0.2763546798029557
+2024,4,Japanese Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,10.0,10.0,Lapped,1.0,10.0,,0,0,0.12024756852343058
+2024,4,Japanese Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,12.0,11.0,Lapped,0.0,12.0,,0,0,0.05719091673675357
+2024,4,Japanese Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,16.0,12.0,Lapped,0.0,16.0,,0,0,0.11536050156739812
+2024,4,Japanese Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,18.0,13.0,Lapped,0.0,18.0,,0,0,0.05719091673675357
+2024,4,Japanese Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,13.0,14.0,Lapped,0.0,13.0,,0,0,0.15127919911012236
+2024,4,Japanese Grand Prix,ocon,Esteban Ocon,alpine,Alpine,15.0,15.0,Lapped,0.0,15.0,,0,0,0.0877742946708464
+2024,4,Japanese Grand Prix,gasly,Pierre Gasly,alpine,Alpine,17.0,16.0,Lapped,0.0,17.0,,0,0,0.0877742946708464
+2024,4,Japanese Grand Prix,sargeant,Logan Sargeant,williams,Williams,19.0,17.0,Lapped,0.0,19.0,,0,0,0.0625287356321839
+2024,4,Japanese Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,20.0,18.0,Retired,0.0,20.0,,0,0,0.15127919911012236
+2024,4,Japanese Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,11.0,19.0,Retired,0.0,11.0,,0,0,0.12024756852343058
+2024,4,Japanese Grand Prix,albon,Alexander Albon,williams,Williams,14.0,20.0,Retired,0.0,14.0,,0,0,0.0625287356321839
+2024,5,Chinese Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,,1,1,0.5805011163483007
+2024,5,Chinese Grand Prix,norris,Lando Norris,mclaren,McLaren,4.0,2.0,Finished,18.0,4.0,,0,1,0.27244011581995264
+2024,5,Chinese Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,2.0,3.0,Finished,15.0,2.0,,0,1,0.5805011163483007
+2024,5,Chinese Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,6.0,4.0,Finished,12.0,6.0,,0,0,0.41559444158517755
+2024,5,Chinese Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,7.0,5.0,Finished,10.0,7.0,,0,0,0.41559444158517755
+2024,5,Chinese Grand Prix,russell,George Russell,mercedes,Mercedes,8.0,6.0,Finished,8.0,8.0,,0,0,0.2763546798029557
+2024,5,Chinese Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,3.0,7.0,Finished,7.0,3.0,,0,0,0.11536050156739812
+2024,5,Chinese Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,5.0,8.0,Finished,4.0,5.0,,0,0,0.27244011581995264
+2024,5,Chinese Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,18.0,9.0,Finished,2.0,18.0,,0,0,0.2763546798029557
+2024,5,Chinese Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,9.0,10.0,Finished,1.0,9.0,,0,0,0.05719091673675357
+2024,5,Chinese Grand Prix,ocon,Esteban Ocon,alpine,Alpine,13.0,11.0,Finished,0.0,13.0,,0,0,0.0877742946708464
+2024,5,Chinese Grand Prix,albon,Alexander Albon,williams,Williams,14.0,12.0,Finished,0.0,14.0,,0,0,0.0625287356321839
+2024,5,Chinese Grand Prix,gasly,Pierre Gasly,alpine,Alpine,15.0,13.0,Finished,0.0,15.0,,0,0,0.0877742946708464
+2024,5,Chinese Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,16.0,14.0,Finished,0.0,16.0,,0,0,0.15127919911012236
+2024,5,Chinese Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,11.0,15.0,Finished,0.0,11.0,,0,0,0.11536050156739812
+2024,5,Chinese Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,17.0,16.0,Finished,0.0,17.0,,0,0,0.05719091673675357
+2024,5,Chinese Grand Prix,sargeant,Logan Sargeant,williams,Williams,20.0,17.0,Finished,0.0,20.0,,0,0,0.0625287356321839
+2024,5,Chinese Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,12.0,18.0,Retired,0.0,12.0,,0,0,0.12024756852343058
+2024,5,Chinese Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,19.0,19.0,Retired,0.0,19.0,,0,0,0.12024756852343058
+2024,5,Chinese Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,10.0,20.0,Retired,0.0,10.0,,0,0,0.15127919911012236
+2024,6,Miami Grand Prix,norris,Lando Norris,mclaren,McLaren,5.0,1.0,Finished,25.0,5.0,,1,1,0.27244011581995264
+2024,6,Miami Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,2.0,Finished,18.0,1.0,,0,1,0.5805011163483007
+2024,6,Miami Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,2.0,3.0,Finished,15.0,2.0,,0,1,0.41559444158517755
+2024,6,Miami Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,4.0,4.0,Finished,12.0,4.0,,0,0,0.5805011163483007
+2024,6,Miami Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,3.0,5.0,Finished,10.0,3.0,,0,0,0.41559444158517755
+2024,6,Miami Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,8.0,6.0,Finished,8.0,8.0,,0,0,0.2763546798029557
+2024,6,Miami Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,10.0,7.0,Finished,6.0,10.0,,0,0,0.12024756852343058
+2024,6,Miami Grand Prix,russell,George Russell,mercedes,Mercedes,7.0,8.0,Finished,4.0,7.0,,0,0,0.2763546798029557
+2024,6,Miami Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,15.0,9.0,Finished,2.0,15.0,,0,0,0.11536050156739812
+2024,6,Miami Grand Prix,ocon,Esteban Ocon,alpine,Alpine,13.0,10.0,Finished,1.0,13.0,,0,0,0.0877742946708464
+2024,6,Miami Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,9.0,11.0,Finished,0.0,9.0,,0,0,0.05719091673675357
+2024,6,Miami Grand Prix,gasly,Pierre Gasly,alpine,Alpine,12.0,12.0,Finished,0.0,12.0,,0,0,0.0877742946708464
+2024,6,Miami Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,6.0,13.0,Finished,0.0,6.0,,0,0,0.27244011581995264
+2024,6,Miami Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,19.0,14.0,Finished,0.0,20.0,,0,0,0.15127919911012236
+2024,6,Miami Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,20.0,15.0,Finished,0.0,18.0,,0,0,0.12024756852343058
+2024,6,Miami Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,16.0,16.0,Finished,0.0,16.0,,0,0,0.15127919911012236
+2024,6,Miami Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,11.0,17.0,Finished,0.0,11.0,,0,0,0.11536050156739812
+2024,6,Miami Grand Prix,albon,Alexander Albon,williams,Williams,14.0,18.0,Finished,0.0,14.0,,0,0,0.0625287356321839
+2024,6,Miami Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,18.0,19.0,Finished,0.0,19.0,,0,0,0.05719091673675357
+2024,6,Miami Grand Prix,sargeant,Logan Sargeant,williams,Williams,17.0,20.0,Retired,0.0,17.0,,0,0,0.0625287356321839
+2024,7,Emilia Romagna Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,,1,1,0.5805011163483007
+2024,7,Emilia Romagna Grand Prix,norris,Lando Norris,mclaren,McLaren,2.0,2.0,Finished,18.0,3.0,,0,1,0.27244011581995264
+2024,7,Emilia Romagna Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,3.0,3.0,Finished,15.0,4.0,,0,1,0.41559444158517755
+2024,7,Emilia Romagna Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,5.0,4.0,Finished,12.0,2.0,,0,0,0.27244011581995264
+2024,7,Emilia Romagna Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,4.0,5.0,Finished,10.0,5.0,,0,0,0.41559444158517755
+2024,7,Emilia Romagna Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,8.0,6.0,Finished,8.0,8.0,,0,0,0.2763546798029557
+2024,7,Emilia Romagna Grand Prix,russell,George Russell,mercedes,Mercedes,6.0,7.0,Finished,7.0,6.0,,0,0,0.2763546798029557
+2024,7,Emilia Romagna Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,11.0,8.0,Finished,4.0,11.0,,0,0,0.5805011163483007
+2024,7,Emilia Romagna Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,13.0,9.0,Finished,2.0,13.0,,0,0,0.11536050156739812
+2024,7,Emilia Romagna Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,7.0,10.0,Lapped,1.0,7.0,,0,0,0.12024756852343058
+2024,7,Emilia Romagna Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,10.0,11.0,Lapped,0.0,10.0,,0,0,0.05719091673675357
+2024,7,Emilia Romagna Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,18.0,12.0,Lapped,0.0,18.0,,0,0,0.05719091673675357
+2024,7,Emilia Romagna Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,9.0,13.0,Lapped,0.0,9.0,,0,0,0.12024756852343058
+2024,7,Emilia Romagna Grand Prix,ocon,Esteban Ocon,alpine,Alpine,12.0,14.0,Lapped,0.0,12.0,,0,0,0.0877742946708464
+2024,7,Emilia Romagna Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,17.0,15.0,Lapped,0.0,17.0,,0,0,0.15127919911012236
+2024,7,Emilia Romagna Grand Prix,gasly,Pierre Gasly,alpine,Alpine,15.0,16.0,Lapped,0.0,15.0,,0,0,0.0877742946708464
+2024,7,Emilia Romagna Grand Prix,sargeant,Logan Sargeant,williams,Williams,19.0,17.0,Lapped,0.0,20.0,,0,0,0.0625287356321839
+2024,7,Emilia Romagna Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,16.0,18.0,Lapped,0.0,16.0,,0,0,0.15127919911012236
+2024,7,Emilia Romagna Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,20.0,19.0,Lapped,0.0,19.0,,0,0,0.11536050156739812
+2024,7,Emilia Romagna Grand Prix,albon,Alexander Albon,williams,Williams,14.0,20.0,Retired,0.0,14.0,,0,0,0.0625287356321839
+2024,8,Monaco Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,1.0,Finished,25.0,1.0,,1,1,0.41559444158517755
+2024,8,Monaco Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,2.0,2.0,Finished,18.0,2.0,,0,1,0.27244011581995264
+2024,8,Monaco Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,3.0,3.0,Finished,15.0,3.0,,0,1,0.41559444158517755
+2024,8,Monaco Grand Prix,norris,Lando Norris,mclaren,McLaren,4.0,4.0,Finished,12.0,4.0,,0,0,0.27244011581995264
+2024,8,Monaco Grand Prix,russell,George Russell,mercedes,Mercedes,5.0,5.0,Finished,10.0,5.0,,0,0,0.2763546798029557
+2024,8,Monaco Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,6.0,6.0,Finished,8.0,6.0,,0,0,0.5805011163483007
+2024,8,Monaco Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,7.0,7.0,Finished,7.0,7.0,,0,0,0.2763546798029557
+2024,8,Monaco Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,8.0,8.0,Lapped,4.0,8.0,,0,0,0.12024756852343058
+2024,8,Monaco Grand Prix,albon,Alexander Albon,williams,Williams,9.0,9.0,Lapped,2.0,9.0,,0,0,0.0625287356321839
+2024,8,Monaco Grand Prix,gasly,Pierre Gasly,alpine,Alpine,10.0,10.0,Lapped,1.0,10.0,,0,0,0.0877742946708464
+2024,8,Monaco Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,14.0,11.0,Lapped,0.0,14.0,,0,0,0.11536050156739812
+2024,8,Monaco Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,12.0,12.0,Lapped,0.0,12.0,,0,0,0.12024756852343058
+2024,8,Monaco Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,17.0,13.0,Lapped,0.0,17.0,,0,0,0.15127919911012236
+2024,8,Monaco Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,13.0,14.0,Lapped,0.0,13.0,,0,0,0.11536050156739812
+2024,8,Monaco Grand Prix,sargeant,Logan Sargeant,williams,Williams,15.0,15.0,Lapped,0.0,15.0,,0,0,0.0625287356321839
+2024,8,Monaco Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,18.0,16.0,Lapped,0.0,18.0,,0,0,0.15127919911012236
+2024,8,Monaco Grand Prix,ocon,Esteban Ocon,alpine,Alpine,11.0,17.0,Retired,0.0,11.0,,0,0,0.0877742946708464
+2024,8,Monaco Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,16.0,18.0,Retired,0.0,16.0,,0,0,0.5805011163483007
+2024,8,Monaco Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,19.0,19.0,Retired,0.0,14.0,,0,0,0.05719091673675357
+2024,8,Monaco Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,20.0,20.0,Retired,0.0,15.0,,0,0,0.05719091673675357
+2024,9,Canadian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,25.0,2.0,,1,1,0.5805011163483007
+2024,9,Canadian Grand Prix,norris,Lando Norris,mclaren,McLaren,3.0,2.0,Finished,18.0,3.0,,0,1,0.27244011581995264
+2024,9,Canadian Grand Prix,russell,George Russell,mercedes,Mercedes,1.0,3.0,Finished,15.0,1.0,,0,1,0.2763546798029557
+2024,9,Canadian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,7.0,4.0,Finished,13.0,7.0,,0,0,0.2763546798029557
+2024,9,Canadian Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,4.0,5.0,Finished,10.0,4.0,,0,0,0.27244011581995264
+2024,9,Canadian Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,6.0,6.0,Finished,8.0,6.0,,0,0,0.11536050156739812
+2024,9,Canadian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,9.0,7.0,Finished,6.0,9.0,,0,0,0.11536050156739812
+2024,9,Canadian Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,5.0,8.0,Finished,4.0,5.0,,0,0,0.12024756852343058
+2024,9,Canadian Grand Prix,gasly,Pierre Gasly,alpine,Alpine,15.0,9.0,Finished,2.0,15.0,,0,0,0.0877742946708464
+2024,9,Canadian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,18.0,10.0,Finished,1.0,18.0,,0,0,0.0877742946708464
+2024,9,Canadian Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,17.0,11.0,Finished,0.0,19.0,,0,0,0.05719091673675357
+2024,9,Canadian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,14.0,12.0,Finished,0.0,14.0,,0,0,0.05719091673675357
+2024,9,Canadian Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,19.0,13.0,Finished,0.0,17.0,,0,0,0.15127919911012236
+2024,9,Canadian Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,8.0,14.0,Finished,0.0,8.0,,0,0,0.12024756852343058
+2024,9,Canadian Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,20.0,15.0,Lapped,0.0,20.0,,0,0,0.15127919911012236
+2024,9,Canadian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,12.0,16.0,Retired,0.0,12.0,,0,0,0.41559444158517755
+2024,9,Canadian Grand Prix,albon,Alexander Albon,williams,Williams,10.0,17.0,Retired,0.0,10.0,,0,0,0.0625287356321839
+2024,9,Canadian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,16.0,18.0,Retired,0.0,16.0,,0,0,0.5805011163483007
+2024,9,Canadian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,11.0,19.0,Retired,0.0,11.0,,0,0,0.41559444158517755
+2024,9,Canadian Grand Prix,sargeant,Logan Sargeant,williams,Williams,13.0,20.0,Retired,0.0,13.0,,0,0,0.0625287356321839
+2024,10,Spanish Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,25.0,2.0,,1,1,0.5805011163483007
+2024,10,Spanish Grand Prix,norris,Lando Norris,mclaren,McLaren,1.0,2.0,Finished,19.0,1.0,,0,1,0.27244011581995264
+2024,10,Spanish Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,3.0,3.0,Finished,15.0,3.0,,0,1,0.2763546798029557
+2024,10,Spanish Grand Prix,russell,George Russell,mercedes,Mercedes,4.0,4.0,Finished,12.0,4.0,,0,0,0.2763546798029557
+2024,10,Spanish Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,5.0,5.0,Finished,10.0,5.0,,0,0,0.41559444158517755
+2024,10,Spanish Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,6.0,6.0,Finished,8.0,6.0,,0,0,0.41559444158517755
+2024,10,Spanish Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,9.0,7.0,Finished,6.0,10.0,,0,0,0.27244011581995264
+2024,10,Spanish Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,11.0,8.0,Finished,4.0,8.0,,0,0,0.5805011163483007
+2024,10,Spanish Grand Prix,gasly,Pierre Gasly,alpine,Alpine,7.0,9.0,Finished,2.0,7.0,,0,0,0.0877742946708464
+2024,10,Spanish Grand Prix,ocon,Esteban Ocon,alpine,Alpine,8.0,10.0,Finished,1.0,9.0,,0,0,0.0877742946708464
+2024,10,Spanish Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,13.0,11.0,Finished,0.0,13.0,,0,0,0.05719091673675357
+2024,10,Spanish Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,10.0,12.0,Lapped,0.0,11.0,,0,0,0.11536050156739812
+2024,10,Spanish Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,15.0,13.0,Lapped,0.0,15.0,,0,0,0.15127919911012236
+2024,10,Spanish Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,14.0,14.0,Lapped,0.0,14.0,,0,0,0.11536050156739812
+2024,10,Spanish Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,18.0,15.0,Lapped,0.0,18.0,,0,0,0.12024756852343058
+2024,10,Spanish Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,12.0,16.0,Lapped,0.0,12.0,,0,0,0.15127919911012236
+2024,10,Spanish Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,16.0,17.0,Lapped,0.0,16.0,,0,0,0.05719091673675357
+2024,10,Spanish Grand Prix,albon,Alexander Albon,williams,Williams,20.0,18.0,Lapped,0.0,19.0,,0,0,0.0625287356321839
+2024,10,Spanish Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,17.0,19.0,Lapped,0.0,17.0,,0,0,0.12024756852343058
+2024,10,Spanish Grand Prix,sargeant,Logan Sargeant,williams,Williams,19.0,20.0,Lapped,0.0,20.0,,0,0,0.0625287356321839
+2024,11,Austrian Grand Prix,russell,George Russell,mercedes,Mercedes,3.0,1.0,Finished,25.0,3.0,,1,1,0.2763546798029557
+2024,11,Austrian Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,7.0,2.0,Finished,18.0,7.0,,0,1,0.27244011581995264
+2024,11,Austrian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,4.0,3.0,Finished,15.0,4.0,,0,1,0.41559444158517755
+2024,11,Austrian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,5.0,4.0,Finished,12.0,5.0,,0,0,0.2763546798029557
+2024,11,Austrian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,1.0,5.0,Finished,10.0,1.0,,0,0,0.5805011163483007
+2024,11,Austrian Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,9.0,6.0,Finished,8.0,9.0,,0,0,0.05719091673675357
+2024,11,Austrian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,8.0,7.0,Finished,6.0,8.0,,0,0,0.5805011163483007
+2024,11,Austrian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,12.0,8.0,Finished,4.0,12.0,,0,0,0.05719091673675357
+2024,11,Austrian Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,11.0,9.0,Finished,2.0,11.0,,0,0,0.12024756852343058
+2024,11,Austrian Grand Prix,gasly,Pierre Gasly,alpine,Alpine,13.0,10.0,Finished,1.0,13.0,,0,0,0.0877742946708464
+2024,11,Austrian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,6.0,11.0,Finished,0.0,6.0,,0,0,0.41559444158517755
+2024,11,Austrian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,10.0,12.0,Finished,0.0,10.0,,0,0,0.0877742946708464
+2024,11,Austrian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,17.0,13.0,Lapped,0.0,17.0,,0,0,0.11536050156739812
+2024,11,Austrian Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,14.0,14.0,Lapped,0.0,14.0,,0,0,0.12024756852343058
+2024,11,Austrian Grand Prix,albon,Alexander Albon,williams,Williams,16.0,15.0,Lapped,0.0,16.0,,0,0,0.0625287356321839
+2024,11,Austrian Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,18.0,16.0,Lapped,0.0,18.0,,0,0,0.15127919911012236
+2024,11,Austrian Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,20.0,17.0,Lapped,0.0,20.0,,0,0,0.15127919911012236
+2024,11,Austrian Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,15.0,18.0,Lapped,0.0,15.0,,0,0,0.11536050156739812
+2024,11,Austrian Grand Prix,sargeant,Logan Sargeant,williams,Williams,19.0,19.0,Lapped,0.0,19.0,,0,0,0.0625287356321839
+2024,11,Austrian Grand Prix,norris,Lando Norris,mclaren,McLaren,2.0,20.0,Lapped,0.0,2.0,,0,0,0.27244011581995264
+2024,12,British Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,2.0,1.0,Finished,25.0,2.0,,1,1,0.2763546798029557
+2024,12,British Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,4.0,2.0,Finished,18.0,4.0,,0,1,0.5805011163483007
+2024,12,British Grand Prix,norris,Lando Norris,mclaren,McLaren,3.0,3.0,Finished,15.0,3.0,,0,1,0.27244011581995264
+2024,12,British Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,5.0,4.0,Finished,12.0,5.0,,0,0,0.27244011581995264
+2024,12,British Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,7.0,5.0,Finished,11.0,7.0,,0,0,0.41559444158517755
+2024,12,British Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,6.0,6.0,Finished,8.0,6.0,,0,0,0.05719091673675357
+2024,12,British Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,8.0,7.0,Finished,6.0,8.0,,0,0,0.11536050156739812
+2024,12,British Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,10.0,8.0,Finished,4.0,10.0,,0,0,0.11536050156739812
+2024,12,British Grand Prix,albon,Alexander Albon,williams,Williams,9.0,9.0,Finished,2.0,9.0,,0,0,0.0625287356321839
+2024,12,British Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,13.0,10.0,Finished,1.0,13.0,,0,0,0.12024756852343058
+2024,12,British Grand Prix,sargeant,Logan Sargeant,williams,Williams,12.0,11.0,Finished,0.0,12.0,,0,0,0.0625287356321839
+2024,12,British Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,17.0,12.0,Finished,0.0,17.0,,0,0,0.05719091673675357
+2024,12,British Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,15.0,13.0,Lapped,0.0,15.0,,0,0,0.12024756852343058
+2024,12,British Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,11.0,14.0,Lapped,0.0,11.0,,0,0,0.41559444158517755
+2024,12,British Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,16.0,15.0,Lapped,0.0,16.0,,0,0,0.15127919911012236
+2024,12,British Grand Prix,ocon,Esteban Ocon,alpine,Alpine,18.0,16.0,Lapped,0.0,18.0,,0,0,0.0877742946708464
+2024,12,British Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,20.0,17.0,Lapped,0.0,19.0,,0,0,0.5805011163483007
+2024,12,British Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,14.0,18.0,Lapped,0.0,14.0,,0,0,0.15127919911012236
+2024,12,British Grand Prix,russell,George Russell,mercedes,Mercedes,1.0,19.0,Retired,0.0,1.0,,0,0,0.2763546798029557
+2024,12,British Grand Prix,gasly,Pierre Gasly,alpine,Alpine,19.0,20.0,Did not start,0.0,20.0,,0,0,0.0877742946708464
+2024,13,Hungarian Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,2.0,1.0,Finished,25.0,2.0,,1,1,0.27244011581995264
+2024,13,Hungarian Grand Prix,norris,Lando Norris,mclaren,McLaren,1.0,2.0,Finished,18.0,1.0,,0,1,0.27244011581995264
+2024,13,Hungarian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,5.0,3.0,Finished,15.0,5.0,,0,1,0.2763546798029557
+2024,13,Hungarian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,6.0,4.0,Finished,12.0,6.0,,0,0,0.41559444158517755
+2024,13,Hungarian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,3.0,5.0,Finished,10.0,3.0,,0,0,0.5805011163483007
+2024,13,Hungarian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,4.0,6.0,Finished,8.0,4.0,,0,0,0.41559444158517755
+2024,13,Hungarian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,16.0,7.0,Finished,6.0,16.0,,0,0,0.5805011163483007
+2024,13,Hungarian Grand Prix,russell,George Russell,mercedes,Mercedes,17.0,8.0,Finished,5.0,17.0,,0,0,0.2763546798029557
+2024,13,Hungarian Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,10.0,9.0,Finished,2.0,10.0,,0,0,0.12024756852343058
+2024,13,Hungarian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,8.0,10.0,Finished,1.0,8.0,,0,0,0.11536050156739812
+2024,13,Hungarian Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,7.0,11.0,Finished,0.0,7.0,,0,0,0.11536050156739812
+2024,13,Hungarian Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,9.0,12.0,Lapped,0.0,9.0,,0,0,0.12024756852343058
+2024,13,Hungarian Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,11.0,13.0,Lapped,0.0,11.0,,0,0,0.05719091673675357
+2024,13,Hungarian Grand Prix,albon,Alexander Albon,williams,Williams,13.0,14.0,Lapped,0.0,13.0,,0,0,0.0625287356321839
+2024,13,Hungarian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,15.0,15.0,Lapped,0.0,15.0,,0,0,0.05719091673675357
+2024,13,Hungarian Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,12.0,16.0,Lapped,0.0,12.0,,0,0,0.15127919911012236
+2024,13,Hungarian Grand Prix,sargeant,Logan Sargeant,williams,Williams,14.0,17.0,Lapped,0.0,14.0,,0,0,0.0625287356321839
+2024,13,Hungarian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,19.0,18.0,Lapped,0.0,19.0,,0,0,0.0877742946708464
+2024,13,Hungarian Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,18.0,19.0,Lapped,0.0,18.0,,0,0,0.15127919911012236
+2024,13,Hungarian Grand Prix,gasly,Pierre Gasly,alpine,Alpine,20.0,20.0,Retired,0.0,20.0,,0,0,0.0877742946708464
+2024,14,Belgian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,3.0,1.0,Finished,25.0,4.0,,1,1,0.2763546798029557
+2024,14,Belgian Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,5.0,2.0,Finished,18.0,6.0,,0,1,0.27244011581995264
+2024,14,Belgian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,3.0,Finished,15.0,2.0,,0,1,0.41559444158517755
+2024,14,Belgian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,11.0,4.0,Finished,12.0,1.0,,0,0,0.5805011163483007
+2024,14,Belgian Grand Prix,norris,Lando Norris,mclaren,McLaren,4.0,5.0,Finished,10.0,5.0,,0,0,0.27244011581995264
+2024,14,Belgian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,7.0,6.0,Finished,8.0,8.0,,0,0,0.41559444158517755
+2024,14,Belgian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,2.0,7.0,Finished,7.0,3.0,,0,0,0.5805011163483007
+2024,14,Belgian Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,8.0,8.0,Finished,4.0,9.0,,0,0,0.11536050156739812
+2024,14,Belgian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,9.0,9.0,Finished,2.0,10.0,,0,0,0.0877742946708464
+2024,14,Belgian Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,13.0,10.0,Finished,1.0,13.0,,0,0,0.12024756852343058
+2024,14,Belgian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,15.0,11.0,Finished,0.0,15.0,,0,0,0.11536050156739812
+2024,14,Belgian Grand Prix,albon,Alexander Albon,williams,Williams,10.0,12.0,Finished,0.0,11.0,,0,0,0.0625287356321839
+2024,14,Belgian Grand Prix,gasly,Pierre Gasly,alpine,Alpine,12.0,13.0,Finished,0.0,12.0,,0,0,0.0877742946708464
+2024,14,Belgian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,17.0,14.0,Finished,0.0,17.0,,0,0,0.05719091673675357
+2024,14,Belgian Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,14.0,15.0,Finished,0.0,14.0,,0,0,0.15127919911012236
+2024,14,Belgian Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,20.0,16.0,Finished,0.0,18.0,,0,0,0.12024756852343058
+2024,14,Belgian Grand Prix,sargeant,Logan Sargeant,williams,Williams,18.0,17.0,Finished,0.0,19.0,,0,0,0.0625287356321839
+2024,14,Belgian Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,16.0,18.0,Finished,0.0,16.0,,0,0,0.05719091673675357
+2024,14,Belgian Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,19.0,19.0,Retired,0.0,20.0,,0,0,0.15127919911012236
+2024,14,Belgian Grand Prix,russell,George Russell,mercedes,Mercedes,6.0,20.0,Disqualified,0.0,7.0,,0,0,0.2763546798029557
+2024,15,Dutch Grand Prix,norris,Lando Norris,mclaren,McLaren,1.0,1.0,Finished,26.0,1.0,,1,1,0.27244011581995264
+2024,15,Dutch Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,2.0,Finished,18.0,2.0,,0,1,0.5805011163483007
+2024,15,Dutch Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,6.0,3.0,Finished,15.0,6.0,,0,1,0.41559444158517755
+2024,15,Dutch Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,3.0,4.0,Finished,12.0,3.0,,0,0,0.27244011581995264
+2024,15,Dutch Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,10.0,5.0,Finished,10.0,10.0,,0,0,0.41559444158517755
+2024,15,Dutch Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,5.0,6.0,Finished,8.0,5.0,,0,0,0.5805011163483007
+2024,15,Dutch Grand Prix,russell,George Russell,mercedes,Mercedes,4.0,7.0,Finished,6.0,4.0,,0,0,0.2763546798029557
+2024,15,Dutch Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,14.0,8.0,Finished,4.0,11.0,,0,0,0.2763546798029557
+2024,15,Dutch Grand Prix,gasly,Pierre Gasly,alpine,Alpine,9.0,9.0,Lapped,2.0,9.0,,0,0,0.0877742946708464
+2024,15,Dutch Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,7.0,10.0,Lapped,1.0,7.0,,0,0,0.11536050156739812
+2024,15,Dutch Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,12.0,11.0,Lapped,0.0,13.0,,0,0,0.05719091673675357
+2024,15,Dutch Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,13.0,12.0,Lapped,0.0,15.0,,0,0,0.12024756852343058
+2024,15,Dutch Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,8.0,13.0,Lapped,0.0,8.0,,0,0,0.11536050156739812
+2024,15,Dutch Grand Prix,albon,Alexander Albon,williams,Williams,19.0,14.0,Lapped,0.0,10.0,,0,0,0.0625287356321839
+2024,15,Dutch Grand Prix,ocon,Esteban Ocon,alpine,Alpine,15.0,15.0,Lapped,0.0,16.0,,0,0,0.0877742946708464
+2024,15,Dutch Grand Prix,sargeant,Logan Sargeant,williams,Williams,18.0,16.0,Lapped,0.0,20.0,,0,0,0.0625287356321839
+2024,15,Dutch Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,11.0,17.0,Lapped,0.0,12.0,,0,0,0.12024756852343058
+2024,15,Dutch Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,20.0,18.0,Lapped,0.0,14.0,,0,0,0.05719091673675357
+2024,15,Dutch Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,16.0,19.0,Lapped,0.0,17.0,,0,0,0.15127919911012236
+2024,15,Dutch Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,17.0,20.0,Lapped,0.0,18.0,,0,0,0.15127919911012236
+2024,16,Italian Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,4.0,1.0,Finished,25.0,4.0,,1,1,0.41559444158517755
+2024,16,Italian Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,2.0,2.0,Finished,18.0,2.0,,0,1,0.27244011581995264
+2024,16,Italian Grand Prix,norris,Lando Norris,mclaren,McLaren,1.0,3.0,Finished,16.0,1.0,,0,1,0.27244011581995264
+2024,16,Italian Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,5.0,4.0,Finished,12.0,5.0,,0,0,0.41559444158517755
+2024,16,Italian Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,6.0,5.0,Finished,10.0,6.0,,0,0,0.2763546798029557
+2024,16,Italian Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,7.0,6.0,Finished,8.0,7.0,,0,0,0.5805011163483007
+2024,16,Italian Grand Prix,russell,George Russell,mercedes,Mercedes,3.0,7.0,Finished,6.0,3.0,,0,0,0.2763546798029557
+2024,16,Italian Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,8.0,8.0,Finished,4.0,8.0,,0,0,0.5805011163483007
+2024,16,Italian Grand Prix,albon,Alexander Albon,williams,Williams,9.0,9.0,Finished,2.0,9.0,,0,0,0.0625287356321839
+2024,16,Italian Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,13.0,10.0,Finished,1.0,13.0,,0,0,0.05719091673675357
+2024,16,Italian Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,11.0,11.0,Finished,0.0,11.0,,0,0,0.11536050156739812
+2024,16,Italian Grand Prix,colapinto,Franco Colapinto,williams,Williams,18.0,12.0,Finished,0.0,18.0,,0,0,0.0625287356321839
+2024,16,Italian Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,12.0,13.0,Finished,0.0,12.0,,0,0,0.12024756852343058
+2024,16,Italian Grand Prix,ocon,Esteban Ocon,alpine,Alpine,15.0,14.0,Lapped,0.0,15.0,,0,0,0.0877742946708464
+2024,16,Italian Grand Prix,gasly,Pierre Gasly,alpine,Alpine,14.0,15.0,Lapped,0.0,14.0,,0,0,0.0877742946708464
+2024,16,Italian Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,19.0,16.0,Lapped,0.0,19.0,,0,0,0.15127919911012236
+2024,16,Italian Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,10.0,17.0,Lapped,0.0,10.0,,0,0,0.05719091673675357
+2024,16,Italian Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,20.0,18.0,Lapped,0.0,20.0,,0,0,0.15127919911012236
+2024,16,Italian Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,17.0,19.0,Lapped,0.0,17.0,,0,0,0.11536050156739812
+2024,16,Italian Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,16.0,20.0,Retired,0.0,16.0,,0,0,0.12024756852343058
+2024,17,Azerbaijan Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,2.0,1.0,Finished,25.0,2.0,,1,1,0.27244011581995264
+2024,17,Azerbaijan Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,1.0,2.0,Finished,18.0,1.0,,0,1,0.41559444158517755
+2024,17,Azerbaijan Grand Prix,russell,George Russell,mercedes,Mercedes,5.0,3.0,Finished,15.0,5.0,,0,1,0.2763546798029557
+2024,17,Azerbaijan Grand Prix,norris,Lando Norris,mclaren,McLaren,15.0,4.0,Finished,13.0,16.0,,0,0,0.27244011581995264
+2024,17,Azerbaijan Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,6.0,5.0,Finished,10.0,6.0,,0,0,0.5805011163483007
+2024,17,Azerbaijan Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,7.0,6.0,Finished,8.0,8.0,,0,0,0.11536050156739812
+2024,17,Azerbaijan Grand Prix,albon,Alexander Albon,williams,Williams,9.0,7.0,Finished,6.0,10.0,,0,0,0.0625287356321839
+2024,17,Azerbaijan Grand Prix,colapinto,Franco Colapinto,williams,Williams,8.0,8.0,Finished,4.0,9.0,,0,0,0.0625287356321839
+2024,17,Azerbaijan Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,19.0,9.0,Finished,2.0,7.0,,0,0,0.2763546798029557
+2024,17,Azerbaijan Grand Prix,bearman,Oliver Bearman,haas,Haas F1 Team,10.0,10.0,Finished,1.0,11.0,,0,0,0.05719091673675357
+2024,17,Azerbaijan Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,12.0,11.0,Finished,0.0,13.0,,0,0,0.05719091673675357
+2024,17,Azerbaijan Grand Prix,gasly,Pierre Gasly,alpine,Alpine,18.0,12.0,Finished,0.0,15.0,,0,0,0.0877742946708464
+2024,17,Azerbaijan Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,14.0,13.0,Finished,0.0,15.0,,0,0,0.12024756852343058
+2024,17,Azerbaijan Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,17.0,14.0,Finished,0.0,18.0,,0,0,0.15127919911012236
+2024,17,Azerbaijan Grand Prix,ocon,Esteban Ocon,alpine,Alpine,20.0,15.0,Lapped,0.0,19.0,,0,0,0.0877742946708464
+2024,17,Azerbaijan Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,16.0,16.0,Lapped,0.0,17.0,,0,0,0.15127919911012236
+2024,17,Azerbaijan Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,4.0,17.0,Retired,0.0,4.0,,0,0,0.5805011163483007
+2024,17,Azerbaijan Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,3.0,18.0,Retired,0.0,3.0,,0,0,0.41559444158517755
+2024,17,Azerbaijan Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,13.0,19.0,Retired,0.0,14.0,,0,0,0.11536050156739812
+2024,17,Azerbaijan Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,11.0,20.0,Retired,0.0,12.0,,0,0,0.12024756852343058
+2024,18,Singapore Grand Prix,norris,Lando Norris,mclaren,McLaren,1.0,1.0,Finished,25.0,1.0,,1,1,0.27244011581995264
+2024,18,Singapore Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,2.0,Finished,18.0,2.0,,0,1,0.5805011163483007
+2024,18,Singapore Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,5.0,3.0,Finished,15.0,5.0,,0,1,0.27244011581995264
+2024,18,Singapore Grand Prix,russell,George Russell,mercedes,Mercedes,4.0,4.0,Finished,12.0,4.0,,0,0,0.2763546798029557
+2024,18,Singapore Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,9.0,5.0,Finished,10.0,9.0,,0,0,0.41559444158517755
+2024,18,Singapore Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,3.0,6.0,Finished,8.0,3.0,,0,0,0.2763546798029557
+2024,18,Singapore Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,10.0,7.0,Finished,6.0,10.0,,0,0,0.41559444158517755
+2024,18,Singapore Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,7.0,8.0,Lapped,4.0,7.0,,0,0,0.11536050156739812
+2024,18,Singapore Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,6.0,9.0,Lapped,2.0,6.0,,0,0,0.05719091673675357
+2024,18,Singapore Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,13.0,10.0,Lapped,1.0,13.0,,0,0,0.5805011163483007
+2024,18,Singapore Grand Prix,colapinto,Franco Colapinto,williams,Williams,12.0,11.0,Lapped,0.0,12.0,,0,0,0.0625287356321839
+2024,18,Singapore Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,8.0,12.0,Lapped,0.0,8.0,,0,0,0.12024756852343058
+2024,18,Singapore Grand Prix,ocon,Esteban Ocon,alpine,Alpine,15.0,13.0,Lapped,0.0,15.0,,0,0,0.0877742946708464
+2024,18,Singapore Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,17.0,14.0,Lapped,0.0,17.0,,0,0,0.11536050156739812
+2024,18,Singapore Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,20.0,15.0,Lapped,0.0,20.0,,0,0,0.15127919911012236
+2024,18,Singapore Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,19.0,16.0,Lapped,0.0,19.0,,0,0,0.15127919911012236
+2024,18,Singapore Grand Prix,gasly,Pierre Gasly,alpine,Alpine,18.0,17.0,Lapped,0.0,18.0,,0,0,0.0877742946708464
+2024,18,Singapore Grand Prix,ricciardo,Daniel Ricciardo,rb,RB,16.0,18.0,Lapped,0.0,16.0,,0,0,0.12024756852343058
+2024,18,Singapore Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,14.0,19.0,Retired,0.0,14.0,,0,0,0.05719091673675357
+2024,18,Singapore Grand Prix,albon,Alexander Albon,williams,Williams,11.0,20.0,Retired,0.0,11.0,,0,0,0.0625287356321839
+2024,19,United States Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,4.0,1.0,Finished,25.0,4.0,,1,1,0.41559444158517755
+2024,19,United States Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,3.0,2.0,Finished,18.0,3.0,,0,1,0.41559444158517755
+2024,19,United States Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,3.0,Finished,15.0,2.0,,0,1,0.5805011163483007
+2024,19,United States Grand Prix,norris,Lando Norris,mclaren,McLaren,1.0,4.0,Finished,12.0,1.0,,0,0,0.27244011581995264
+2024,19,United States Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,5.0,5.0,Finished,10.0,5.0,,0,0,0.27244011581995264
+2024,19,United States Grand Prix,russell,George Russell,mercedes,Mercedes,20.0,6.0,Finished,8.0,6.0,,0,0,0.2763546798029557
+2024,19,United States Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,9.0,7.0,Finished,6.0,10.0,,0,0,0.5805011163483007
+2024,19,United States Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,11.0,8.0,Finished,4.0,12.0,,0,0,0.05719091673675357
+2024,19,United States Grand Prix,lawson,Liam Lawson,rb,RB,19.0,9.0,Finished,2.0,15.0,,0,0,0.12024756852343058
+2024,19,United States Grand Prix,colapinto,Franco Colapinto,williams,Williams,15.0,10.0,Finished,1.0,17.0,,0,0,0.0625287356321839
+2024,19,United States Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,8.0,11.0,Finished,0.0,9.0,,0,0,0.05719091673675357
+2024,19,United States Grand Prix,gasly,Pierre Gasly,alpine,Alpine,6.0,12.0,Finished,0.0,7.0,,0,0,0.0877742946708464
+2024,19,United States Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,7.0,13.0,Lapped,0.0,8.0,,0,0,0.11536050156739812
+2024,19,United States Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,10.0,14.0,Lapped,0.0,11.0,,0,0,0.12024756852343058
+2024,19,United States Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,13.0,15.0,Lapped,0.0,14.0,,0,0,0.11536050156739812
+2024,19,United States Grand Prix,albon,Alexander Albon,williams,Williams,14.0,16.0,Lapped,0.0,16.0,,0,0,0.0625287356321839
+2024,19,United States Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,16.0,17.0,Lapped,0.0,18.0,,0,0,0.15127919911012236
+2024,19,United States Grand Prix,ocon,Esteban Ocon,alpine,Alpine,12.0,18.0,Lapped,0.0,13.0,,0,0,0.0877742946708464
+2024,19,United States Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,18.0,19.0,Lapped,0.0,20.0,,0,0,0.15127919911012236
+2024,19,United States Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,17.0,20.0,Retired,0.0,19.0,,0,0,0.2763546798029557
+2024,20,Mexico City Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,1.0,1.0,Finished,25.0,1.0,,1,1,0.41559444158517755
+2024,20,Mexico City Grand Prix,norris,Lando Norris,mclaren,McLaren,3.0,2.0,Finished,18.0,3.0,,0,1,0.27244011581995264
+2024,20,Mexico City Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,4.0,3.0,Finished,16.0,4.0,,0,1,0.41559444158517755
+2024,20,Mexico City Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,6.0,4.0,Finished,12.0,6.0,,0,0,0.2763546798029557
+2024,20,Mexico City Grand Prix,russell,George Russell,mercedes,Mercedes,5.0,5.0,Finished,10.0,5.0,,0,0,0.2763546798029557
+2024,20,Mexico City Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,6.0,Finished,8.0,2.0,,0,0,0.5805011163483007
+2024,20,Mexico City Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,7.0,7.0,Finished,6.0,7.0,,0,0,0.05719091673675357
+2024,20,Mexico City Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,17.0,8.0,Finished,4.0,17.0,,0,0,0.27244011581995264
+2024,20,Mexico City Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,10.0,9.0,Lapped,2.0,10.0,,0,0,0.05719091673675357
+2024,20,Mexico City Grand Prix,gasly,Pierre Gasly,alpine,Alpine,8.0,10.0,Lapped,1.0,8.0,,0,0,0.0877742946708464
+2024,20,Mexico City Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,14.0,11.0,Lapped,0.0,14.0,,0,0,0.11536050156739812
+2024,20,Mexico City Grand Prix,colapinto,Franco Colapinto,williams,Williams,16.0,12.0,Lapped,0.0,16.0,,0,0,0.0625287356321839
+2024,20,Mexico City Grand Prix,ocon,Esteban Ocon,alpine,Alpine,0.0,13.0,Lapped,0.0,19.0,,0,0,0.0877742946708464
+2024,20,Mexico City Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,15.0,14.0,Lapped,0.0,15.0,,0,0,0.15127919911012236
+2024,20,Mexico City Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,19.0,15.0,Lapped,0.0,20.0,,0,0,0.15127919911012236
+2024,20,Mexico City Grand Prix,lawson,Liam Lawson,rb,RB,12.0,16.0,Lapped,0.0,12.0,,0,0,0.12024756852343058
+2024,20,Mexico City Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,18.0,17.0,Lapped,0.0,18.0,,0,0,0.5805011163483007
+2024,20,Mexico City Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,13.0,18.0,Retired,0.0,13.0,,0,0,0.11536050156739812
+2024,20,Mexico City Grand Prix,albon,Alexander Albon,williams,Williams,9.0,19.0,Retired,0.0,9.0,,0,0,0.0625287356321839
+2024,20,Mexico City Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,11.0,20.0,Retired,0.0,11.0,,0,0,0.12024756852343058
+2024,21,São Paulo Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,17.0,1.0,Finished,26.0,12.0,,1,1,0.5805011163483007
+2024,21,São Paulo Grand Prix,ocon,Esteban Ocon,alpine,Alpine,4.0,2.0,Finished,18.0,4.0,,0,1,0.0877742946708464
+2024,21,São Paulo Grand Prix,gasly,Pierre Gasly,alpine,Alpine,13.0,3.0,Finished,15.0,15.0,,0,1,0.0877742946708464
+2024,21,São Paulo Grand Prix,russell,George Russell,mercedes,Mercedes,2.0,4.0,Finished,12.0,2.0,,0,0,0.2763546798029557
+2024,21,São Paulo Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,6.0,5.0,Finished,10.0,6.0,,0,0,0.41559444158517755
+2024,21,São Paulo Grand Prix,norris,Lando Norris,mclaren,McLaren,1.0,6.0,Finished,8.0,1.0,,0,0,0.27244011581995264
+2024,21,São Paulo Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,3.0,7.0,Finished,6.0,3.0,,0,0,0.12024756852343058
+2024,21,São Paulo Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,8.0,8.0,Finished,4.0,8.0,,0,0,0.27244011581995264
+2024,21,São Paulo Grand Prix,lawson,Liam Lawson,rb,RB,5.0,9.0,Finished,2.0,5.0,,0,0,0.12024756852343058
+2024,21,São Paulo Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,14.0,10.0,Finished,1.0,16.0,,0,0,0.2763546798029557
+2024,21,São Paulo Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,12.0,11.0,Finished,0.0,13.0,,0,0,0.5805011163483007
+2024,21,São Paulo Grand Prix,bearman,Oliver Bearman,haas,Haas F1 Team,15.0,12.0,Finished,0.0,17.0,,0,0,0.05719091673675357
+2024,21,São Paulo Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,11.0,13.0,Finished,0.0,11.0,,0,0,0.15127919911012236
+2024,21,São Paulo Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,9.0,14.0,Finished,0.0,9.0,,0,0,0.11536050156739812
+2024,21,São Paulo Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,19.0,15.0,Finished,0.0,20.0,,0,0,0.15127919911012236
+2024,21,São Paulo Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,20.0,16.0,Retired,0.0,14.0,,0,0,0.41559444158517755
+2024,21,São Paulo Grand Prix,colapinto,Franco Colapinto,williams,Williams,16.0,17.0,Retired,0.0,18.0,,0,0,0.0625287356321839
+2024,21,São Paulo Grand Prix,albon,Alexander Albon,williams,Williams,7.0,18.0,Did not start,0.0,7.0,,0,0,0.0625287356321839
+2024,21,São Paulo Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,10.0,19.0,Did not start,0.0,10.0,,0,0,0.11536050156739812
+2024,21,São Paulo Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,18.0,20.0,Disqualified,0.0,19.0,,0,0,0.05719091673675357
+2024,22,Las Vegas Grand Prix,russell,George Russell,mercedes,Mercedes,1.0,1.0,Finished,25.0,1.0,,1,1,0.2763546798029557
+2024,22,Las Vegas Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,10.0,2.0,Finished,18.0,10.0,,0,1,0.2763546798029557
+2024,22,Las Vegas Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,2.0,3.0,Finished,15.0,2.0,,0,1,0.41559444158517755
+2024,22,Las Vegas Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,4.0,4.0,Finished,12.0,4.0,,0,0,0.41559444158517755
+2024,22,Las Vegas Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,5.0,5.0,Finished,10.0,5.0,,0,0,0.5805011163483007
+2024,22,Las Vegas Grand Prix,norris,Lando Norris,mclaren,McLaren,6.0,6.0,Finished,9.0,6.0,,0,0,0.27244011581995264
+2024,22,Las Vegas Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,8.0,7.0,Finished,6.0,8.0,,0,0,0.27244011581995264
+2024,22,Las Vegas Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,9.0,8.0,Finished,4.0,9.0,,0,0,0.05719091673675357
+2024,22,Las Vegas Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,7.0,9.0,Finished,2.0,7.0,,0,0,0.12024756852343058
+2024,22,Las Vegas Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,15.0,10.0,Finished,1.0,16.0,,0,0,0.5805011163483007
+2024,22,Las Vegas Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,16.0,11.0,Finished,0.0,17.0,,0,0,0.11536050156739812
+2024,22,Las Vegas Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,12.0,12.0,Finished,0.0,12.0,,0,0,0.05719091673675357
+2024,22,Las Vegas Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,13.0,13.0,Finished,0.0,13.0,,0,0,0.15127919911012236
+2024,22,Las Vegas Grand Prix,colapinto,Franco Colapinto,williams,Williams,20.0,14.0,Finished,0.0,14.0,,0,0,0.0625287356321839
+2024,22,Las Vegas Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,18.0,15.0,Finished,0.0,20.0,,0,0,0.11536050156739812
+2024,22,Las Vegas Grand Prix,lawson,Liam Lawson,rb,RB,14.0,16.0,Finished,0.0,15.0,,0,0,0.12024756852343058
+2024,22,Las Vegas Grand Prix,ocon,Esteban Ocon,alpine,Alpine,11.0,17.0,Lapped,0.0,11.0,,0,0,0.0877742946708464
+2024,22,Las Vegas Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,19.0,18.0,Lapped,0.0,19.0,,0,0,0.15127919911012236
+2024,22,Las Vegas Grand Prix,albon,Alexander Albon,williams,Williams,17.0,19.0,Retired,0.0,18.0,,0,0,0.0625287356321839
+2024,22,Las Vegas Grand Prix,gasly,Pierre Gasly,alpine,Alpine,3.0,20.0,Retired,0.0,3.0,,0,0,0.0877742946708464
+2024,23,Qatar Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,25.0,1.0,,1,1,0.5805011163483007
+2024,23,Qatar Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,5.0,2.0,Finished,18.0,5.0,,0,1,0.41559444158517755
+2024,23,Qatar Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,4.0,3.0,Finished,15.0,4.0,,0,1,0.27244011581995264
+2024,23,Qatar Grand Prix,russell,George Russell,mercedes,Mercedes,1.0,4.0,Finished,12.0,2.0,,0,0,0.2763546798029557
+2024,23,Qatar Grand Prix,gasly,Pierre Gasly,alpine,Alpine,11.0,5.0,Finished,10.0,11.0,,0,0,0.0877742946708464
+2024,23,Qatar Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,7.0,6.0,Finished,8.0,7.0,,0,0,0.41559444158517755
+2024,23,Qatar Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,8.0,7.0,Finished,6.0,8.0,,0,0,0.11536050156739812
+2024,23,Qatar Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,12.0,8.0,Finished,4.0,12.0,,0,0,0.15127919911012236
+2024,23,Qatar Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,10.0,9.0,Finished,2.0,10.0,,0,0,0.05719091673675357
+2024,23,Qatar Grand Prix,norris,Lando Norris,mclaren,McLaren,3.0,10.0,Finished,2.0,3.0,,0,0,0.27244011581995264
+2024,23,Qatar Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,13.0,11.0,Finished,0.0,13.0,,0,0,0.15127919911012236
+2024,23,Qatar Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,6.0,12.0,Finished,0.0,6.0,,0,0,0.2763546798029557
+2024,23,Qatar Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,14.0,13.0,Finished,0.0,14.0,,0,0,0.12024756852343058
+2024,23,Qatar Grand Prix,lawson,Liam Lawson,rb,RB,17.0,14.0,Finished,0.0,17.0,,0,0,0.12024756852343058
+2024,23,Qatar Grand Prix,albon,Alexander Albon,williams,Williams,16.0,15.0,Lapped,0.0,16.0,,0,0,0.0625287356321839
+2024,23,Qatar Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,18.0,16.0,Retired,0.0,18.0,,0,0,0.05719091673675357
+2024,23,Qatar Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,9.0,17.0,Retired,0.0,9.0,,0,0,0.5805011163483007
+2024,23,Qatar Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,15.0,18.0,Retired,0.0,15.0,,0,0,0.11536050156739812
+2024,23,Qatar Grand Prix,colapinto,Franco Colapinto,williams,Williams,19.0,19.0,Retired,0.0,19.0,,0,0,0.0625287356321839
+2024,23,Qatar Grand Prix,ocon,Esteban Ocon,alpine,Alpine,20.0,20.0,Retired,0.0,20.0,,0,0,0.0877742946708464
+2024,24,Abu Dhabi Grand Prix,norris,Lando Norris,mclaren,McLaren,1.0,1.0,Finished,25.0,1.0,,1,1,0.27244011581995264
+2024,24,Abu Dhabi Grand Prix,sainz,Carlos Sainz,ferrari,Ferrari,3.0,2.0,Finished,18.0,3.0,,0,1,0.41559444158517755
+2024,24,Abu Dhabi Grand Prix,leclerc,Charles Leclerc,ferrari,Ferrari,19.0,3.0,Finished,15.0,14.0,,0,1,0.41559444158517755
+2024,24,Abu Dhabi Grand Prix,hamilton,Lewis Hamilton,mercedes,Mercedes,16.0,4.0,Finished,12.0,18.0,,0,0,0.2763546798029557
+2024,24,Abu Dhabi Grand Prix,russell,George Russell,mercedes,Mercedes,6.0,5.0,Finished,10.0,7.0,,0,0,0.2763546798029557
+2024,24,Abu Dhabi Grand Prix,max_verstappen,Max Verstappen,red_bull,Red Bull Racing,4.0,6.0,Finished,8.0,5.0,,0,0,0.5805011163483007
+2024,24,Abu Dhabi Grand Prix,gasly,Pierre Gasly,alpine,Alpine,5.0,7.0,Finished,6.0,6.0,,0,0,0.0877742946708464
+2024,24,Abu Dhabi Grand Prix,hulkenberg,Nico Hulkenberg,haas,Haas F1 Team,7.0,8.0,Finished,4.0,4.0,,0,0,0.05719091673675357
+2024,24,Abu Dhabi Grand Prix,alonso,Fernando Alonso,aston_martin,Aston Martin,8.0,9.0,Finished,2.0,8.0,,0,0,0.11536050156739812
+2024,24,Abu Dhabi Grand Prix,piastri,Oscar Piastri,mclaren,McLaren,2.0,10.0,Finished,1.0,2.0,,0,0,0.27244011581995264
+2024,24,Abu Dhabi Grand Prix,albon,Alexander Albon,williams,Williams,18.0,11.0,Lapped,0.0,16.0,,0,0,0.0625287356321839
+2024,24,Abu Dhabi Grand Prix,tsunoda,Yuki Tsunoda,rb,RB,11.0,12.0,Lapped,0.0,11.0,,0,0,0.12024756852343058
+2024,24,Abu Dhabi Grand Prix,zhou,Guanyu Zhou,sauber,Kick Sauber,15.0,13.0,Lapped,0.0,17.0,,0,0,0.15127919911012236
+2024,24,Abu Dhabi Grand Prix,stroll,Lance Stroll,aston_martin,Aston Martin,13.0,14.0,Lapped,0.0,13.0,,0,0,0.11536050156739812
+2024,24,Abu Dhabi Grand Prix,doohan,Jack Doohan,alpine,Alpine,17.0,15.0,Lapped,0.0,20.0,,0,0,0.0877742946708464
+2024,24,Abu Dhabi Grand Prix,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,14.0,16.0,Lapped,0.0,15.0,,0,0,0.05719091673675357
+2024,24,Abu Dhabi Grand Prix,lawson,Liam Lawson,rb,RB,12.0,17.0,Retired,0.0,12.0,,0,0,0.12024756852343058
+2024,24,Abu Dhabi Grand Prix,bottas,Valtteri Bottas,sauber,Kick Sauber,9.0,18.0,Retired,0.0,9.0,,0,0,0.15127919911012236
+2024,24,Abu Dhabi Grand Prix,colapinto,Franco Colapinto,williams,Williams,20.0,19.0,Retired,0.0,19.0,,0,0,0.0625287356321839
+2024,24,Abu Dhabi Grand Prix,perez,Sergio Perez,red_bull,Red Bull Racing,10.0,20.0,Retired,0.0,10.0,,0,0,0.5805011163483007
