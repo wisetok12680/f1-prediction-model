@@ -1,0 +1,321 @@
+season,round,race_name,driver_id,driver_rain_skill,wet_race_experience
+2022,5,Miami Grand Prix,albon,,0
+2022,7,Monaco Grand Prix,albon,-0.2866620286348054,1
+2022,10,British Grand Prix,albon,-0.24643574453374817,2
+2022,13,Hungarian Grand Prix,albon,-0.31565630830491964,3
+2022,17,Singapore Grand Prix,albon,-0.40735472807836026,4
+2022,18,Japanese Grand Prix,albon,-0.40735472807836026,5
+2023,6,Monaco Grand Prix,albon,-0.5504035078489673,6
+2023,9,Austrian Grand Prix,albon,-0.24065884883311117,7
+2023,12,Belgian Grand Prix,albon,-0.05844696679597561,8
+2023,13,Dutch Grand Prix,albon,0.10969394607122085,9
+2023,20,São Paulo Grand Prix,albon,-0.07267210316286243,10
+2024,9,Canadian Grand Prix,albon,-0.03963719008062139,11
+2024,10,Spanish Grand Prix,albon,-0.03963719008062139,12
+2024,11,Austrian Grand Prix,albon,-0.040213617460684525,13
+2024,12,British Grand Prix,albon,-0.11582017403093825,14
+2024,21,São Paulo Grand Prix,albon,-0.06421287116496843,15
+2022,5,Miami Grand Prix,alonso,-0.03266530434436088,0
+2022,7,Monaco Grand Prix,alonso,-0.054528822439180225,1
+2022,10,British Grand Prix,alonso,-0.06191263694388893,2
+2022,13,Hungarian Grand Prix,alonso,-0.10447066629518909,3
+2022,17,Singapore Grand Prix,alonso,-0.10021907558858734,4
+2022,18,Japanese Grand Prix,alonso,-0.10021907558858734,5
+2023,6,Monaco Grand Prix,alonso,-0.049667531169368506,6
+2023,9,Austrian Grand Prix,alonso,-0.06452278372569564,7
+2023,12,Belgian Grand Prix,alonso,-0.07697535878488293,8
+2023,13,Dutch Grand Prix,alonso,-0.07096749788557166,9
+2023,20,São Paulo Grand Prix,alonso,-0.12319684125337715,10
+2024,9,Canadian Grand Prix,alonso,-0.13031106751137256,11
+2024,10,Spanish Grand Prix,alonso,-0.14764357149792695,12
+2024,11,Austrian Grand Prix,alonso,-0.16598598169331347,13
+2024,12,British Grand Prix,alonso,-0.16113263039594194,14
+2024,21,São Paulo Grand Prix,alonso,-0.13576756125302458,15
+2024,21,São Paulo Grand Prix,bearman,-0.14676603721809378,0
+2022,5,Miami Grand Prix,bottas,-0.1385514723025041,0
+2022,7,Monaco Grand Prix,bottas,-0.1453444480950571,1
+2022,10,British Grand Prix,bottas,-0.1333028277206766,2
+2022,13,Hungarian Grand Prix,bottas,-0.13802210192507802,3
+2022,17,Singapore Grand Prix,bottas,-0.13802210192507802,4
+2022,18,Japanese Grand Prix,bottas,-0.10908961356377345,5
+2023,6,Monaco Grand Prix,bottas,-0.0543550549205255,6
+2023,9,Austrian Grand Prix,bottas,-0.06503948996949349,7
+2023,12,Belgian Grand Prix,bottas,-0.061747605088231294,8
+2023,13,Dutch Grand Prix,bottas,-0.04070701903573082,9
+2023,20,São Paulo Grand Prix,bottas,-0.06699291033740606,10
+2024,9,Canadian Grand Prix,bottas,-0.06165287127993002,11
+2024,10,Spanish Grand Prix,bottas,-0.065720519351127,12
+2024,11,Austrian Grand Prix,bottas,-0.0628595378634823,13
+2024,12,British Grand Prix,bottas,-0.07309371442367218,14
+2024,21,São Paulo Grand Prix,bottas,-0.06345349114770649,15
+2024,21,São Paulo Grand Prix,colapinto,-0.06662636108888764,0
+2023,6,Monaco Grand Prix,de_vries,-0.0734048302410929,0
+2023,9,Austrian Grand Prix,de_vries,-0.06941245730248613,1
+2022,5,Miami Grand Prix,gasly,-0.07292026678217789,0
+2022,7,Monaco Grand Prix,gasly,-0.07292026678217789,1
+2022,10,British Grand Prix,gasly,-0.07049072966082048,2
+2022,13,Hungarian Grand Prix,gasly,-0.07211003037963803,3
+2022,17,Singapore Grand Prix,gasly,-0.07097877080332204,4
+2022,18,Japanese Grand Prix,gasly,-0.06069868111704502,5
+2023,6,Monaco Grand Prix,gasly,-0.02481004313536228,6
+2023,9,Austrian Grand Prix,gasly,-0.026419828692690994,7
+2023,12,Belgian Grand Prix,gasly,-0.023819155484562815,8
+2023,13,Dutch Grand Prix,gasly,-0.011524873254703527,9
+2023,20,São Paulo Grand Prix,gasly,-0.03551615437319611,10
+2024,9,Canadian Grand Prix,gasly,-0.0348368511827315,11
+2024,10,Spanish Grand Prix,gasly,-0.041759066519204135,12
+2024,11,Austrian Grand Prix,gasly,-0.03877247500973502,13
+2024,12,British Grand Prix,gasly,-0.03703444221505636,14
+2024,21,São Paulo Grand Prix,gasly,-0.04223654740898397,15
+2022,5,Miami Grand Prix,hamilton,-0.032738396681795234,0
+2022,7,Monaco Grand Prix,hamilton,-0.03956692500728043,1
+2022,10,British Grand Prix,hamilton,-0.03682151407559664,2
+2022,13,Hungarian Grand Prix,hamilton,-0.04371223871273433,3
+2022,17,Singapore Grand Prix,hamilton,-0.04931462261773201,4
+2022,18,Japanese Grand Prix,hamilton,-0.044690015086712,5
+2023,6,Monaco Grand Prix,hamilton,-0.035503337997270235,6
+2023,9,Austrian Grand Prix,hamilton,-0.03473086278056314,7
+2023,12,Belgian Grand Prix,hamilton,-0.03153825473263927,8
+2023,13,Dutch Grand Prix,hamilton,-0.03269881049680612,9
+2023,20,São Paulo Grand Prix,hamilton,-0.032754158790981314,10
+2024,9,Canadian Grand Prix,hamilton,-0.02508203797753894,11
+2024,10,Spanish Grand Prix,hamilton,-0.034429739061390685,12
+2024,11,Austrian Grand Prix,hamilton,-0.040404453693988374,13
+2024,12,British Grand Prix,hamilton,-0.045294832604084845,14
+2024,21,São Paulo Grand Prix,hamilton,0.7872543634810942,15
+2023,6,Monaco Grand Prix,hulkenberg,0.8115324590840056,0
+2023,9,Austrian Grand Prix,hulkenberg,0.7978681777241905,1
+2023,12,Belgian Grand Prix,hulkenberg,0.8043741994251068,2
+2023,13,Dutch Grand Prix,hulkenberg,0.7988060691000631,3
+2023,20,São Paulo Grand Prix,hulkenberg,0.7857215620513678,4
+2024,9,Canadian Grand Prix,hulkenberg,0.7759822058973631,5
+2024,10,Spanish Grand Prix,hulkenberg,0.7519239426015247,6
+2024,11,Austrian Grand Prix,hulkenberg,0.7379779113200435,7
+2024,12,British Grand Prix,hulkenberg,0.7194188666374677,8
+2024,21,São Paulo Grand Prix,hulkenberg,0.7209032285260497,9
+2022,5,Miami Grand Prix,kevin_magnussen,0.7268727221149047,0
+2022,7,Monaco Grand Prix,kevin_magnussen,0.7268727221149047,1
+2022,10,British Grand Prix,kevin_magnussen,0.7280972447454124,2
+2022,13,Hungarian Grand Prix,kevin_magnussen,0.7066646199002724,3
+2022,17,Singapore Grand Prix,kevin_magnussen,0.7094204311683898,4
+2022,18,Japanese Grand Prix,kevin_magnussen,0.70127447927651,5
+2023,6,Monaco Grand Prix,kevin_magnussen,0.704179728284466,6
+2023,9,Austrian Grand Prix,kevin_magnussen,0.7080540502912309,7
+2023,12,Belgian Grand Prix,kevin_magnussen,0.6926682690005195,8
+2023,13,Dutch Grand Prix,kevin_magnussen,0.6881760389506935,9
+2023,20,São Paulo Grand Prix,kevin_magnussen,0.6825249209312898,10
+2024,9,Canadian Grand Prix,kevin_magnussen,0.6982497139401593,11
+2024,10,Spanish Grand Prix,kevin_magnussen,0.6792993952432549,12
+2024,11,Austrian Grand Prix,kevin_magnussen,0.6652175926603319,13
+2024,12,British Grand Prix,kevin_magnussen,0.6516773299966534,14
+2022,5,Miami Grand Prix,latifi,0.6572923622781139,0
+2022,7,Monaco Grand Prix,latifi,0.643937283075595,1
+2022,10,British Grand Prix,latifi,0.6451748435998863,2
+2022,13,Hungarian Grand Prix,latifi,0.629621519450505,3
+2022,17,Singapore Grand Prix,latifi,0.629621519450505,4
+2022,18,Japanese Grand Prix,latifi,0.629621519450505,5
+2023,13,Dutch Grand Prix,lawson,0.6298426305277742,0
+2024,21,São Paulo Grand Prix,lawson,0.6196790131996031,1
+2022,5,Miami Grand Prix,leclerc,0.1316002397768754,0
+2022,7,Monaco Grand Prix,leclerc,0.11269512270645832,1
+2022,10,British Grand Prix,leclerc,0.09862508259043223,2
+2022,13,Hungarian Grand Prix,leclerc,-0.09669926068245016,3
+2022,17,Singapore Grand Prix,leclerc,-0.1013707623969271,4
+2022,18,Japanese Grand Prix,leclerc,-0.1178743277759069,5
+2023,6,Monaco Grand Prix,leclerc,-0.10634978071000156,6
+2023,9,Austrian Grand Prix,leclerc,-0.10909179119564172,7
+2023,12,Belgian Grand Prix,leclerc,-0.11804027508411763,8
+2023,13,Dutch Grand Prix,leclerc,-0.13109582869614056,9
+2023,20,São Paulo Grand Prix,leclerc,-0.1102606531407242,10
+2024,9,Canadian Grand Prix,leclerc,-0.32987174957588294,11
+2024,10,Spanish Grand Prix,leclerc,-0.32987174957588294,12
+2024,11,Austrian Grand Prix,leclerc,-0.3415125374158343,13
+2024,12,British Grand Prix,leclerc,-0.3475733335623814,14
+2024,21,São Paulo Grand Prix,leclerc,-0.748845727099382,15
+2022,5,Miami Grand Prix,max_verstappen,-1.148973981860215,0
+2022,7,Monaco Grand Prix,max_verstappen,-0.509078128388043,1
+2022,10,British Grand Prix,max_verstappen,-0.9478770758371242,2
+2022,13,Hungarian Grand Prix,max_verstappen,-1.175689594190373,3
+2022,17,Singapore Grand Prix,max_verstappen,-1.10431529497647,4
+2022,18,Japanese Grand Prix,max_verstappen,-1.1229251613860098,5
+2023,6,Monaco Grand Prix,max_verstappen,0.7099048987073031,6
+2023,9,Austrian Grand Prix,max_verstappen,1.001851488412612,7
+2023,12,Belgian Grand Prix,max_verstappen,1.147663210308731,8
+2023,13,Dutch Grand Prix,max_verstappen,1.947943723264408,9
+2023,20,São Paulo Grand Prix,max_verstappen,1.875018323230032,10
+2024,9,Canadian Grand Prix,max_verstappen,1.2611010887986822,11
+2024,10,Spanish Grand Prix,max_verstappen,1.8555453596762845,12
+2024,11,Austrian Grand Prix,max_verstappen,2.3586796775616747,13
+2024,12,British Grand Prix,max_verstappen,2.259773713497328,14
+2024,21,São Paulo Grand Prix,max_verstappen,2.323769318710621,15
+2022,5,Miami Grand Prix,mick_schumacher,1.9989690412923231,0
+2022,7,Monaco Grand Prix,mick_schumacher,1.9094345458317878,1
+2022,10,British Grand Prix,mick_schumacher,1.9094345458317878,2
+2022,13,Hungarian Grand Prix,mick_schumacher,1.834070349791876,3
+2022,17,Singapore Grand Prix,mick_schumacher,1.8758516760371986,4
+2022,18,Japanese Grand Prix,mick_schumacher,1.8758516760371986,5
+2022,5,Miami Grand Prix,norris,2.0094735480422443,0
+2022,7,Monaco Grand Prix,norris,2.028149601747918,1
+2022,10,British Grand Prix,norris,1.971128444398646,2
+2022,13,Hungarian Grand Prix,norris,1.8977117732223636,3
+2022,17,Singapore Grand Prix,norris,1.8693447106469065,4
+2022,18,Japanese Grand Prix,norris,1.7816201175129596,5
+2023,6,Monaco Grand Prix,norris,1.8295273414848356,6
+2023,9,Austrian Grand Prix,norris,1.7788077364444632,7
+2023,12,Belgian Grand Prix,norris,1.7331126854940369,8
+2023,13,Dutch Grand Prix,norris,1.657239189566777,9
+2023,20,São Paulo Grand Prix,norris,1.6846676579908273,10
+2024,9,Canadian Grand Prix,norris,1.591892322488592,11
+2024,10,Spanish Grand Prix,norris,1.512301822994754,12
+2024,11,Austrian Grand Prix,norris,1.434260949345223,13
+2024,12,British Grand Prix,norris,1.434260949345223,14
+2024,21,São Paulo Grand Prix,norris,1.194302529829308,15
+2022,5,Miami Grand Prix,ocon,1.2945254524207996,0
+2022,7,Monaco Grand Prix,ocon,1.2377440864023175,1
+2022,10,British Grand Prix,ocon,1.2002639847570968,2
+2022,13,Hungarian Grand Prix,ocon,1.2315876920859878,3
+2022,17,Singapore Grand Prix,ocon,1.27998671415137,4
+2022,18,Japanese Grand Prix,ocon,1.27998671415137,5
+2023,6,Monaco Grand Prix,ocon,1.3001782549029226,6
+2023,9,Austrian Grand Prix,ocon,1.2608748599539403,7
+2023,12,Belgian Grand Prix,ocon,1.1933046172319983,8
+2023,13,Dutch Grand Prix,ocon,1.1310531619928579,9
+2023,20,São Paulo Grand Prix,ocon,1.1072483536209248,10
+2024,9,Canadian Grand Prix,ocon,1.1741998351405591,11
+2024,10,Spanish Grand Prix,ocon,1.1099534254872445,12
+2024,11,Austrian Grand Prix,ocon,1.050892657257993,13
+2024,12,British Grand Prix,ocon,0.992175038756816,14
+2024,21,São Paulo Grand Prix,ocon,1.0440342115453358,15
+2022,5,Miami Grand Prix,perez,1.1184071706860976,0
+2022,7,Monaco Grand Prix,perez,1.0712047732480503,1
+2022,10,British Grand Prix,perez,1.654978250897944,2
+2022,13,Hungarian Grand Prix,perez,1.6034327770187229,3
+2022,17,Singapore Grand Prix,perez,1.5826505557145527,4
+2022,18,Japanese Grand Prix,perez,2.219215251482062,5
+2023,6,Monaco Grand Prix,perez,1.9638766829385226,6
+2023,9,Austrian Grand Prix,perez,1.9272693610807394,7
+2023,12,Belgian Grand Prix,perez,1.8899184407134069,8
+2023,13,Dutch Grand Prix,perez,1.824000805430515,9
+2023,20,São Paulo Grand Prix,perez,1.8134796674369227,10
+2024,9,Canadian Grand Prix,perez,1.875088332554494,11
+2024,10,Spanish Grand Prix,perez,1.875088332554494,12
+2024,11,Austrian Grand Prix,perez,1.8164187885273204,13
+2024,12,British Grand Prix,perez,1.7580167767821706,14
+2024,21,São Paulo Grand Prix,perez,1.7869848995590019,15
+2023,6,Monaco Grand Prix,piastri,1.8601285405481907,0
+2023,9,Austrian Grand Prix,piastri,1.8252946295345271,1
+2023,12,Belgian Grand Prix,piastri,1.7935730711542597,2
+2023,13,Dutch Grand Prix,piastri,1.7935730711542597,3
+2023,20,São Paulo Grand Prix,piastri,1.795810192238065,4
+2024,9,Canadian Grand Prix,piastri,1.8566299182378732,5
+2024,10,Spanish Grand Prix,piastri,1.7991351654742278,6
+2024,11,Austrian Grand Prix,piastri,1.7444873992098735,7
+2024,12,British Grand Prix,piastri,1.6882493684869235,8
+2024,21,São Paulo Grand Prix,piastri,1.4621368571673923,9
+2022,5,Miami Grand Prix,ricciardo,1.5203528772015975,0
+2022,7,Monaco Grand Prix,ricciardo,1.468972232238725,1
+2022,10,British Grand Prix,ricciardo,1.441245363107944,2
+2022,13,Hungarian Grand Prix,ricciardo,1.4017303328693913,3
+2022,17,Singapore Grand Prix,ricciardo,1.4225599271942695,4
+2022,18,Japanese Grand Prix,ricciardo,1.3742898575819336,5
+2023,12,Belgian Grand Prix,ricciardo,1.3622052033019862,6
+2023,20,São Paulo Grand Prix,ricciardo,1.3429829779422793,7
+2024,9,Canadian Grand Prix,ricciardo,1.385918865367028,8
+2024,10,Spanish Grand Prix,ricciardo,1.3375400533861086,9
+2024,11,Austrian Grand Prix,ricciardo,1.2912236251012654,10
+2024,12,British Grand Prix,ricciardo,1.2464645010437359,11
+2022,5,Miami Grand Prix,russell,1.3499646257033593,0
+2022,7,Monaco Grand Prix,russell,1.3136310010873906,1
+2022,10,British Grand Prix,russell,1.2880570481848803,2
+2022,13,Hungarian Grand Prix,russell,1.308909276671086,3
+2022,17,Singapore Grand Prix,russell,1.2945076824807256,4
+2022,18,Japanese Grand Prix,russell,1.2945076824807256,5
+2023,6,Monaco Grand Prix,russell,1.2252187011655682,6
+2023,9,Austrian Grand Prix,russell,1.19247856488653,7
+2023,12,Belgian Grand Prix,russell,1.1700697063595467,8
+2023,13,Dutch Grand Prix,russell,1.129390585989869,9
+2023,20,São Paulo Grand Prix,russell,1.1374779188030626,10
+2024,9,Canadian Grand Prix,russell,1.2249486543156642,11
+2024,10,Spanish Grand Prix,russell,1.1809153022104635,12
+2024,11,Austrian Grand Prix,russell,1.1387998808152027,13
+2024,12,British Grand Prix,russell,1.4107231348497162,14
+2024,21,São Paulo Grand Prix,russell,1.4761229082119218,15
+2022,5,Miami Grand Prix,sainz,1.4062757679482427,0
+2022,7,Monaco Grand Prix,sainz,1.3714987579344449,1
+2022,10,British Grand Prix,sainz,1.3374816204606308,2
+2022,13,Hungarian Grand Prix,sainz,1.9949659500830563,3
+2022,17,Singapore Grand Prix,sainz,1.9776500655021003,4
+2022,18,Japanese Grand Prix,sainz,1.9311314843191951,5
+2023,6,Monaco Grand Prix,sainz,2.006430865066223,6
+2023,9,Austrian Grand Prix,sainz,1.981803292523466,7
+2023,12,Belgian Grand Prix,sainz,1.955519310564549,8
+2023,13,Dutch Grand Prix,sainz,1.955519310564549,9
+2023,20,São Paulo Grand Prix,sainz,1.8363506009603512,10
+2024,9,Canadian Grand Prix,sainz,1.7727886136518958,11
+2024,10,Spanish Grand Prix,sainz,1.7727886136518958,12
+2024,11,Austrian Grand Prix,sainz,1.730079410172154,13
+2024,12,British Grand Prix,sainz,1.6862378311352533,14
+2024,21,São Paulo Grand Prix,sainz,1.6121790599497743,15
+2023,6,Monaco Grand Prix,sargeant,1.6642490223924682,0
+2023,9,Austrian Grand Prix,sargeant,1.6337710053805576,1
+2023,12,Belgian Grand Prix,sargeant,1.6016533350603233,2
+2023,13,Dutch Grand Prix,sargeant,1.5671402510372978,3
+2023,20,São Paulo Grand Prix,sargeant,1.5901601026596897,4
+2024,9,Canadian Grand Prix,sargeant,1.6163659724336856,5
+2024,10,Spanish Grand Prix,sargeant,1.6163659724336856,6
+2024,11,Austrian Grand Prix,sargeant,1.5751526708242007,7
+2024,12,British Grand Prix,sargeant,1.5345250640857682,8
+2022,5,Miami Grand Prix,stroll,1.5728306227244389,0
+2022,7,Monaco Grand Prix,stroll,1.534672655181959,1
+2022,10,British Grand Prix,stroll,1.5067158922161656,2
+2022,13,Hungarian Grand Prix,stroll,1.4766584582353328,3
+2022,17,Singapore Grand Prix,stroll,1.4920147071740004,4
+2022,18,Japanese Grand Prix,stroll,1.4564074592607739,5
+2023,6,Monaco Grand Prix,stroll,1.4719433957948915,6
+2023,9,Austrian Grand Prix,stroll,1.4875226448285739,7
+2023,12,Belgian Grand Prix,stroll,1.4688009931599018,8
+2023,13,Dutch Grand Prix,stroll,1.4357326154168728,9
+2023,20,São Paulo Grand Prix,stroll,1.4204194399862837,10
+2024,9,Canadian Grand Prix,stroll,1.4528953931630033,11
+2024,10,Spanish Grand Prix,stroll,1.4169418542048788,12
+2024,11,Austrian Grand Prix,stroll,1.3816724333123354,13
+2024,12,British Grand Prix,stroll,1.345916858175996,14
+2024,21,São Paulo Grand Prix,stroll,1.3665605318119685,15
+2022,5,Miami Grand Prix,tsunoda,1.3883016902071184,0
+2022,7,Monaco Grand Prix,tsunoda,1.3551048182669092,1
+2022,10,British Grand Prix,tsunoda,1.3551048182669092,2
+2022,13,Hungarian Grand Prix,tsunoda,1.322562356627281,3
+2022,17,Singapore Grand Prix,tsunoda,1.32857924306529,4
+2022,18,Japanese Grand Prix,tsunoda,1.32857924306529,5
+2023,6,Monaco Grand Prix,tsunoda,1.3478309949618863,6
+2023,9,Austrian Grand Prix,tsunoda,1.3272194007831377,7
+2023,12,Belgian Grand Prix,tsunoda,1.3105231921629956,8
+2023,13,Dutch Grand Prix,tsunoda,1.2814103923794642,9
+2023,20,São Paulo Grand Prix,tsunoda,1.2779822403118715,10
+2024,9,Canadian Grand Prix,tsunoda,1.3062610266213923,11
+2024,10,Spanish Grand Prix,tsunoda,1.275724728712837,12
+2024,11,Austrian Grand Prix,tsunoda,1.246692033759773,13
+2024,12,British Grand Prix,tsunoda,1.2148965564628007,14
+2024,21,São Paulo Grand Prix,tsunoda,1.2219592030949258,15
+2022,5,Miami Grand Prix,vettel,1.248507040902589,0
+2022,7,Monaco Grand Prix,vettel,1.248507040902589,1
+2022,10,British Grand Prix,vettel,1.2325491436674074,2
+2022,13,Hungarian Grand Prix,vettel,1.2086375175518134,3
+2022,17,Singapore Grand Prix,vettel,1.221573066959393,4
+2022,18,Japanese Grand Prix,vettel,1.193715544989388,5
+2022,5,Miami Grand Prix,zhou,1.2324669693080583,0
+2022,7,Monaco Grand Prix,zhou,1.2324669693080583,1
+2022,10,British Grand Prix,zhou,1.2393556577939222,2
+2022,13,Hungarian Grand Prix,zhou,1.2393556577939222,3
+2022,17,Singapore Grand Prix,zhou,1.2585001837384278,4
+2022,18,Japanese Grand Prix,zhou,1.2585001837384278,5
+2023,6,Monaco Grand Prix,zhou,1.2727677403589945,6
+2023,9,Austrian Grand Prix,zhou,1.2580173904414869,7
+2023,12,Belgian Grand Prix,zhou,1.2413500647514235,8
+2023,13,Dutch Grand Prix,zhou,1.2167505728840258,9
+2023,20,São Paulo Grand Prix,zhou,1.2536099586576084,10
+2024,9,Canadian Grand Prix,zhou,1.3091777868004701,11
+2024,10,Spanish Grand Prix,zhou,1.2814327352599344,12
+2024,11,Austrian Grand Prix,zhou,1.2522132933866281,13
+2024,12,British Grand Prix,zhou,1.2246838401855875,14
+2024,21,São Paulo Grand Prix,zhou,1.239099597124194,15

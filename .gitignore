@@ -1,4 +1,22 @@
-data/raw/
+# Python
 __pycache__/
-.env
-data/cache/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# FastF1 cache
+data/raw/cache/
+fastf1_cache/
+
+# Data outputs (keep only what you want versioned)
+data/processed/
+data/evaluation/
+
+# OS junk
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/

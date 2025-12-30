@@ -1,0 +1,1158 @@
+season,round,race_name,driver_code,fp_session,fp_gap_to_best_seconds
+2024,1,Bahrain Grand Prix,ALB,FP1,0.996
+2024,1,Bahrain Grand Prix,ALB,FP2,0.782
+2024,1,Bahrain Grand Prix,ALB,FP3,0.495
+2024,1,Bahrain Grand Prix,ALO,FP1,0.073
+2024,1,Bahrain Grand Prix,ALO,FP2,0.0
+2024,1,Bahrain Grand Prix,ALO,FP3,0.764
+2024,1,Bahrain Grand Prix,BOT,FP1,0.0
+2024,1,Bahrain Grand Prix,BOT,FP2,1.35
+2024,1,Bahrain Grand Prix,BOT,FP3,0.8585
+2024,1,Bahrain Grand Prix,GAS,FP1,2.0045
+2024,1,Bahrain Grand Prix,GAS,FP2,1.31
+2024,1,Bahrain Grand Prix,GAS,FP3,1.2814999999999999
+2024,1,Bahrain Grand Prix,HAM,FP1,3.8040000000000003
+2024,1,Bahrain Grand Prix,HAM,FP2,0.0425
+2024,1,Bahrain Grand Prix,HAM,FP3,0.533
+2024,1,Bahrain Grand Prix,HUL,FP1,4.6205
+2024,1,Bahrain Grand Prix,HUL,FP2,1.039
+2024,1,Bahrain Grand Prix,HUL,FP3,1.194
+2024,1,Bahrain Grand Prix,LEC,FP1,3.2640000000000002
+2024,1,Bahrain Grand Prix,LEC,FP2,0.543
+2024,1,Bahrain Grand Prix,LEC,FP3,0.53
+2024,1,Bahrain Grand Prix,MAG,FP1,4.4885
+2024,1,Bahrain Grand Prix,MAG,FP2,0.9355
+2024,1,Bahrain Grand Prix,MAG,FP3,3.9845
+2024,1,Bahrain Grand Prix,NOR,FP1,3.144
+2024,1,Bahrain Grand Prix,NOR,FP2,1.7189999999999999
+2024,1,Bahrain Grand Prix,NOR,FP3,0.79
+2024,1,Bahrain Grand Prix,OCO,FP1,1.859
+2024,1,Bahrain Grand Prix,OCO,FP2,1.639
+2024,1,Bahrain Grand Prix,OCO,FP3,1.182
+2024,1,Bahrain Grand Prix,PER,FP1,4.126
+2024,1,Bahrain Grand Prix,PER,FP2,2.7525
+2024,1,Bahrain Grand Prix,PER,FP3,0.5255
+2024,1,Bahrain Grand Prix,PIA,FP1,4.6635
+2024,1,Bahrain Grand Prix,PIA,FP2,5.152
+2024,1,Bahrain Grand Prix,PIA,FP3,1.452
+2024,1,Bahrain Grand Prix,RIC,FP1,4.389
+2024,1,Bahrain Grand Prix,RIC,FP2,1.246
+2024,1,Bahrain Grand Prix,RIC,FP3,0.2895
+2024,1,Bahrain Grand Prix,RUS,FP1,4.1745
+2024,1,Bahrain Grand Prix,RUS,FP2,0.786
+2024,1,Bahrain Grand Prix,RUS,FP3,0.0
+2024,1,Bahrain Grand Prix,SAI,FP1,3.376
+2024,1,Bahrain Grand Prix,SAI,FP2,0.541
+2024,1,Bahrain Grand Prix,SAI,FP3,0.9755
+2024,1,Bahrain Grand Prix,SAR,FP1,2.436
+2024,1,Bahrain Grand Prix,SAR,FP2,1.3355000000000001
+2024,1,Bahrain Grand Prix,SAR,FP3,1.0255
+2024,1,Bahrain Grand Prix,STR,FP1,1.117
+2024,1,Bahrain Grand Prix,STR,FP2,0.657
+2024,1,Bahrain Grand Prix,STR,FP3,0.461
+2024,1,Bahrain Grand Prix,TSU,FP1,3.0815
+2024,1,Bahrain Grand Prix,TSU,FP2,1.849
+2024,1,Bahrain Grand Prix,TSU,FP3,0.642
+2024,1,Bahrain Grand Prix,VER,FP1,3.7199999999999998
+2024,1,Bahrain Grand Prix,VER,FP2,5.492
+2024,1,Bahrain Grand Prix,VER,FP3,0.325
+2024,1,Bahrain Grand Prix,ZHO,FP1,1.621
+2024,1,Bahrain Grand Prix,ZHO,FP2,1.5685
+2024,1,Bahrain Grand Prix,ZHO,FP3,0.9355
+2024,2,Saudi Arabian Grand Prix,ALB,FP1,3.0885
+2024,2,Saudi Arabian Grand Prix,ALB,FP2,4.123
+2024,2,Saudi Arabian Grand Prix,ALB,FP3,1.3780000000000001
+2024,2,Saudi Arabian Grand Prix,ALO,FP1,0.2545
+2024,2,Saudi Arabian Grand Prix,ALO,FP2,4.176
+2024,2,Saudi Arabian Grand Prix,ALO,FP3,1.148
+2024,2,Saudi Arabian Grand Prix,BEA,FP3,4.4565
+2024,2,Saudi Arabian Grand Prix,BOT,FP1,2.992
+2024,2,Saudi Arabian Grand Prix,BOT,FP2,0.503
+2024,2,Saudi Arabian Grand Prix,BOT,FP3,4.0785
+2024,2,Saudi Arabian Grand Prix,GAS,FP1,1.2974999999999999
+2024,2,Saudi Arabian Grand Prix,GAS,FP2,0.238
+2024,2,Saudi Arabian Grand Prix,GAS,FP3,1.8525
+2024,2,Saudi Arabian Grand Prix,HAM,FP1,0.4655
+2024,2,Saudi Arabian Grand Prix,HAM,FP2,0.969
+2024,2,Saudi Arabian Grand Prix,HAM,FP3,3.7595
+2024,2,Saudi Arabian Grand Prix,HUL,FP1,3.4645
+2024,2,Saudi Arabian Grand Prix,HUL,FP2,1.317
+2024,2,Saudi Arabian Grand Prix,HUL,FP3,1.2955
+2024,2,Saudi Arabian Grand Prix,LEC,FP1,1.3205
+2024,2,Saudi Arabian Grand Prix,LEC,FP2,3.865
+2024,2,Saudi Arabian Grand Prix,LEC,FP3,2.5455
+2024,2,Saudi Arabian Grand Prix,MAG,FP1,2.9345
+2024,2,Saudi Arabian Grand Prix,MAG,FP2,0.097
+2024,2,Saudi Arabian Grand Prix,MAG,FP3,1.4175
+2024,2,Saudi Arabian Grand Prix,NOR,FP1,2.8865
+2024,2,Saudi Arabian Grand Prix,NOR,FP2,3.737
+2024,2,Saudi Arabian Grand Prix,NOR,FP3,1.1695
+2024,2,Saudi Arabian Grand Prix,OCO,FP1,0.657
+2024,2,Saudi Arabian Grand Prix,OCO,FP2,0.4095
+2024,2,Saudi Arabian Grand Prix,OCO,FP3,1.698
+2024,2,Saudi Arabian Grand Prix,PER,FP1,0.5055
+2024,2,Saudi Arabian Grand Prix,PER,FP2,3.876
+2024,2,Saudi Arabian Grand Prix,PER,FP3,0.8895
+2024,2,Saudi Arabian Grand Prix,PIA,FP1,3.0785
+2024,2,Saudi Arabian Grand Prix,PIA,FP2,2.263
+2024,2,Saudi Arabian Grand Prix,PIA,FP3,1.587
+2024,2,Saudi Arabian Grand Prix,RIC,FP1,1.4735
+2024,2,Saudi Arabian Grand Prix,RIC,FP2,0.465
+2024,2,Saudi Arabian Grand Prix,RIC,FP3,2.0695
+2024,2,Saudi Arabian Grand Prix,RUS,FP1,1.9729999999999999
+2024,2,Saudi Arabian Grand Prix,RUS,FP2,1.9525000000000001
+2024,2,Saudi Arabian Grand Prix,RUS,FP3,1.4385
+2024,2,Saudi Arabian Grand Prix,SAI,FP1,2.6075
+2024,2,Saudi Arabian Grand Prix,SAI,FP2,1.049
+2024,2,Saudi Arabian Grand Prix,SAR,FP1,4.0705
+2024,2,Saudi Arabian Grand Prix,SAR,FP2,0.0
+2024,2,Saudi Arabian Grand Prix,STR,FP1,0.0
+2024,2,Saudi Arabian Grand Prix,STR,FP2,0.272
+2024,2,Saudi Arabian Grand Prix,STR,FP3,1.506
+2024,2,Saudi Arabian Grand Prix,TSU,FP1,1.0245
+2024,2,Saudi Arabian Grand Prix,TSU,FP2,0.359
+2024,2,Saudi Arabian Grand Prix,TSU,FP3,2.1015
+2024,2,Saudi Arabian Grand Prix,VER,FP1,3.1785
+2024,2,Saudi Arabian Grand Prix,VER,FP2,3.469
+2024,2,Saudi Arabian Grand Prix,VER,FP3,0.0
+2024,2,Saudi Arabian Grand Prix,ZHO,FP1,2.1395
+2024,2,Saudi Arabian Grand Prix,ZHO,FP2,1.1895
+2024,2,Saudi Arabian Grand Prix,ZHO,FP3,2.1955
+2024,3,Australian Grand Prix,ALB,FP1,1.2735
+2024,3,Australian Grand Prix,ALB,FP3,1.1255
+2024,3,Australian Grand Prix,ALO,FP1,1.027
+2024,3,Australian Grand Prix,ALO,FP2,0.146
+2024,3,Australian Grand Prix,ALO,FP3,0.582
+2024,3,Australian Grand Prix,BOT,FP1,1.871
+2024,3,Australian Grand Prix,BOT,FP2,1.556
+2024,3,Australian Grand Prix,BOT,FP3,1.5835
+2024,3,Australian Grand Prix,GAS,FP1,1.427
+2024,3,Australian Grand Prix,GAS,FP2,1.1275
+2024,3,Australian Grand Prix,GAS,FP3,1.5715
+2024,3,Australian Grand Prix,HAM,FP1,2.358
+2024,3,Australian Grand Prix,HAM,FP2,1.1475
+2024,3,Australian Grand Prix,HAM,FP3,0.4145
+2024,3,Australian Grand Prix,HUL,FP1,2.0465
+2024,3,Australian Grand Prix,HUL,FP2,1.3565
+2024,3,Australian Grand Prix,HUL,FP3,0.8075
+2024,3,Australian Grand Prix,LEC,FP1,2.83
+2024,3,Australian Grand Prix,LEC,FP2,0.1195
+2024,3,Australian Grand Prix,LEC,FP3,0.216
+2024,3,Australian Grand Prix,MAG,FP1,1.575
+2024,3,Australian Grand Prix,MAG,FP2,1.5205
+2024,3,Australian Grand Prix,MAG,FP3,0.8005
+2024,3,Australian Grand Prix,NOR,FP1,3.037
+2024,3,Australian Grand Prix,NOR,FP2,0.22
+2024,3,Australian Grand Prix,NOR,FP3,1.302
+2024,3,Australian Grand Prix,OCO,FP1,1.908
+2024,3,Australian Grand Prix,OCO,FP2,1.177
+2024,3,Australian Grand Prix,OCO,FP3,1.249
+2024,3,Australian Grand Prix,PER,FP1,0.4
+2024,3,Australian Grand Prix,PER,FP2,1.1245
+2024,3,Australian Grand Prix,PER,FP3,0.1005
+2024,3,Australian Grand Prix,PIA,FP1,2.02
+2024,3,Australian Grand Prix,PIA,FP2,3.44
+2024,3,Australian Grand Prix,PIA,FP3,0.3705
+2024,3,Australian Grand Prix,RIC,FP1,0.949
+2024,3,Australian Grand Prix,RIC,FP2,1.229
+2024,3,Australian Grand Prix,RIC,FP3,1.5455
+2024,3,Australian Grand Prix,RUS,FP1,2.6385
+2024,3,Australian Grand Prix,RUS,FP2,0.916
+2024,3,Australian Grand Prix,RUS,FP3,0.5505
+2024,3,Australian Grand Prix,SAI,FP1,0.615
+2024,3,Australian Grand Prix,SAI,FP2,0.657
+2024,3,Australian Grand Prix,SAI,FP3,1.2555
+2024,3,Australian Grand Prix,SAR,FP1,3.604
+2024,3,Australian Grand Prix,SAR,FP2,1.0025
+2024,3,Australian Grand Prix,STR,FP1,0.6385
+2024,3,Australian Grand Prix,STR,FP2,1.0785
+2024,3,Australian Grand Prix,STR,FP3,0.6525
+2024,3,Australian Grand Prix,TSU,FP1,1.044
+2024,3,Australian Grand Prix,TSU,FP2,1.204
+2024,3,Australian Grand Prix,TSU,FP3,1.0575
+2024,3,Australian Grand Prix,VER,FP1,0.0
+2024,3,Australian Grand Prix,VER,FP2,0.0
+2024,3,Australian Grand Prix,VER,FP3,0.0
+2024,3,Australian Grand Prix,ZHO,FP1,1.728
+2024,3,Australian Grand Prix,ZHO,FP2,1.571
+2024,3,Australian Grand Prix,ZHO,FP3,1.5975000000000001
+2024,4,Japanese Grand Prix,ALB,FP1,0.636
+2024,4,Japanese Grand Prix,ALB,FP3,2.428
+2024,4,Japanese Grand Prix,ALO,FP1,0.208
+2024,4,Japanese Grand Prix,ALO,FP3,1.21
+2024,4,Japanese Grand Prix,BOT,FP1,0.59
+2024,4,Japanese Grand Prix,BOT,FP3,0.7945
+2024,4,Japanese Grand Prix,GAS,FP1,1.157
+2024,4,Japanese Grand Prix,GAS,FP3,1.794
+2024,4,Japanese Grand Prix,HAM,FP1,2.3295
+2024,4,Japanese Grand Prix,HAM,FP2,0.0
+2024,4,Japanese Grand Prix,HAM,FP3,4.9555
+2024,4,Japanese Grand Prix,HUL,FP1,1.7149999999999999
+2024,4,Japanese Grand Prix,HUL,FP3,1.673
+2024,4,Japanese Grand Prix,IWA,FP1,2.846
+2024,4,Japanese Grand Prix,LEC,FP1,2.433
+2024,4,Japanese Grand Prix,LEC,FP2,3.534
+2024,4,Japanese Grand Prix,LEC,FP3,4.675
+2024,4,Japanese Grand Prix,MAG,FP1,2.25
+2024,4,Japanese Grand Prix,MAG,FP3,1.8725
+2024,4,Japanese Grand Prix,NOR,FP1,1.8655
+2024,4,Japanese Grand Prix,NOR,FP3,0.0
+2024,4,Japanese Grand Prix,OCO,FP1,1.3780000000000001
+2024,4,Japanese Grand Prix,OCO,FP3,3.4305
+2024,4,Japanese Grand Prix,PER,FP1,0.0
+2024,4,Japanese Grand Prix,PER,FP3,0.2365
+2024,4,Japanese Grand Prix,PIA,FP1,2.041
+2024,4,Japanese Grand Prix,PIA,FP2,1.6360000000000001
+2024,4,Japanese Grand Prix,PIA,FP3,0.094
+2024,4,Japanese Grand Prix,RIC,FP3,3.925
+2024,4,Japanese Grand Prix,RUS,FP1,0.8055
+2024,4,Japanese Grand Prix,RUS,FP3,5.024
+2024,4,Japanese Grand Prix,SAI,FP1,2.542
+2024,4,Japanese Grand Prix,SAI,FP3,0.802
+2024,4,Japanese Grand Prix,SAR,FP1,1.9665
+2024,4,Japanese Grand Prix,SAR,FP3,2.0035
+2024,4,Japanese Grand Prix,STR,FP1,0.725
+2024,4,Japanese Grand Prix,STR,FP3,1.162
+2024,4,Japanese Grand Prix,TSU,FP1,0.554
+2024,4,Japanese Grand Prix,TSU,FP2,5.72
+2024,4,Japanese Grand Prix,TSU,FP3,2.572
+2024,4,Japanese Grand Prix,VER,FP1,0.478
+2024,4,Japanese Grand Prix,VER,FP3,0.03
+2024,4,Japanese Grand Prix,ZHO,FP1,1.41
+2024,4,Japanese Grand Prix,ZHO,FP3,1.6235
+2024,5,Chinese Grand Prix,ALB,FP1,3.755
+2024,5,Chinese Grand Prix,ALO,FP1,3.347
+2024,5,Chinese Grand Prix,BOT,FP1,1.4865
+2024,5,Chinese Grand Prix,GAS,FP1,2.8209999999999997
+2024,5,Chinese Grand Prix,HAM,FP1,2.765
+2024,5,Chinese Grand Prix,HUL,FP1,0.0
+2024,5,Chinese Grand Prix,LEC,FP1,1.106
+2024,5,Chinese Grand Prix,MAG,FP1,1.138
+2024,5,Chinese Grand Prix,NOR,FP1,2.6715
+2024,5,Chinese Grand Prix,OCO,FP1,0.809
+2024,5,Chinese Grand Prix,PER,FP1,3.3455
+2024,5,Chinese Grand Prix,PIA,FP1,2.1755
+2024,5,Chinese Grand Prix,RIC,FP1,1.976
+2024,5,Chinese Grand Prix,RUS,FP1,3.282
+2024,5,Chinese Grand Prix,SAI,FP1,2.202
+2024,5,Chinese Grand Prix,SAR,FP1,2.685
+2024,5,Chinese Grand Prix,STR,FP1,0.876
+2024,5,Chinese Grand Prix,TSU,FP1,2.118
+2024,5,Chinese Grand Prix,VER,FP1,3.248
+2024,5,Chinese Grand Prix,ZHO,FP1,0.667
+2024,6,Miami Grand Prix,ALB,FP1,1.6949999999999998
+2024,6,Miami Grand Prix,ALO,FP1,1.577
+2024,6,Miami Grand Prix,BOT,FP1,1.6105
+2024,6,Miami Grand Prix,GAS,FP1,1.087
+2024,6,Miami Grand Prix,HAM,FP1,1.807
+2024,6,Miami Grand Prix,HUL,FP1,3.204
+2024,6,Miami Grand Prix,LEC,FP1,1.826
+2024,6,Miami Grand Prix,MAG,FP1,3.322
+2024,6,Miami Grand Prix,NOR,FP1,0.9705
+2024,6,Miami Grand Prix,OCO,FP1,1.1365
+2024,6,Miami Grand Prix,PER,FP1,2.355
+2024,6,Miami Grand Prix,PIA,FP1,1.218
+2024,6,Miami Grand Prix,RIC,FP1,1.928
+2024,6,Miami Grand Prix,RUS,FP1,1.8515000000000001
+2024,6,Miami Grand Prix,SAI,FP1,0.453
+2024,6,Miami Grand Prix,SAR,FP1,2.337
+2024,6,Miami Grand Prix,STR,FP1,1.302
+2024,6,Miami Grand Prix,TSU,FP1,2.181
+2024,6,Miami Grand Prix,VER,FP1,2.4050000000000002
+2024,6,Miami Grand Prix,ZHO,FP1,0.0
+2024,7,Emilia Romagna Grand Prix,ALB,FP1,2.7035
+2024,7,Emilia Romagna Grand Prix,ALB,FP2,1.037
+2024,7,Emilia Romagna Grand Prix,ALB,FP3,0.982
+2024,7,Emilia Romagna Grand Prix,ALO,FP1,1.6115
+2024,7,Emilia Romagna Grand Prix,ALO,FP2,0.828
+2024,7,Emilia Romagna Grand Prix,ALO,FP3,1.6095000000000002
+2024,7,Emilia Romagna Grand Prix,BEA,FP1,3.922
+2024,7,Emilia Romagna Grand Prix,BOT,FP1,3.665
+2024,7,Emilia Romagna Grand Prix,BOT,FP2,1.275
+2024,7,Emilia Romagna Grand Prix,BOT,FP3,1.015
+2024,7,Emilia Romagna Grand Prix,GAS,FP1,0.806
+2024,7,Emilia Romagna Grand Prix,GAS,FP2,1.169
+2024,7,Emilia Romagna Grand Prix,GAS,FP3,1.843
+2024,7,Emilia Romagna Grand Prix,HAM,FP1,1.771
+2024,7,Emilia Romagna Grand Prix,HAM,FP2,2.2045
+2024,7,Emilia Romagna Grand Prix,HAM,FP3,0.822
+2024,7,Emilia Romagna Grand Prix,HUL,FP1,3.7865
+2024,7,Emilia Romagna Grand Prix,HUL,FP2,1.309
+2024,7,Emilia Romagna Grand Prix,HUL,FP3,1.3075
+2024,7,Emilia Romagna Grand Prix,LEC,FP1,2.549
+2024,7,Emilia Romagna Grand Prix,LEC,FP2,3.2775
+2024,7,Emilia Romagna Grand Prix,LEC,FP3,1.5510000000000002
+2024,7,Emilia Romagna Grand Prix,MAG,FP2,2.9335
+2024,7,Emilia Romagna Grand Prix,MAG,FP3,0.851
+2024,7,Emilia Romagna Grand Prix,NOR,FP1,1.1179999999999999
+2024,7,Emilia Romagna Grand Prix,NOR,FP2,3.923
+2024,7,Emilia Romagna Grand Prix,NOR,FP3,0.138
+2024,7,Emilia Romagna Grand Prix,OCO,FP1,1.9355
+2024,7,Emilia Romagna Grand Prix,OCO,FP2,1.496
+2024,7,Emilia Romagna Grand Prix,OCO,FP3,1.645
+2024,7,Emilia Romagna Grand Prix,PER,FP1,0.0
+2024,7,Emilia Romagna Grand Prix,PER,FP2,2.1415
+2024,7,Emilia Romagna Grand Prix,PER,FP3,4.198
+2024,7,Emilia Romagna Grand Prix,PIA,FP1,3.2395
+2024,7,Emilia Romagna Grand Prix,PIA,FP2,3.621
+2024,7,Emilia Romagna Grand Prix,PIA,FP3,0.0
+2024,7,Emilia Romagna Grand Prix,RIC,FP1,1.952
+2024,7,Emilia Romagna Grand Prix,RIC,FP2,0.876
+2024,7,Emilia Romagna Grand Prix,RIC,FP3,0.804
+2024,7,Emilia Romagna Grand Prix,RUS,FP1,3.304
+2024,7,Emilia Romagna Grand Prix,RUS,FP2,1.27
+2024,7,Emilia Romagna Grand Prix,RUS,FP3,0.7095
+2024,7,Emilia Romagna Grand Prix,SAI,FP1,2.1545
+2024,7,Emilia Romagna Grand Prix,SAI,FP2,4.066
+2024,7,Emilia Romagna Grand Prix,SAI,FP3,1.187
+2024,7,Emilia Romagna Grand Prix,SAR,FP1,3.666
+2024,7,Emilia Romagna Grand Prix,SAR,FP2,1.561
+2024,7,Emilia Romagna Grand Prix,SAR,FP3,0.7705
+2024,7,Emilia Romagna Grand Prix,STR,FP1,0.643
+2024,7,Emilia Romagna Grand Prix,STR,FP2,0.8525
+2024,7,Emilia Romagna Grand Prix,STR,FP3,1.397
+2024,7,Emilia Romagna Grand Prix,TSU,FP1,1.641
+2024,7,Emilia Romagna Grand Prix,TSU,FP2,0.3255
+2024,7,Emilia Romagna Grand Prix,TSU,FP3,0.809
+2024,7,Emilia Romagna Grand Prix,VER,FP1,0.117
+2024,7,Emilia Romagna Grand Prix,VER,FP2,0.0
+2024,7,Emilia Romagna Grand Prix,VER,FP3,0.214
+2024,7,Emilia Romagna Grand Prix,ZHO,FP1,1.424
+2024,7,Emilia Romagna Grand Prix,ZHO,FP2,1.7705
+2024,7,Emilia Romagna Grand Prix,ZHO,FP3,1.867
+2024,8,Monaco Grand Prix,ALB,FP1,1.5125
+2024,8,Monaco Grand Prix,ALB,FP2,2.1715
+2024,8,Monaco Grand Prix,ALB,FP3,0.559
+2024,8,Monaco Grand Prix,ALO,FP1,0.673
+2024,8,Monaco Grand Prix,ALO,FP2,0.755
+2024,8,Monaco Grand Prix,ALO,FP3,1.887
+2024,8,Monaco Grand Prix,BOT,FP1,1.1815
+2024,8,Monaco Grand Prix,BOT,FP2,1.488
+2024,8,Monaco Grand Prix,GAS,FP1,1.8225
+2024,8,Monaco Grand Prix,GAS,FP2,1.9024999999999999
+2024,8,Monaco Grand Prix,GAS,FP3,0.693
+2024,8,Monaco Grand Prix,HAM,FP1,1.5535
+2024,8,Monaco Grand Prix,HAM,FP2,1.4344999999999999
+2024,8,Monaco Grand Prix,HAM,FP3,0.0595
+2024,8,Monaco Grand Prix,HUL,FP1,2.0425
+2024,8,Monaco Grand Prix,HUL,FP2,2.555
+2024,8,Monaco Grand Prix,HUL,FP3,0.6
+2024,8,Monaco Grand Prix,LEC,FP1,0.0
+2024,8,Monaco Grand Prix,LEC,FP2,0.0
+2024,8,Monaco Grand Prix,LEC,FP3,0.1025
+2024,8,Monaco Grand Prix,MAG,FP1,2.2545
+2024,8,Monaco Grand Prix,MAG,FP2,2.15
+2024,8,Monaco Grand Prix,MAG,FP3,0.65
+2024,8,Monaco Grand Prix,NOR,FP1,1.0055
+2024,8,Monaco Grand Prix,NOR,FP2,1.704
+2024,8,Monaco Grand Prix,NOR,FP3,0.556
+2024,8,Monaco Grand Prix,OCO,FP1,1.6595
+2024,8,Monaco Grand Prix,OCO,FP2,1.427
+2024,8,Monaco Grand Prix,OCO,FP3,1.427
+2024,8,Monaco Grand Prix,PER,FP1,0.8145
+2024,8,Monaco Grand Prix,PER,FP2,2.6959999999999997
+2024,8,Monaco Grand Prix,PER,FP3,0.657
+2024,8,Monaco Grand Prix,PIA,FP1,0.528
+2024,8,Monaco Grand Prix,PIA,FP2,2.577
+2024,8,Monaco Grand Prix,PIA,FP3,0.3265
+2024,8,Monaco Grand Prix,RIC,FP1,1.2655
+2024,8,Monaco Grand Prix,RIC,FP2,1.8935
+2024,8,Monaco Grand Prix,RIC,FP3,0.7725
+2024,8,Monaco Grand Prix,RUS,FP1,1.3295
+2024,8,Monaco Grand Prix,RUS,FP2,0.989
+2024,8,Monaco Grand Prix,RUS,FP3,0.281
+2024,8,Monaco Grand Prix,SAI,FP1,0.114
+2024,8,Monaco Grand Prix,SAI,FP2,1.018
+2024,8,Monaco Grand Prix,SAI,FP3,0.0
+2024,8,Monaco Grand Prix,SAR,FP1,2.0525
+2024,8,Monaco Grand Prix,SAR,FP2,2.3305
+2024,8,Monaco Grand Prix,SAR,FP3,1.098
+2024,8,Monaco Grand Prix,STR,FP1,1.172
+2024,8,Monaco Grand Prix,STR,FP2,1.0065
+2024,8,Monaco Grand Prix,STR,FP3,0.715
+2024,8,Monaco Grand Prix,TSU,FP1,0.1385
+2024,8,Monaco Grand Prix,TSU,FP2,1.4929999999999999
+2024,8,Monaco Grand Prix,TSU,FP3,0.356
+2024,8,Monaco Grand Prix,VER,FP1,0.0105
+2024,8,Monaco Grand Prix,VER,FP2,2.887
+2024,8,Monaco Grand Prix,VER,FP3,0.112
+2024,8,Monaco Grand Prix,ZHO,FP1,2.5855
+2024,8,Monaco Grand Prix,ZHO,FP2,2.215
+2024,8,Monaco Grand Prix,ZHO,FP3,2.4074999999999998
+2024,9,Canadian Grand Prix,ALB,FP2,0.7935
+2024,9,Canadian Grand Prix,ALB,FP3,2.438
+2024,9,Canadian Grand Prix,ALO,FP2,0.405
+2024,9,Canadian Grand Prix,ALO,FP3,1.3685
+2024,9,Canadian Grand Prix,BOT,FP1,3.235
+2024,9,Canadian Grand Prix,BOT,FP2,0.8075
+2024,9,Canadian Grand Prix,BOT,FP3,1.113
+2024,9,Canadian Grand Prix,GAS,FP1,3.149
+2024,9,Canadian Grand Prix,GAS,FP2,2.9455
+2024,9,Canadian Grand Prix,GAS,FP3,2.268
+2024,9,Canadian Grand Prix,HAM,FP1,4.772
+2024,9,Canadian Grand Prix,HAM,FP2,0.5355
+2024,9,Canadian Grand Prix,HAM,FP3,1.8475000000000001
+2024,9,Canadian Grand Prix,HUL,FP2,0.727
+2024,9,Canadian Grand Prix,HUL,FP3,2.431
+2024,9,Canadian Grand Prix,LEC,FP1,3.73
+2024,9,Canadian Grand Prix,LEC,FP2,1.337
+2024,9,Canadian Grand Prix,LEC,FP3,0.678
+2024,9,Canadian Grand Prix,MAG,FP1,4.617
+2024,9,Canadian Grand Prix,MAG,FP2,0.6365
+2024,9,Canadian Grand Prix,MAG,FP3,2.5435
+2024,9,Canadian Grand Prix,NOR,FP1,0.0
+2024,9,Canadian Grand Prix,NOR,FP2,2.9995000000000003
+2024,9,Canadian Grand Prix,NOR,FP3,1.6785
+2024,9,Canadian Grand Prix,OCO,FP2,0.4355
+2024,9,Canadian Grand Prix,OCO,FP3,2.1545
+2024,9,Canadian Grand Prix,PER,FP1,4.207
+2024,9,Canadian Grand Prix,PER,FP2,0.0
+2024,9,Canadian Grand Prix,PER,FP3,0.371
+2024,9,Canadian Grand Prix,PIA,FP1,2.319
+2024,9,Canadian Grand Prix,PIA,FP2,2.0415
+2024,9,Canadian Grand Prix,PIA,FP3,1.2275
+2024,9,Canadian Grand Prix,RIC,FP1,5.027
+2024,9,Canadian Grand Prix,RIC,FP2,0.2305
+2024,9,Canadian Grand Prix,RIC,FP3,1.8285
+2024,9,Canadian Grand Prix,RUS,FP1,4.106
+2024,9,Canadian Grand Prix,RUS,FP2,1.1935
+2024,9,Canadian Grand Prix,RUS,FP3,0.373
+2024,9,Canadian Grand Prix,SAI,FP1,3.05
+2024,9,Canadian Grand Prix,SAI,FP2,1.022
+2024,9,Canadian Grand Prix,SAI,FP3,1.052
+2024,9,Canadian Grand Prix,SAR,FP2,1.2245
+2024,9,Canadian Grand Prix,SAR,FP3,2.4015
+2024,9,Canadian Grand Prix,STR,FP2,0.3665
+2024,9,Canadian Grand Prix,STR,FP3,2.324
+2024,9,Canadian Grand Prix,TSU,FP1,4.6
+2024,9,Canadian Grand Prix,TSU,FP2,0.1665
+2024,9,Canadian Grand Prix,TSU,FP3,1.8439999999999999
+2024,9,Canadian Grand Prix,VER,FP1,2.067
+2024,9,Canadian Grand Prix,VER,FP2,1.4675
+2024,9,Canadian Grand Prix,VER,FP3,0.0
+2024,9,Canadian Grand Prix,ZHO,FP2,1.2435
+2024,10,Spanish Grand Prix,ALB,FP1,1.626
+2024,10,Spanish Grand Prix,ALB,FP2,2.466
+2024,10,Spanish Grand Prix,ALB,FP3,0.836
+2024,10,Spanish Grand Prix,ALO,FP1,1.26
+2024,10,Spanish Grand Prix,ALO,FP2,2.163
+2024,10,Spanish Grand Prix,ALO,FP3,1.127
+2024,10,Spanish Grand Prix,BEA,FP1,2.713
+2024,10,Spanish Grand Prix,BOT,FP1,1.6195
+2024,10,Spanish Grand Prix,BOT,FP2,1.2055
+2024,10,Spanish Grand Prix,BOT,FP3,3.2695
+2024,10,Spanish Grand Prix,GAS,FP1,1.6855
+2024,10,Spanish Grand Prix,GAS,FP2,1.422
+2024,10,Spanish Grand Prix,GAS,FP3,1.268
+2024,10,Spanish Grand Prix,HAM,FP1,0.779
+2024,10,Spanish Grand Prix,HAM,FP2,0.1885
+2024,10,Spanish Grand Prix,HAM,FP3,0.4865
+2024,10,Spanish Grand Prix,HUL,FP2,2.056
+2024,10,Spanish Grand Prix,HUL,FP3,1.8465
+2024,10,Spanish Grand Prix,LEC,FP1,1.062
+2024,10,Spanish Grand Prix,LEC,FP2,0.0
+2024,10,Spanish Grand Prix,LEC,FP3,2.085
+2024,10,Spanish Grand Prix,MAG,FP1,2.849
+2024,10,Spanish Grand Prix,MAG,FP2,1.567
+2024,10,Spanish Grand Prix,MAG,FP3,1.1179999999999999
+2024,10,Spanish Grand Prix,NOR,FP1,2.977
+2024,10,Spanish Grand Prix,NOR,FP2,0.391
+2024,10,Spanish Grand Prix,NOR,FP3,0.0
+2024,10,Spanish Grand Prix,OCO,FP1,1.522
+2024,10,Spanish Grand Prix,OCO,FP2,1.3
+2024,10,Spanish Grand Prix,OCO,FP3,2.972
+2024,10,Spanish Grand Prix,PER,FP1,1.089
+2024,10,Spanish Grand Prix,PER,FP2,1.654
+2024,10,Spanish Grand Prix,PER,FP3,1.502
+2024,10,Spanish Grand Prix,PIA,FP1,1.0965
+2024,10,Spanish Grand Prix,PIA,FP2,1.312
+2024,10,Spanish Grand Prix,PIA,FP3,0.98
+2024,10,Spanish Grand Prix,RIC,FP1,2.1525
+2024,10,Spanish Grand Prix,RIC,FP2,2.116
+2024,10,Spanish Grand Prix,RIC,FP3,1.1345
+2024,10,Spanish Grand Prix,RUS,FP1,0.2035
+2024,10,Spanish Grand Prix,RUS,FP2,0.283
+2024,10,Spanish Grand Prix,RUS,FP3,3.722
+2024,10,Spanish Grand Prix,SAI,FP1,1.7189999999999999
+2024,10,Spanish Grand Prix,SAI,FP2,0.94
+2024,10,Spanish Grand Prix,SAI,FP3,0.001
+2024,10,Spanish Grand Prix,SAR,FP1,2.246
+2024,10,Spanish Grand Prix,SAR,FP2,2.3055
+2024,10,Spanish Grand Prix,SAR,FP3,1.5510000000000002
+2024,10,Spanish Grand Prix,STR,FP1,2.1390000000000002
+2024,10,Spanish Grand Prix,STR,FP2,1.756
+2024,10,Spanish Grand Prix,STR,FP3,1.8519999999999999
+2024,10,Spanish Grand Prix,TSU,FP1,1.4929999999999999
+2024,10,Spanish Grand Prix,TSU,FP2,1.9055
+2024,10,Spanish Grand Prix,TSU,FP3,2.165
+2024,10,Spanish Grand Prix,VER,FP1,0.0
+2024,10,Spanish Grand Prix,VER,FP2,0.641
+2024,10,Spanish Grand Prix,VER,FP3,0.702
+2024,10,Spanish Grand Prix,ZHO,FP1,2.0575
+2024,10,Spanish Grand Prix,ZHO,FP2,2.3689999999999998
+2024,10,Spanish Grand Prix,ZHO,FP3,2.477
+2024,11,Austrian Grand Prix,ALB,FP1,1.4075
+2024,11,Austrian Grand Prix,ALO,FP1,0.6055
+2024,11,Austrian Grand Prix,BOT,FP1,0.2715
+2024,11,Austrian Grand Prix,GAS,FP1,0.642
+2024,11,Austrian Grand Prix,HAM,FP1,2.2295
+2024,11,Austrian Grand Prix,HUL,FP1,0.092
+2024,11,Austrian Grand Prix,LEC,FP1,1.5085
+2024,11,Austrian Grand Prix,MAG,FP1,0.3125
+2024,11,Austrian Grand Prix,NOR,FP1,0.6975
+2024,11,Austrian Grand Prix,OCO,FP1,0.6485
+2024,11,Austrian Grand Prix,PER,FP1,0.0
+2024,11,Austrian Grand Prix,PIA,FP1,2.0665
+2024,11,Austrian Grand Prix,RIC,FP1,0.9545
+2024,11,Austrian Grand Prix,RUS,FP1,1.7875
+2024,11,Austrian Grand Prix,SAI,FP1,0.586
+2024,11,Austrian Grand Prix,SAR,FP1,0.724
+2024,11,Austrian Grand Prix,STR,FP1,1.5205
+2024,11,Austrian Grand Prix,TSU,FP1,0.3145
+2024,11,Austrian Grand Prix,VER,FP1,0.1765
+2024,11,Austrian Grand Prix,ZHO,FP1,0.8505
+2024,12,British Grand Prix,ALB,FP1,2.425
+2024,12,British Grand Prix,ALB,FP2,2.385
+2024,12,British Grand Prix,ALB,FP3,2.4815
+2024,12,British Grand Prix,ALO,FP1,1.675
+2024,12,British Grand Prix,ALO,FP2,0.2095
+2024,12,British Grand Prix,ALO,FP3,1.207
+2024,12,British Grand Prix,BEA,FP1,3.608
+2024,12,British Grand Prix,BOT,FP1,1.8199999999999998
+2024,12,British Grand Prix,BOT,FP2,0.5405
+2024,12,British Grand Prix,BOT,FP3,2.867
+2024,12,British Grand Prix,COL,FP1,3.171
+2024,12,British Grand Prix,DOO,FP1,1.901
+2024,12,British Grand Prix,GAS,FP2,0.3825
+2024,12,British Grand Prix,HAD,FP1,2.536
+2024,12,British Grand Prix,HAM,FP1,0.319
+2024,12,British Grand Prix,HAM,FP2,1.0565
+2024,12,British Grand Prix,HAM,FP3,1.4885
+2024,12,British Grand Prix,HUL,FP1,3.5655
+2024,12,British Grand Prix,HUL,FP2,0.774
+2024,12,British Grand Prix,HUL,FP3,1.7894999999999999
+2024,12,British Grand Prix,LEC,FP1,2.509
+2024,12,British Grand Prix,LEC,FP2,3.5465
+2024,12,British Grand Prix,LEC,FP3,1.2725
+2024,12,British Grand Prix,MAG,FP2,0.7465
+2024,12,British Grand Prix,MAG,FP3,2.1885
+2024,12,British Grand Prix,NOR,FP1,1.685
+2024,12,British Grand Prix,NOR,FP2,3.2245
+2024,12,British Grand Prix,NOR,FP3,0.0
+2024,12,British Grand Prix,OCO,FP1,0.681
+2024,12,British Grand Prix,OCO,FP2,0.2385
+2024,12,British Grand Prix,OCO,FP3,2.4125
+2024,12,British Grand Prix,PER,FP2,0.1375
+2024,12,British Grand Prix,PER,FP3,2.903
+2024,12,British Grand Prix,PIA,FP1,0.1125
+2024,12,British Grand Prix,PIA,FP2,3.3745
+2024,12,British Grand Prix,PIA,FP3,1.9304999999999999
+2024,12,British Grand Prix,RIC,FP1,1.44
+2024,12,British Grand Prix,RIC,FP2,0.6855
+2024,12,British Grand Prix,RIC,FP3,2.664
+2024,12,British Grand Prix,RUS,FP1,3.234
+2024,12,British Grand Prix,RUS,FP2,3.5164999999999997
+2024,12,British Grand Prix,RUS,FP3,1.1245
+2024,12,British Grand Prix,SAI,FP1,1.617
+2024,12,British Grand Prix,SAI,FP2,0.1815
+2024,12,British Grand Prix,SAI,FP3,1.5045
+2024,12,British Grand Prix,SAR,FP2,0.203
+2024,12,British Grand Prix,SAR,FP3,3.1005
+2024,12,British Grand Prix,STR,FP1,0.0
+2024,12,British Grand Prix,STR,FP2,0.3395
+2024,12,British Grand Prix,STR,FP3,1.9625
+2024,12,British Grand Prix,TSU,FP1,2.0105
+2024,12,British Grand Prix,TSU,FP2,0.339
+2024,12,British Grand Prix,TSU,FP3,2.856
+2024,12,British Grand Prix,VER,FP1,3.059
+2024,12,British Grand Prix,VER,FP2,3.5060000000000002
+2024,12,British Grand Prix,VER,FP3,0.6765
+2024,12,British Grand Prix,ZHO,FP1,1.83
+2024,12,British Grand Prix,ZHO,FP2,0.0
+2024,12,British Grand Prix,ZHO,FP3,3.2975
+2024,13,Hungarian Grand Prix,ALB,FP1,0.8
+2024,13,Hungarian Grand Prix,ALB,FP2,0.7075
+2024,13,Hungarian Grand Prix,ALB,FP3,0.9565
+2024,13,Hungarian Grand Prix,ALO,FP1,0.527
+2024,13,Hungarian Grand Prix,ALO,FP2,0.8155
+2024,13,Hungarian Grand Prix,ALO,FP3,1.3625
+2024,13,Hungarian Grand Prix,BEA,FP1,1.5274999999999999
+2024,13,Hungarian Grand Prix,BOT,FP1,0.365
+2024,13,Hungarian Grand Prix,BOT,FP2,0.9875
+2024,13,Hungarian Grand Prix,BOT,FP3,1.3455
+2024,13,Hungarian Grand Prix,GAS,FP1,1.028
+2024,13,Hungarian Grand Prix,GAS,FP2,1.0615
+2024,13,Hungarian Grand Prix,GAS,FP3,1.8005
+2024,13,Hungarian Grand Prix,HAM,FP1,0.705
+2024,13,Hungarian Grand Prix,HAM,FP2,0.1065
+2024,13,Hungarian Grand Prix,HAM,FP3,0.8605
+2024,13,Hungarian Grand Prix,HUL,FP2,1.6395
+2024,13,Hungarian Grand Prix,HUL,FP3,0.8605
+2024,13,Hungarian Grand Prix,LEC,FP1,0.957
+2024,13,Hungarian Grand Prix,LEC,FP2,2.437
+2024,13,Hungarian Grand Prix,LEC,FP3,1.2185
+2024,13,Hungarian Grand Prix,MAG,FP1,1.3479999999999999
+2024,13,Hungarian Grand Prix,MAG,FP2,1.1655
+2024,13,Hungarian Grand Prix,MAG,FP3,1.2735
+2024,13,Hungarian Grand Prix,NOR,FP1,0.688
+2024,13,Hungarian Grand Prix,NOR,FP2,0.6195
+2024,13,Hungarian Grand Prix,NOR,FP3,0.0
+2024,13,Hungarian Grand Prix,OCO,FP1,1.438
+2024,13,Hungarian Grand Prix,OCO,FP2,1.2755
+2024,13,Hungarian Grand Prix,OCO,FP3,1.5405
+2024,13,Hungarian Grand Prix,PER,FP1,0.202
+2024,13,Hungarian Grand Prix,PER,FP2,0.136
+2024,13,Hungarian Grand Prix,PER,FP3,1.4555
+2024,13,Hungarian Grand Prix,PIA,FP1,0.172
+2024,13,Hungarian Grand Prix,PIA,FP2,1.293
+2024,13,Hungarian Grand Prix,PIA,FP3,0.6505
+2024,13,Hungarian Grand Prix,RIC,FP1,0.8035
+2024,13,Hungarian Grand Prix,RIC,FP2,0.134
+2024,13,Hungarian Grand Prix,RIC,FP3,0.7405
+2024,13,Hungarian Grand Prix,RUS,FP1,0.3445
+2024,13,Hungarian Grand Prix,RUS,FP2,0.0
+2024,13,Hungarian Grand Prix,RUS,FP3,0.212
+2024,13,Hungarian Grand Prix,SAI,FP1,0.846
+2024,13,Hungarian Grand Prix,SAI,FP2,0.4925
+2024,13,Hungarian Grand Prix,SAI,FP3,0.8115
+2024,13,Hungarian Grand Prix,SAR,FP1,0.896
+2024,13,Hungarian Grand Prix,SAR,FP2,0.7155
+2024,13,Hungarian Grand Prix,SAR,FP3,1.2405
+2024,13,Hungarian Grand Prix,STR,FP1,1.343
+2024,13,Hungarian Grand Prix,STR,FP2,1.1315
+2024,13,Hungarian Grand Prix,STR,FP3,1.8155000000000001
+2024,13,Hungarian Grand Prix,TSU,FP1,0.798
+2024,13,Hungarian Grand Prix,TSU,FP2,1.1724999999999999
+2024,13,Hungarian Grand Prix,TSU,FP3,0.7735
+2024,13,Hungarian Grand Prix,VER,FP1,0.0
+2024,13,Hungarian Grand Prix,VER,FP2,0.1685
+2024,13,Hungarian Grand Prix,VER,FP3,1.4935
+2024,13,Hungarian Grand Prix,ZHO,FP1,1.284
+2024,13,Hungarian Grand Prix,ZHO,FP2,1.552
+2024,13,Hungarian Grand Prix,ZHO,FP3,1.966
+2024,14,Belgian Grand Prix,ALB,FP1,3.227
+2024,14,Belgian Grand Prix,ALB,FP2,0.6
+2024,14,Belgian Grand Prix,ALB,FP3,5.0445
+2024,14,Belgian Grand Prix,ALO,FP1,1.354
+2024,14,Belgian Grand Prix,ALO,FP2,0.884
+2024,14,Belgian Grand Prix,ALO,FP3,5.6725
+2024,14,Belgian Grand Prix,BOT,FP1,0.484
+2024,14,Belgian Grand Prix,BOT,FP2,0.296
+2024,14,Belgian Grand Prix,BOT,FP3,4.0935
+2024,14,Belgian Grand Prix,GAS,FP1,0.24
+2024,14,Belgian Grand Prix,GAS,FP2,0.856
+2024,14,Belgian Grand Prix,GAS,FP3,2.0015
+2024,14,Belgian Grand Prix,HAM,FP1,1.817
+2024,14,Belgian Grand Prix,HAM,FP2,0.426
+2024,14,Belgian Grand Prix,HAM,FP3,4.3525
+2024,14,Belgian Grand Prix,HUL,FP1,1.418
+2024,14,Belgian Grand Prix,HUL,FP2,0.267
+2024,14,Belgian Grand Prix,HUL,FP3,5.6415
+2024,14,Belgian Grand Prix,LEC,FP1,3.106
+2024,14,Belgian Grand Prix,LEC,FP2,2.6935000000000002
+2024,14,Belgian Grand Prix,LEC,FP3,4.1125
+2024,14,Belgian Grand Prix,MAG,FP1,1.7505
+2024,14,Belgian Grand Prix,MAG,FP2,0.635
+2024,14,Belgian Grand Prix,NOR,FP1,3.5620000000000003
+2024,14,Belgian Grand Prix,NOR,FP2,2.034
+2024,14,Belgian Grand Prix,NOR,FP3,3.2945
+2024,14,Belgian Grand Prix,OCO,FP2,1.571
+2024,14,Belgian Grand Prix,OCO,FP3,4.7035
+2024,14,Belgian Grand Prix,PER,FP1,2.44
+2024,14,Belgian Grand Prix,PER,FP2,2.8425000000000002
+2024,14,Belgian Grand Prix,PER,FP3,4.7045
+2024,14,Belgian Grand Prix,PIA,FP1,0.0
+2024,14,Belgian Grand Prix,PIA,FP2,4.045
+2024,14,Belgian Grand Prix,PIA,FP3,1.5735000000000001
+2024,14,Belgian Grand Prix,RIC,FP1,0.9565
+2024,14,Belgian Grand Prix,RIC,FP2,0.673
+2024,14,Belgian Grand Prix,RIC,FP3,6.0115
+2024,14,Belgian Grand Prix,RUS,FP1,1.986
+2024,14,Belgian Grand Prix,RUS,FP2,0.0
+2024,14,Belgian Grand Prix,SAI,FP1,2.8685
+2024,14,Belgian Grand Prix,SAI,FP2,2.4855
+2024,14,Belgian Grand Prix,SAR,FP1,2.4185
+2024,14,Belgian Grand Prix,SAR,FP2,1.421
+2024,14,Belgian Grand Prix,STR,FP1,1.388
+2024,14,Belgian Grand Prix,STR,FP2,0.617
+2024,14,Belgian Grand Prix,STR,FP3,4.6065000000000005
+2024,14,Belgian Grand Prix,TSU,FP1,1.206
+2024,14,Belgian Grand Prix,TSU,FP2,1.152
+2024,14,Belgian Grand Prix,TSU,FP3,7.0455
+2024,14,Belgian Grand Prix,VER,FP1,3.234
+2024,14,Belgian Grand Prix,VER,FP2,4.367
+2024,14,Belgian Grand Prix,VER,FP3,0.0
+2024,14,Belgian Grand Prix,ZHO,FP1,1.5739999999999998
+2024,14,Belgian Grand Prix,ZHO,FP2,2.297
+2024,15,Dutch Grand Prix,ALB,FP1,0.5445
+2024,15,Dutch Grand Prix,ALB,FP2,0.4565
+2024,15,Dutch Grand Prix,ALB,FP3,3.6959999999999997
+2024,15,Dutch Grand Prix,ALO,FP1,2.476
+2024,15,Dutch Grand Prix,ALO,FP2,0.6395
+2024,15,Dutch Grand Prix,ALO,FP3,3.0395
+2024,15,Dutch Grand Prix,BOT,FP2,1.0035
+2024,15,Dutch Grand Prix,BOT,FP3,2.657
+2024,15,Dutch Grand Prix,GAS,FP2,1.0485
+2024,15,Dutch Grand Prix,GAS,FP3,0.0
+2024,15,Dutch Grand Prix,HAM,FP1,0.0
+2024,15,Dutch Grand Prix,HAM,FP2,0.0
+2024,15,Dutch Grand Prix,HAM,FP3,3.787
+2024,15,Dutch Grand Prix,HUL,FP1,0.546
+2024,15,Dutch Grand Prix,HUL,FP2,1.2435
+2024,15,Dutch Grand Prix,HUL,FP3,2.043
+2024,15,Dutch Grand Prix,LEC,FP1,1.089
+2024,15,Dutch Grand Prix,LEC,FP2,1.609
+2024,15,Dutch Grand Prix,LEC,FP3,3.847
+2024,15,Dutch Grand Prix,MAG,FP1,2.5709999999999997
+2024,15,Dutch Grand Prix,MAG,FP2,1.3785
+2024,15,Dutch Grand Prix,MAG,FP3,1.156
+2024,15,Dutch Grand Prix,NOR,FP1,0.4515
+2024,15,Dutch Grand Prix,NOR,FP2,3.2105
+2024,15,Dutch Grand Prix,NOR,FP3,2.2685
+2024,15,Dutch Grand Prix,OCO,FP1,2.8810000000000002
+2024,15,Dutch Grand Prix,OCO,FP2,1.5310000000000001
+2024,15,Dutch Grand Prix,OCO,FP3,1.332
+2024,15,Dutch Grand Prix,PER,FP1,1.9409999999999998
+2024,15,Dutch Grand Prix,PER,FP2,1.0155
+2024,15,Dutch Grand Prix,PIA,FP1,0.6065
+2024,15,Dutch Grand Prix,PIA,FP2,1.7225000000000001
+2024,15,Dutch Grand Prix,PIA,FP3,2.702
+2024,15,Dutch Grand Prix,RIC,FP1,3.014
+2024,15,Dutch Grand Prix,RIC,FP2,1.8605
+2024,15,Dutch Grand Prix,RIC,FP3,5.122
+2024,15,Dutch Grand Prix,RUS,FP1,0.549
+2024,15,Dutch Grand Prix,RUS,FP2,3.1535
+2024,15,Dutch Grand Prix,RUS,FP3,3.6470000000000002
+2024,15,Dutch Grand Prix,SAI,FP1,1.8355000000000001
+2024,15,Dutch Grand Prix,SAI,FP2,1.307
+2024,15,Dutch Grand Prix,SAI,FP3,2.278
+2024,15,Dutch Grand Prix,SAR,FP1,2.388
+2024,15,Dutch Grand Prix,SAR,FP2,0.579
+2024,15,Dutch Grand Prix,SAR,FP3,3.9715
+2024,15,Dutch Grand Prix,SHW,FP1,1.441
+2024,15,Dutch Grand Prix,STR,FP1,1.7269999999999999
+2024,15,Dutch Grand Prix,STR,FP2,0.9305
+2024,15,Dutch Grand Prix,STR,FP3,2.7595
+2024,15,Dutch Grand Prix,TSU,FP1,2.635
+2024,15,Dutch Grand Prix,TSU,FP2,0.675
+2024,15,Dutch Grand Prix,VER,FP1,1.064
+2024,15,Dutch Grand Prix,VER,FP2,3.0765
+2024,15,Dutch Grand Prix,VER,FP3,4.049
+2024,15,Dutch Grand Prix,ZHO,FP1,0.748
+2024,15,Dutch Grand Prix,ZHO,FP2,1.5425
+2024,15,Dutch Grand Prix,ZHO,FP3,2.9290000000000003
+2024,16,Italian Grand Prix,ALB,FP1,2.34
+2024,16,Italian Grand Prix,ALB,FP2,3.089
+2024,16,Italian Grand Prix,ALB,FP3,0.4225
+2024,16,Italian Grand Prix,ALO,FP1,0.337
+2024,16,Italian Grand Prix,ALO,FP2,3.482
+2024,16,Italian Grand Prix,ALO,FP3,0.666
+2024,16,Italian Grand Prix,ANT,FP1,0.943
+2024,16,Italian Grand Prix,BOT,FP1,0.0975
+2024,16,Italian Grand Prix,BOT,FP2,3.539
+2024,16,Italian Grand Prix,BOT,FP3,1.537
+2024,16,Italian Grand Prix,COL,FP1,3.488
+2024,16,Italian Grand Prix,COL,FP2,1.843
+2024,16,Italian Grand Prix,COL,FP3,1.2095
+2024,16,Italian Grand Prix,GAS,FP1,1.8085
+2024,16,Italian Grand Prix,GAS,FP2,1.6995
+2024,16,Italian Grand Prix,GAS,FP3,1.01
+2024,16,Italian Grand Prix,HAM,FP1,2.7095000000000002
+2024,16,Italian Grand Prix,HAM,FP2,2.1855
+2024,16,Italian Grand Prix,HAM,FP3,0.201
+2024,16,Italian Grand Prix,HUL,FP1,0.86
+2024,16,Italian Grand Prix,HUL,FP2,3.221
+2024,16,Italian Grand Prix,HUL,FP3,2.6814999999999998
+2024,16,Italian Grand Prix,LEC,FP1,2.213
+2024,16,Italian Grand Prix,LEC,FP2,2.745
+2024,16,Italian Grand Prix,LEC,FP3,0.0
+2024,16,Italian Grand Prix,MAG,FP1,0.655
+2024,16,Italian Grand Prix,MAG,FP2,0.0
+2024,16,Italian Grand Prix,MAG,FP3,1.191
+2024,16,Italian Grand Prix,NOR,FP1,1.098
+2024,16,Italian Grand Prix,NOR,FP2,2.6795
+2024,16,Italian Grand Prix,NOR,FP3,0.3085
+2024,16,Italian Grand Prix,OCO,FP1,0.414
+2024,16,Italian Grand Prix,OCO,FP2,0.054
+2024,16,Italian Grand Prix,OCO,FP3,1.1455
+2024,16,Italian Grand Prix,PER,FP1,0.831
+2024,16,Italian Grand Prix,PER,FP2,2.356
+2024,16,Italian Grand Prix,PER,FP3,4.193
+2024,16,Italian Grand Prix,PIA,FP1,2.1055
+2024,16,Italian Grand Prix,PIA,FP2,2.836
+2024,16,Italian Grand Prix,PIA,FP3,0.308
+2024,16,Italian Grand Prix,RIC,FP1,2.4885
+2024,16,Italian Grand Prix,RIC,FP2,3.1310000000000002
+2024,16,Italian Grand Prix,RIC,FP3,1.449
+2024,16,Italian Grand Prix,RUS,FP2,2.5755
+2024,16,Italian Grand Prix,RUS,FP3,2.6225
+2024,16,Italian Grand Prix,SAI,FP1,1.6989999999999998
+2024,16,Italian Grand Prix,SAI,FP2,2.918
+2024,16,Italian Grand Prix,SAI,FP3,0.024
+2024,16,Italian Grand Prix,STR,FP1,0.6505
+2024,16,Italian Grand Prix,STR,FP2,3.3765
+2024,16,Italian Grand Prix,STR,FP3,0.806
+2024,16,Italian Grand Prix,TSU,FP1,1.2295
+2024,16,Italian Grand Prix,TSU,FP2,1.189
+2024,16,Italian Grand Prix,TSU,FP3,0.728
+2024,16,Italian Grand Prix,VER,FP1,0.0
+2024,16,Italian Grand Prix,VER,FP2,2.8675
+2024,16,Italian Grand Prix,VER,FP3,4.1815
+2024,16,Italian Grand Prix,ZHO,FP1,1.5895000000000001
+2024,16,Italian Grand Prix,ZHO,FP2,0.7135
+2024,16,Italian Grand Prix,ZHO,FP3,2.3005
+2024,17,Azerbaijan Grand Prix,ALB,FP1,1.9965000000000002
+2024,17,Azerbaijan Grand Prix,ALB,FP2,4.475
+2024,17,Azerbaijan Grand Prix,ALB,FP3,0.6135
+2024,17,Azerbaijan Grand Prix,ALO,FP1,1.342
+2024,17,Azerbaijan Grand Prix,ALO,FP2,0.816
+2024,17,Azerbaijan Grand Prix,ALO,FP3,1.609
+2024,17,Azerbaijan Grand Prix,BEA,FP1,3.138
+2024,17,Azerbaijan Grand Prix,BEA,FP2,4.8745
+2024,17,Azerbaijan Grand Prix,BOT,FP1,2.792
+2024,17,Azerbaijan Grand Prix,BOT,FP2,2.216
+2024,17,Azerbaijan Grand Prix,BOT,FP3,2.1215
+2024,17,Azerbaijan Grand Prix,COL,FP1,2.608
+2024,17,Azerbaijan Grand Prix,COL,FP2,4.3855
+2024,17,Azerbaijan Grand Prix,COL,FP3,2.0805
+2024,17,Azerbaijan Grand Prix,GAS,FP1,2.891
+2024,17,Azerbaijan Grand Prix,GAS,FP2,4.5945
+2024,17,Azerbaijan Grand Prix,GAS,FP3,1.9295
+2024,17,Azerbaijan Grand Prix,HAM,FP1,3.071
+2024,17,Azerbaijan Grand Prix,HAM,FP2,2.6855
+2024,17,Azerbaijan Grand Prix,HAM,FP3,1.3225
+2024,17,Azerbaijan Grand Prix,HUL,FP1,3.261
+2024,17,Azerbaijan Grand Prix,HUL,FP2,0.0
+2024,17,Azerbaijan Grand Prix,HUL,FP3,1.5985
+2024,17,Azerbaijan Grand Prix,LEC,FP1,1.3345
+2024,17,Azerbaijan Grand Prix,LEC,FP2,0.86
+2024,17,Azerbaijan Grand Prix,LEC,FP3,0.0
+2024,17,Azerbaijan Grand Prix,NOR,FP1,3.52
+2024,17,Azerbaijan Grand Prix,NOR,FP2,3.7960000000000003
+2024,17,Azerbaijan Grand Prix,NOR,FP3,0.472
+2024,17,Azerbaijan Grand Prix,OCO,FP2,3.46
+2024,17,Azerbaijan Grand Prix,PER,FP1,0.0
+2024,17,Azerbaijan Grand Prix,PER,FP2,3.5564999999999998
+2024,17,Azerbaijan Grand Prix,PER,FP3,0.3535
+2024,17,Azerbaijan Grand Prix,PIA,FP1,2.35
+2024,17,Azerbaijan Grand Prix,PIA,FP2,3.207
+2024,17,Azerbaijan Grand Prix,PIA,FP3,2.2455
+2024,17,Azerbaijan Grand Prix,RIC,FP1,3.261
+2024,17,Azerbaijan Grand Prix,RIC,FP2,2.2955
+2024,17,Azerbaijan Grand Prix,RIC,FP3,1.944
+2024,17,Azerbaijan Grand Prix,RUS,FP1,0.894
+2024,17,Azerbaijan Grand Prix,RUS,FP2,2.8555
+2024,17,Azerbaijan Grand Prix,RUS,FP3,0.498
+2024,17,Azerbaijan Grand Prix,SAI,FP1,1.162
+2024,17,Azerbaijan Grand Prix,SAI,FP2,3.309
+2024,17,Azerbaijan Grand Prix,SAI,FP3,0.7865
+2024,17,Azerbaijan Grand Prix,STR,FP1,3.096
+2024,17,Azerbaijan Grand Prix,STR,FP2,2.0165
+2024,17,Azerbaijan Grand Prix,STR,FP3,1.092
+2024,17,Azerbaijan Grand Prix,TSU,FP1,4.048
+2024,17,Azerbaijan Grand Prix,TSU,FP2,4.5945
+2024,17,Azerbaijan Grand Prix,TSU,FP3,1.4445000000000001
+2024,17,Azerbaijan Grand Prix,VER,FP1,0.272
+2024,17,Azerbaijan Grand Prix,VER,FP2,3.5505
+2024,17,Azerbaijan Grand Prix,VER,FP3,0.2145
+2024,17,Azerbaijan Grand Prix,ZHO,FP1,3.332
+2024,17,Azerbaijan Grand Prix,ZHO,FP2,2.1455
+2024,17,Azerbaijan Grand Prix,ZHO,FP3,3.0305
+2024,18,Singapore Grand Prix,ALB,FP1,3.383
+2024,18,Singapore Grand Prix,ALB,FP2,0.573
+2024,18,Singapore Grand Prix,ALB,FP3,0.0
+2024,18,Singapore Grand Prix,ALO,FP1,0.283
+2024,18,Singapore Grand Prix,ALO,FP2,1.301
+2024,18,Singapore Grand Prix,ALO,FP3,1.296
+2024,18,Singapore Grand Prix,BOT,FP1,1.567
+2024,18,Singapore Grand Prix,BOT,FP2,3.401
+2024,18,Singapore Grand Prix,BOT,FP3,1.944
+2024,18,Singapore Grand Prix,COL,FP1,2.19
+2024,18,Singapore Grand Prix,COL,FP2,2.064
+2024,18,Singapore Grand Prix,COL,FP3,1.1565
+2024,18,Singapore Grand Prix,GAS,FP1,1.579
+2024,18,Singapore Grand Prix,GAS,FP2,1.52
+2024,18,Singapore Grand Prix,GAS,FP3,2.52
+2024,18,Singapore Grand Prix,HAM,FP1,0.616
+2024,18,Singapore Grand Prix,HAM,FP2,2.235
+2024,18,Singapore Grand Prix,HAM,FP3,0.2905
+2024,18,Singapore Grand Prix,HUL,FP1,2.6985
+2024,18,Singapore Grand Prix,HUL,FP2,1.3565
+2024,18,Singapore Grand Prix,HUL,FP3,0.7225
+2024,18,Singapore Grand Prix,LEC,FP1,0.0
+2024,18,Singapore Grand Prix,LEC,FP2,0.0
+2024,18,Singapore Grand Prix,LEC,FP3,0.8715
+2024,18,Singapore Grand Prix,MAG,FP1,3.014
+2024,18,Singapore Grand Prix,MAG,FP2,1.318
+2024,18,Singapore Grand Prix,MAG,FP3,1.179
+2024,18,Singapore Grand Prix,NOR,FP1,2.989
+2024,18,Singapore Grand Prix,NOR,FP2,2.7085
+2024,18,Singapore Grand Prix,NOR,FP3,0.531
+2024,18,Singapore Grand Prix,OCO,FP1,1.051
+2024,18,Singapore Grand Prix,OCO,FP2,2.288
+2024,18,Singapore Grand Prix,OCO,FP3,2.181
+2024,18,Singapore Grand Prix,PER,FP1,1.5510000000000002
+2024,18,Singapore Grand Prix,PER,FP2,1.601
+2024,18,Singapore Grand Prix,PER,FP3,1.091
+2024,18,Singapore Grand Prix,PIA,FP1,1.494
+2024,18,Singapore Grand Prix,PIA,FP2,1.435
+2024,18,Singapore Grand Prix,PIA,FP3,1.062
+2024,18,Singapore Grand Prix,RIC,FP1,1.251
+2024,18,Singapore Grand Prix,RIC,FP2,0.987
+2024,18,Singapore Grand Prix,RIC,FP3,0.887
+2024,18,Singapore Grand Prix,RUS,FP1,0.901
+2024,18,Singapore Grand Prix,RUS,FP2,1.043
+2024,18,Singapore Grand Prix,RUS,FP3,0.9155
+2024,18,Singapore Grand Prix,SAI,FP1,1.5385
+2024,18,Singapore Grand Prix,SAI,FP2,0.9975
+2024,18,Singapore Grand Prix,SAI,FP3,0.6905
+2024,18,Singapore Grand Prix,STR,FP1,0.1505
+2024,18,Singapore Grand Prix,STR,FP2,1.813
+2024,18,Singapore Grand Prix,STR,FP3,1.774
+2024,18,Singapore Grand Prix,TSU,FP1,0.1655
+2024,18,Singapore Grand Prix,TSU,FP2,0.917
+2024,18,Singapore Grand Prix,TSU,FP3,1.6320000000000001
+2024,18,Singapore Grand Prix,VER,FP1,3.0935
+2024,18,Singapore Grand Prix,VER,FP2,1.153
+2024,18,Singapore Grand Prix,VER,FP3,0.513
+2024,18,Singapore Grand Prix,ZHO,FP1,1.867
+2024,18,Singapore Grand Prix,ZHO,FP2,1.6375
+2024,18,Singapore Grand Prix,ZHO,FP3,2.491
+2024,19,United States Grand Prix,ALB,FP1,2.982
+2024,19,United States Grand Prix,ALO,FP1,1.165
+2024,19,United States Grand Prix,BOT,FP1,4.017
+2024,19,United States Grand Prix,COL,FP1,2.8369999999999997
+2024,19,United States Grand Prix,GAS,FP1,1.799
+2024,19,United States Grand Prix,HAM,FP1,2.512
+2024,19,United States Grand Prix,HUL,FP1,2.8745000000000003
+2024,19,United States Grand Prix,LAW,FP1,1.869
+2024,19,United States Grand Prix,LEC,FP1,0.827
+2024,19,United States Grand Prix,MAG,FP1,2.359
+2024,19,United States Grand Prix,NOR,FP1,1.7985
+2024,19,United States Grand Prix,OCO,FP1,1.8399999999999999
+2024,19,United States Grand Prix,PER,FP1,3.71
+2024,19,United States Grand Prix,PIA,FP1,2.406
+2024,19,United States Grand Prix,RUS,FP1,1.825
+2024,19,United States Grand Prix,SAI,FP1,1.139
+2024,19,United States Grand Prix,STR,FP1,1.9365
+2024,19,United States Grand Prix,TSU,FP1,4.013
+2024,19,United States Grand Prix,VER,FP1,0.0
+2024,19,United States Grand Prix,ZHO,FP1,2.965
+2024,20,Mexico City Grand Prix,ALB,FP1,1.1345
+2024,20,Mexico City Grand Prix,ALB,FP3,1.317
+2024,20,Mexico City Grand Prix,ALO,FP2,1.9729999999999999
+2024,20,Mexico City Grand Prix,ALO,FP3,1.74
+2024,20,Mexico City Grand Prix,ANT,FP1,2.431
+2024,20,Mexico City Grand Prix,BEA,FP1,2.7165
+2024,20,Mexico City Grand Prix,BOT,FP1,1.9425
+2024,20,Mexico City Grand Prix,BOT,FP2,3.5540000000000003
+2024,20,Mexico City Grand Prix,BOT,FP3,3.6285
+2024,20,Mexico City Grand Prix,COL,FP1,2.725
+2024,20,Mexico City Grand Prix,COL,FP2,3.606
+2024,20,Mexico City Grand Prix,COL,FP3,0.847
+2024,20,Mexico City Grand Prix,DRU,FP1,1.612
+2024,20,Mexico City Grand Prix,GAS,FP1,0.0
+2024,20,Mexico City Grand Prix,GAS,FP2,3.401
+2024,20,Mexico City Grand Prix,GAS,FP3,1.3785
+2024,20,Mexico City Grand Prix,HAM,FP2,2.798
+2024,20,Mexico City Grand Prix,HAM,FP3,2.408
+2024,20,Mexico City Grand Prix,HUL,FP1,1.047
+2024,20,Mexico City Grand Prix,HUL,FP2,3.437
+2024,20,Mexico City Grand Prix,HUL,FP3,2.998
+2024,20,Mexico City Grand Prix,LAW,FP1,1.218
+2024,20,Mexico City Grand Prix,LAW,FP2,3.581
+2024,20,Mexico City Grand Prix,LAW,FP3,1.463
+2024,20,Mexico City Grand Prix,LEC,FP2,2.407
+2024,20,Mexico City Grand Prix,LEC,FP3,0.189
+2024,20,Mexico City Grand Prix,MAG,FP1,2.759
+2024,20,Mexico City Grand Prix,MAG,FP2,3.388
+2024,20,Mexico City Grand Prix,MAG,FP3,2.561
+2024,20,Mexico City Grand Prix,NOR,FP2,2.6715
+2024,20,Mexico City Grand Prix,NOR,FP3,0.806
+2024,20,Mexico City Grand Prix,OCO,FP1,1.829
+2024,20,Mexico City Grand Prix,OCO,FP2,3.354
+2024,20,Mexico City Grand Prix,OCO,FP3,2.1390000000000002
+2024,20,Mexico City Grand Prix,OWA,FP1,2.512
+2024,20,Mexico City Grand Prix,PER,FP1,1.085
+2024,20,Mexico City Grand Prix,PER,FP2,3.436
+2024,20,Mexico City Grand Prix,PER,FP3,0.812
+2024,20,Mexico City Grand Prix,PIA,FP1,2.865
+2024,20,Mexico City Grand Prix,PIA,FP2,2.859
+2024,20,Mexico City Grand Prix,PIA,FP3,0.31
+2024,20,Mexico City Grand Prix,RUS,FP1,3.3810000000000002
+2024,20,Mexico City Grand Prix,RUS,FP2,0.0
+2024,20,Mexico City Grand Prix,RUS,FP3,3.125
+2024,20,Mexico City Grand Prix,SAI,FP1,1.8705
+2024,20,Mexico City Grand Prix,SAI,FP2,2.648
+2024,20,Mexico City Grand Prix,SAI,FP3,0.0
+2024,20,Mexico City Grand Prix,SHW,FP1,2.413
+2024,20,Mexico City Grand Prix,STR,FP1,0.934
+2024,20,Mexico City Grand Prix,STR,FP2,3.759
+2024,20,Mexico City Grand Prix,STR,FP3,1.545
+2024,20,Mexico City Grand Prix,TSU,FP1,1.355
+2024,20,Mexico City Grand Prix,TSU,FP2,3.393
+2024,20,Mexico City Grand Prix,TSU,FP3,0.779
+2024,20,Mexico City Grand Prix,VER,FP1,1.3599999999999999
+2024,20,Mexico City Grand Prix,VER,FP3,0.995
+2024,20,Mexico City Grand Prix,ZHO,FP2,3.787
+2024,20,Mexico City Grand Prix,ZHO,FP3,1.8159999999999998
+2024,21,São Paulo Grand Prix,ALB,FP1,1.428
+2024,21,São Paulo Grand Prix,ALO,FP1,0.806
+2024,21,São Paulo Grand Prix,BEA,FP1,1.456
+2024,21,São Paulo Grand Prix,BOT,FP1,1.177
+2024,21,São Paulo Grand Prix,COL,FP1,0.254
+2024,21,São Paulo Grand Prix,GAS,FP1,0.433
+2024,21,São Paulo Grand Prix,HAM,FP1,1.487
+2024,21,São Paulo Grand Prix,HUL,FP1,0.6295
+2024,21,São Paulo Grand Prix,LAW,FP1,0.158
+2024,21,São Paulo Grand Prix,LEC,FP1,0.486
+2024,21,São Paulo Grand Prix,NOR,FP1,0.942
+2024,21,São Paulo Grand Prix,OCO,FP1,1.053
+2024,21,São Paulo Grand Prix,PER,FP1,1.952
+2024,21,São Paulo Grand Prix,PIA,FP1,1.522
+2024,21,São Paulo Grand Prix,RUS,FP1,1.3765
+2024,21,São Paulo Grand Prix,SAI,FP1,0.674
+2024,21,São Paulo Grand Prix,STR,FP1,1.4365
+2024,21,São Paulo Grand Prix,TSU,FP1,0.0
+2024,21,São Paulo Grand Prix,VER,FP1,1.48
+2024,21,São Paulo Grand Prix,ZHO,FP1,0.387
+2024,22,Las Vegas Grand Prix,ALB,FP1,0.2805
+2024,22,Las Vegas Grand Prix,ALB,FP2,3.4735
+2024,22,Las Vegas Grand Prix,ALB,FP3,1.283
+2024,22,Las Vegas Grand Prix,ALO,FP1,1.0935
+2024,22,Las Vegas Grand Prix,ALO,FP2,0.0
+2024,22,Las Vegas Grand Prix,ALO,FP3,1.859
+2024,22,Las Vegas Grand Prix,BOT,FP1,2.7545
+2024,22,Las Vegas Grand Prix,BOT,FP2,3.2025
+2024,22,Las Vegas Grand Prix,BOT,FP3,3.174
+2024,22,Las Vegas Grand Prix,COL,FP1,1.7255
+2024,22,Las Vegas Grand Prix,COL,FP2,2.1125
+2024,22,Las Vegas Grand Prix,COL,FP3,1.4785
+2024,22,Las Vegas Grand Prix,GAS,FP1,0.7305
+2024,22,Las Vegas Grand Prix,GAS,FP2,2.903
+2024,22,Las Vegas Grand Prix,GAS,FP3,1.103
+2024,22,Las Vegas Grand Prix,HAM,FP1,0.5965
+2024,22,Las Vegas Grand Prix,HAM,FP2,1.0725
+2024,22,Las Vegas Grand Prix,HAM,FP3,1.0
+2024,22,Las Vegas Grand Prix,HUL,FP1,2.0765
+2024,22,Las Vegas Grand Prix,HUL,FP2,2.991
+2024,22,Las Vegas Grand Prix,HUL,FP3,1.229
+2024,22,Las Vegas Grand Prix,LAW,FP1,1.8535
+2024,22,Las Vegas Grand Prix,LAW,FP2,2.195
+2024,22,Las Vegas Grand Prix,LAW,FP3,3.0715
+2024,22,Las Vegas Grand Prix,LEC,FP1,0.9135
+2024,22,Las Vegas Grand Prix,LEC,FP2,1.8115
+2024,22,Las Vegas Grand Prix,LEC,FP3,1.2735
+2024,22,Las Vegas Grand Prix,MAG,FP1,1.0805
+2024,22,Las Vegas Grand Prix,MAG,FP2,2.386
+2024,22,Las Vegas Grand Prix,MAG,FP3,1.117
+2024,22,Las Vegas Grand Prix,NOR,FP1,1.0505
+2024,22,Las Vegas Grand Prix,NOR,FP2,2.335
+2024,22,Las Vegas Grand Prix,NOR,FP3,2.754
+2024,22,Las Vegas Grand Prix,OCO,FP1,1.0405
+2024,22,Las Vegas Grand Prix,OCO,FP2,2.7915
+2024,22,Las Vegas Grand Prix,OCO,FP3,1.694
+2024,22,Las Vegas Grand Prix,PER,FP1,0.0405
+2024,22,Las Vegas Grand Prix,PER,FP2,2.442
+2024,22,Las Vegas Grand Prix,PER,FP3,1.204
+2024,22,Las Vegas Grand Prix,PIA,FP1,1.3235000000000001
+2024,22,Las Vegas Grand Prix,PIA,FP2,2.0075
+2024,22,Las Vegas Grand Prix,PIA,FP3,1.6219999999999999
+2024,22,Las Vegas Grand Prix,RUS,FP1,0.422
+2024,22,Las Vegas Grand Prix,RUS,FP2,2.4205
+2024,22,Las Vegas Grand Prix,RUS,FP3,0.338
+2024,22,Las Vegas Grand Prix,SAI,FP1,1.8375
+2024,22,Las Vegas Grand Prix,SAI,FP2,2.2125
+2024,22,Las Vegas Grand Prix,SAI,FP3,1.0815
+2024,22,Las Vegas Grand Prix,STR,FP1,1.0035
+2024,22,Las Vegas Grand Prix,STR,FP2,1.4925
+2024,22,Las Vegas Grand Prix,STR,FP3,3.49
+2024,22,Las Vegas Grand Prix,TSU,FP1,2.8215
+2024,22,Las Vegas Grand Prix,TSU,FP2,2.8635
+2024,22,Las Vegas Grand Prix,TSU,FP3,2.421
+2024,22,Las Vegas Grand Prix,VER,FP1,0.0
+2024,22,Las Vegas Grand Prix,VER,FP2,2.357
+2024,22,Las Vegas Grand Prix,VER,FP3,0.0
+2024,22,Las Vegas Grand Prix,ZHO,FP1,1.3595
+2024,22,Las Vegas Grand Prix,ZHO,FP2,1.4835
+2024,22,Las Vegas Grand Prix,ZHO,FP3,3.109
+2024,23,Qatar Grand Prix,ALB,FP1,1.332
+2024,23,Qatar Grand Prix,ALO,FP1,0.8145
+2024,23,Qatar Grand Prix,BOT,FP1,1.1085
+2024,23,Qatar Grand Prix,COL,FP1,2.411
+2024,23,Qatar Grand Prix,GAS,FP1,0.9065
+2024,23,Qatar Grand Prix,HAM,FP1,1.601
+2024,23,Qatar Grand Prix,HUL,FP1,1.282
+2024,23,Qatar Grand Prix,LAW,FP1,2.144
+2024,23,Qatar Grand Prix,LEC,FP1,0.604
+2024,23,Qatar Grand Prix,MAG,FP1,1.276
+2024,23,Qatar Grand Prix,NOR,FP1,0.277
+2024,23,Qatar Grand Prix,OCO,FP1,0.398
+2024,23,Qatar Grand Prix,PER,FP1,1.995
+2024,23,Qatar Grand Prix,PIA,FP1,0.0
+2024,23,Qatar Grand Prix,RUS,FP1,0.649
+2024,23,Qatar Grand Prix,SAI,FP1,0.226
+2024,23,Qatar Grand Prix,STR,FP1,1.0075
+2024,23,Qatar Grand Prix,TSU,FP1,0.857
+2024,23,Qatar Grand Prix,VER,FP1,1.638
+2024,23,Qatar Grand Prix,ZHO,FP1,1.1825
+2024,24,Abu Dhabi Grand Prix,ALB,FP2,1.048
+2024,24,Abu Dhabi Grand Prix,ALB,FP3,0.7955
+2024,24,Abu Dhabi Grand Prix,ALO,FP1,0.0
+2024,24,Abu Dhabi Grand Prix,ALO,FP2,0.6545
+2024,24,Abu Dhabi Grand Prix,ALO,FP3,1.2770000000000001
+2024,24,Abu Dhabi Grand Prix,BOT,FP1,1.33
+2024,24,Abu Dhabi Grand Prix,BOT,FP2,1.039
+2024,24,Abu Dhabi Grand Prix,BOT,FP3,0.7905
+2024,24,Abu Dhabi Grand Prix,BRO,FP1,3.0735
+2024,24,Abu Dhabi Grand Prix,COL,FP1,1.4045
+2024,24,Abu Dhabi Grand Prix,COL,FP2,0.85
+2024,24,Abu Dhabi Grand Prix,COL,FP3,1.0665
+2024,24,Abu Dhabi Grand Prix,DOO,FP1,0.8515
+2024,24,Abu Dhabi Grand Prix,DOO,FP2,2.098
+2024,24,Abu Dhabi Grand Prix,DOO,FP3,1.316
+2024,24,Abu Dhabi Grand Prix,DRU,FP1,0.9555
+2024,24,Abu Dhabi Grand Prix,GAS,FP1,0.1205
+2024,24,Abu Dhabi Grand Prix,GAS,FP2,0.897
+2024,24,Abu Dhabi Grand Prix,GAS,FP3,0.808
+2024,24,Abu Dhabi Grand Prix,HAD,FP1,1.231
+2024,24,Abu Dhabi Grand Prix,HAM,FP1,3.0635
+2024,24,Abu Dhabi Grand Prix,HAM,FP2,0.83
+2024,24,Abu Dhabi Grand Prix,HAM,FP3,0.596
+2024,24,Abu Dhabi Grand Prix,HIR,FP1,1.4815
+2024,24,Abu Dhabi Grand Prix,HUL,FP1,3.3245
+2024,24,Abu Dhabi Grand Prix,HUL,FP2,3.808
+2024,24,Abu Dhabi Grand Prix,HUL,FP3,0.388
+2024,24,Abu Dhabi Grand Prix,IWA,FP1,1.2995
+2024,24,Abu Dhabi Grand Prix,LAW,FP1,0.4455
+2024,24,Abu Dhabi Grand Prix,LAW,FP2,0.946
+2024,24,Abu Dhabi Grand Prix,LAW,FP3,1.589
+2024,24,Abu Dhabi Grand Prix,LEC,FP1,1.0305
+2024,24,Abu Dhabi Grand Prix,LEC,FP2,0.243
+2024,24,Abu Dhabi Grand Prix,LEC,FP3,1.153
+2024,24,Abu Dhabi Grand Prix,LEL,FP1,2.4115
+2024,24,Abu Dhabi Grand Prix,MAG,FP1,3.24
+2024,24,Abu Dhabi Grand Prix,MAG,FP2,1.06
+2024,24,Abu Dhabi Grand Prix,MAG,FP3,0.1045
+2024,24,Abu Dhabi Grand Prix,NOR,FP1,3.2635
+2024,24,Abu Dhabi Grand Prix,NOR,FP2,0.0
+2024,24,Abu Dhabi Grand Prix,NOR,FP3,0.0
+2024,24,Abu Dhabi Grand Prix,PER,FP1,1.2785
+2024,24,Abu Dhabi Grand Prix,PER,FP2,0.88
+2024,24,Abu Dhabi Grand Prix,PER,FP3,0.645
+2024,24,Abu Dhabi Grand Prix,PIA,FP2,1.0435
+2024,24,Abu Dhabi Grand Prix,PIA,FP3,0.112
+2024,24,Abu Dhabi Grand Prix,RUS,FP1,3.564
+2024,24,Abu Dhabi Grand Prix,RUS,FP2,0.828
+2024,24,Abu Dhabi Grand Prix,RUS,FP3,0.6185
+2024,24,Abu Dhabi Grand Prix,SAI,FP2,0.177
+2024,24,Abu Dhabi Grand Prix,SAI,FP3,1.3245
+2024,24,Abu Dhabi Grand Prix,STR,FP2,1.331
+2024,24,Abu Dhabi Grand Prix,STR,FP3,1.3775
+2024,24,Abu Dhabi Grand Prix,TSU,FP2,0.8145
+2024,24,Abu Dhabi Grand Prix,TSU,FP3,1.464
+2024,24,Abu Dhabi Grand Prix,VER,FP2,0.6105
+2024,24,Abu Dhabi Grand Prix,VER,FP3,0.514
+2024,24,Abu Dhabi Grand Prix,ZHO,FP1,2.225
+2024,24,Abu Dhabi Grand Prix,ZHO,FP2,0.276
+2024,24,Abu Dhabi Grand Prix,ZHO,FP3,1.034

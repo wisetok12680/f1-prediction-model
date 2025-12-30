@@ -1,0 +1,1360 @@
+season,round,race_name,race_date,driver_id,driver_code,driver_name,constructor_id,constructor_name,grid_position,finish_position,status,laps_completed,points,gap_to_leader_seconds
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,1.0,Finished,57.0,26.0,5847.986
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,3.0,2.0,Finished,57.0,18.0,0.0
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,5.0,3.0,Finished,57.0,15.0,4.077
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,russell,RUS,George Russell,mercedes,Mercedes,9.0,4.0,Finished,57.0,12.0,5.6129999999999995
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,7.0,5.0,Finished,57.0,10.0,9.156
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,6.0,6.0,Finished,57.0,8.0,10.521
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,11.0,7.0,Finished,57.0,6.0,13.825
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,16.0,8.0,Finished,57.0,4.0,14.788
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,8.0,9.0,Finished,57.0,2.0,16.792
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,15.0,10.0,Finished,57.0,1.0,17.466
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,12.0,11.0,Finished,57.0,0.0,26.976
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,19.0,12.0,Finished,57.0,0.0,40.275
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,albon,ALB,Alexander Albon,williams,Williams,14.0,13.0,Finished,57.0,0.0,48.334
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,18.0,14.0,Finished,57.0,0.0,49.377
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,norris,NOR,Lando Norris,mclaren,McLaren,13.0,15.0,Finished,57.0,0.0,50.737
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,20.0,16.0,Finished,57.0,0.0,56.197
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,hulkenberg,HUL,Nico Hulkenberg,aston_martin,Aston Martin,17.0,17.0,Finished,57.0,0.0,58.231
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,4.0,18.0,Fuel pressure,56.0,0.0,
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,19.0,Fuel pressure,54.0,0.0,
+2022,1,Bahrain Grand Prix,2022-03-20 15:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10.0,20.0,Power Unit,44.0,0.0,
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,4.0,1.0,Finished,50.0,25.0,5058.744
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,2.0,2.0,Finished,50.0,19.0,0.0
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,3.0,3.0,Finished,50.0,15.0,7.548
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,1.0,4.0,Finished,50.0,12.0,10.251
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,russell,RUS,George Russell,mercedes,Mercedes,6.0,5.0,Finished,50.0,10.0,32.183
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,5.0,6.0,Finished,50.0,8.0,55.468
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,norris,NOR,Lando Norris,mclaren,McLaren,11.0,7.0,Finished,50.0,6.0,55.575
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,9.0,8.0,Finished,50.0,4.0,62.397
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,10.0,9.0,Finished,50.0,2.0,63.759
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,15.0,10.0,Finished,50.0,1.0,73.399
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,12.0,11.0,Finished,50.0,0.0,81.666
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,hulkenberg,HUL,Nico Hulkenberg,aston_martin,Aston Martin,17.0,12.0,Finished,50.0,0.0,91.193
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,13.0,13.0,+1 Lap,49.0,0.0,
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,albon,ALB,Alexander Albon,williams,Williams,16.0,14.0,Collision damage,47.0,0.0,
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,8.0,15.0,Cooling system,36.0,0.0,
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,7.0,16.0,Water pump,35.0,0.0,
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,14.0,17.0,Gearbox,35.0,0.0,
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,18.0,18.0,Accident,14.0,0.0,
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,19.0,19.0,Power Unit,0.0,0.0,
+2022,2,Saudi Arabian Grand Prix,2022-03-27 17:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,,,Withdrew,0.0,0.0,
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,1.0,Finished,58.0,26.0,5246.024
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,3.0,2.0,Finished,58.0,18.0,0.0
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,russell,RUS,George Russell,mercedes,Mercedes,6.0,3.0,Finished,58.0,15.0,5.069
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,5.0,4.0,Finished,58.0,12.0,8.019
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,norris,NOR,Lando Norris,mclaren,McLaren,4.0,5.0,Finished,58.0,10.0,32.779
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,7.0,6.0,Finished,58.0,8.0,33.213
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,8.0,7.0,Finished,58.0,6.0,41.159
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,12.0,8.0,Finished,58.0,4.0,47.915
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,11.0,9.0,Finished,58.0,2.0,55.697
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,albon,ALB,Alexander Albon,williams,Williams,20.0,10.0,Finished,58.0,1.0,58.858
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,14.0,11.0,Finished,58.0,0.0,61.171
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,19.0,12.0,Finished,58.0,0.0,68.074
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,15.0,13.0,+1 Lap,57.0,0.0,
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,16.0,14.0,+1 Lap,57.0,0.0,
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,13.0,15.0,+1 Lap,57.0,0.0,
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,18.0,16.0,+1 Lap,57.0,0.0,
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,10.0,17.0,+1 Lap,57.0,0.0,
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,18.0,Fuel leak,38.0,0.0,
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,17.0,19.0,Accident,22.0,0.0,
+2022,3,Australian Grand Prix,2022-04-10 05:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,9.0,20.0,Spun off,1.0,0.0,
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,63.0,26.0,5511.459
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,3.0,2.0,Finished,63.0,18.0,0.0
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,5.0,3.0,Finished,63.0,15.0,18.307
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,11.0,4.0,Finished,63.0,12.0,25.979
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,7.0,5.0,Finished,63.0,10.0,26.654
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,2.0,6.0,Finished,63.0,8.0,39.545
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,12.0,7.0,Finished,63.0,6.0,44.583
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,13.0,8.0,Finished,63.0,4.0,54.365
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,8.0,9.0,Finished,63.0,2.0,58.733
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,15.0,10.0,+1 Lap,62.0,1.0,
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,albon,ALB,Alexander Albon,williams,Williams,18.0,11.0,+1 Lap,62.0,0.0,
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,17.0,12.0,+1 Lap,62.0,0.0,
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,14.0,13.0,+1 Lap,62.0,0.0,
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,16.0,14.0,+1 Lap,62.0,0.0,
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,0.0,15.0,+1 Lap,62.0,0.0,
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,19.0,16.0,+1 Lap,62.0,0.0,
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,10.0,17.0,+1 Lap,62.0,0.0,
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,6.0,18.0,+1 Lap,62.0,0.0,
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,9.0,19.0,Collision damage,6.0,0.0,
+2022,4,Emilia Romagna Grand Prix,2022-04-24 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,4.0,20.0,Collision,0.0,0.0,
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,3.0,1.0,Finished,57.0,26.0,5660.472
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,2.0,Finished,57.0,18.0,0.0
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,2.0,3.0,Finished,57.0,15.0,4.443
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,4.0,4.0,Finished,57.0,12.0,6.852
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,russell,RUS,George Russell,mercedes,Mercedes,12.0,5.0,Finished,57.0,10.0,14.796
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,6.0,6.0,Finished,57.0,8.0,17.582
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,5.0,7.0,Finished,57.0,6.0,21.287
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,ocon,OCO,Esteban Ocon,alpine,Alpine,20.0,8.0,Finished,57.0,4.0,24.6
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,albon,ALB,Alexander Albon,williams,Williams,18.0,9.0,Finished,57.0,2.0,28.579
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,0.0,10.0,Finished,57.0,1.0,33.24
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,alonso,ALO,Fernando Alonso,alpine,Alpine,11.0,11.0,Finished,57.0,0.0,33.342
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,9.0,12.0,Finished,57.0,0.0,36.36
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,14.0,13.0,Finished,57.0,0.0,37.116
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,latifi,LAT,Nicholas Latifi,williams,Williams,19.0,14.0,Finished,57.0,0.0,46.15
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,15.0,15.0,Finished,57.0,0.0,69.519
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,16.0,16.0,Front wing,56.0,0.0,
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,0.0,17.0,Collision,54.0,0.0,
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,7.0,18.0,Suspension,45.0,0.0,
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,norris,NOR,Lando Norris,mclaren,McLaren,8.0,19.0,Collision,39.0,0.0,
+2022,5,Miami Grand Prix,2022-05-08 19:30:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,17.0,20.0,Water leak,6.0,0.0,
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,66.0,25.0,5827.403
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,5.0,2.0,Finished,66.0,19.0,0.0
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,4.0,3.0,Finished,66.0,15.0,19.855
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,3.0,4.0,Finished,66.0,12.0,32.136
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,6.0,5.0,Finished,66.0,10.0,41.462
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,7.0,6.0,Finished,66.0,8.0,46.904
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,12.0,7.0,Finished,66.0,6.0,62.325
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,11.0,8.0,Finished,66.0,4.0,70.163
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,20.0,9.0,+1 Lap,65.0,2.0,
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,13.0,10.0,+1 Lap,65.0,1.0,
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,16.0,11.0,+1 Lap,65.0,0.0,
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,9.0,12.0,+1 Lap,65.0,0.0,
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,14.0,13.0,+1 Lap,65.0,0.0,
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,10.0,14.0,+1 Lap,65.0,0.0,
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,17.0,15.0,+1 Lap,65.0,0.0,
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,19.0,16.0,+2 Laps,64.0,0.0,
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,8.0,17.0,+2 Laps,64.0,0.0,
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,albon,ALB,Alexander Albon,williams,Williams,18.0,18.0,+2 Laps,64.0,0.0,
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,15.0,19.0,Power loss,28.0,0.0,
+2022,6,Spanish Grand Prix,2022-05-22 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,20.0,Turbo,27.0,0.0,
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,3.0,1.0,Finished,64.0,25.0,6989.111
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,2.0,2.0,Finished,64.0,18.0,0.0
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,4.0,3.0,Finished,64.0,15.0,0.337
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,4.0,Finished,64.0,12.0,1.768
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,6.0,5.0,Finished,64.0,10.0,10.814
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,5.0,6.0,Finished,64.0,9.0,11.077
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,7.0,7.0,Finished,64.0,6.0,45.204
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,8.0,8.0,Finished,64.0,4.0,49.234
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,12.0,9.0,Finished,64.0,2.0,51.371
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,9.0,10.0,Finished,64.0,1.0,52.382
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,17.0,11.0,Finished,64.0,0.0,53.135
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,10.0,12.0,Finished,64.0,0.0,54.49
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,14.0,13.0,Finished,64.0,0.0,56.481
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18.0,14.0,Finished,64.0,0.0,59.648
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,19.0,15.0,+1 Lap,63.0,0.0,
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,20.0,16.0,+1 Lap,63.0,0.0,
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,11.0,17.0,+1 Lap,63.0,0.0,
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,albon,ALB,Alexander Albon,williams,Williams,16.0,18.0,Mechanical,48.0,0.0,
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,15.0,19.0,Accident,24.0,0.0,
+2022,7,Monaco Grand Prix,2022-05-29 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,13.0,20.0,Water pressure,19.0,0.0,
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,3.0,1.0,Finished,51.0,25.0,5625.118
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,2.0,2.0,Finished,51.0,19.0,0.0
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,russell,RUS,George Russell,mercedes,Mercedes,5.0,3.0,Finished,51.0,15.0,25.172
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,7.0,4.0,Finished,51.0,12.0,50.856
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,6.0,5.0,Finished,51.0,10.0,56.476
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,9.0,6.0,Finished,51.0,8.0,63.276
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,10.0,7.0,Finished,51.0,6.0,67.773
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,12.0,8.0,Finished,51.0,4.0,71.384
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,norris,NOR,Lando Norris,mclaren,McLaren,11.0,9.0,Finished,51.0,2.0,71.733
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,13.0,10.0,Finished,51.0,1.0,87.361
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,15.0,11.0,+1 Lap,50.0,0.0,
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,albon,ALB,Alexander Albon,williams,Williams,17.0,12.0,+1 Lap,50.0,0.0,
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,8.0,13.0,+1 Lap,50.0,0.0,
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,20.0,14.0,+1 Lap,50.0,0.0,
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,18.0,15.0,+1 Lap,50.0,0.0,
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,19.0,16.0,Vibrations,46.0,0.0,
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,16.0,17.0,Power Unit,31.0,0.0,
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,14.0,18.0,Hydraulics,23.0,0.0,
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,19.0,Power Unit,21.0,0.0,
+2022,8,Azerbaijan Grand Prix,2022-06-12 11:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,4.0,20.0,Hydraulics,8.0,0.0,
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,70.0,25.0,5780.764
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,3.0,2.0,Finished,70.0,19.0,0.0
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,4.0,3.0,Finished,70.0,15.0,6.013
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,russell,RUS,George Russell,mercedes,Mercedes,8.0,4.0,Finished,70.0,12.0,11.32
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,19.0,5.0,Finished,70.0,10.0,14.175
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,7.0,6.0,Finished,70.0,8.0,22.897
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,11.0,7.0,Finished,70.0,6.0,24.254
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,10.0,8.0,Finished,70.0,4.0,25.959
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,2.0,9.0,Finished,70.0,2.0,28.951999999999998
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,17.0,10.0,Finished,70.0,1.0,37.229
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,9.0,11.0,Finished,70.0,0.0,42.054
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,16.0,12.0,Finished,70.0,0.0,43.252
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,albon,ALB,Alexander Albon,williams,Williams,12.0,13.0,Finished,70.0,0.0,43.9
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,15.0,14.0,Finished,70.0,0.0,44.19
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,norris,NOR,Lando Norris,mclaren,McLaren,14.0,15.0,Finished,70.0,0.0,51.152
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,18.0,16.0,Finished,70.0,0.0,58.985
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,5.0,17.0,Finished,70.0,0.0,67.187
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,20.0,18.0,Accident,47.0,0.0,
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,6.0,19.0,Engine,18.0,0.0,
+2022,9,Canadian Grand Prix,2022-06-19 18:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,13.0,20.0,Gearbox,7.0,0.0,
+2022,10,British Grand Prix,2022-07-03 14:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,1.0,1.0,Finished,52.0,25.0,8266.532
+2022,10,British Grand Prix,2022-07-03 14:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,4.0,2.0,Finished,52.0,18.0,0.0
+2022,10,British Grand Prix,2022-07-03 14:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,5.0,3.0,Finished,52.0,16.0,2.446
+2022,10,British Grand Prix,2022-07-03 14:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,3.0,4.0,Finished,52.0,12.0,4.767
+2022,10,British Grand Prix,2022-07-03 14:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,7.0,5.0,Finished,52.0,10.0,5.792
+2022,10,British Grand Prix,2022-07-03 14:00:00,norris,NOR,Lando Norris,mclaren,McLaren,6.0,6.0,Finished,52.0,8.0,8.164
+2022,10,British Grand Prix,2022-07-03 14:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,7.0,Finished,52.0,6.0,14.998
+2022,10,British Grand Prix,2022-07-03 14:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,19.0,8.0,Finished,52.0,4.0,15.216
+2022,10,British Grand Prix,2022-07-03 14:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,18.0,9.0,Finished,52.0,2.0,18.576999999999998
+2022,10,British Grand Prix,2022-07-03 14:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,17.0,10.0,Finished,52.0,1.0,20.811
+2022,10,British Grand Prix,2022-07-03 14:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,20.0,11.0,Finished,52.0,0.0,22.368
+2022,10,British Grand Prix,2022-07-03 14:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,10.0,12.0,Finished,52.0,0.0,28.732
+2022,10,British Grand Prix,2022-07-03 14:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,14.0,13.0,Finished,52.0,0.0,29.038
+2022,10,British Grand Prix,2022-07-03 14:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,13.0,14.0,Finished,52.0,0.0,37.131
+2022,10,British Grand Prix,2022-07-03 14:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,15.0,15.0,Fuel pump,37.0,0.0,
+2022,10,British Grand Prix,2022-07-03 14:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,11.0,16.0,Collision damage,26.0,0.0,
+2022,10,British Grand Prix,2022-07-03 14:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,12.0,17.0,Gearbox,20.0,0.0,
+2022,10,British Grand Prix,2022-07-03 14:00:00,russell,RUS,George Russell,mercedes,Mercedes,8.0,18.0,Collision,0.0,0.0,
+2022,10,British Grand Prix,2022-07-03 14:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,9.0,19.0,Collision,0.0,0.0,
+2022,10,British Grand Prix,2022-07-03 14:00:00,albon,ALB,Alexander Albon,williams,Williams,16.0,20.0,Collision,0.0,0.0,
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,2.0,1.0,Finished,71.0,25.0,5062.78
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,2.0,Finished,71.0,19.0,0.0
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,8.0,3.0,Finished,71.0,15.0,39.685
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,4.0,4.0,Finished,71.0,12.0,57.44
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,6.0,5.0,Finished,71.0,10.0,66.904
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,9.0,6.0,+1 Lap,70.0,8.0,
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,10.0,7.0,+1 Lap,70.0,6.0,
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,7.0,8.0,+1 Lap,70.0,4.0,
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,11.0,9.0,+1 Lap,70.0,2.0,
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,19.0,10.0,+1 Lap,70.0,1.0,
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,0.0,11.0,+1 Lap,70.0,0.0,
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,albon,ALB,Alexander Albon,williams,Williams,15.0,12.0,+1 Lap,70.0,0.0,
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,12.0,13.0,+1 Lap,70.0,0.0,
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,13.0,14.0,+1 Lap,70.0,0.0,
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,14.0,15.0,+1 Lap,70.0,0.0,
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,16.0,16.0,+1 Lap,70.0,0.0,
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,18.0,17.0,+1 Lap,70.0,0.0,
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,3.0,18.0,Power Unit,56.0,0.0,
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,17.0,19.0,Undertray,48.0,0.0,
+2022,11,Austrian Grand Prix,2022-07-10 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,5.0,20.0,Collision damage,24.0,0.0,
+2022,12,French Grand Prix,2022-07-24 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,53.0,25.0,5391.525
+2022,12,French Grand Prix,2022-07-24 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,4.0,2.0,Finished,53.0,18.0,0.0
+2022,12,French Grand Prix,2022-07-24 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,6.0,3.0,Finished,53.0,15.0,5.908
+2022,12,French Grand Prix,2022-07-24 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,3.0,4.0,Finished,53.0,12.0,6.723
+2022,12,French Grand Prix,2022-07-24 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,19.0,5.0,Finished,53.0,11.0,18.285
+2022,12,French Grand Prix,2022-07-24 13:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,7.0,6.0,Finished,53.0,8.0,32.292
+2022,12,French Grand Prix,2022-07-24 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,5.0,7.0,Finished,53.0,6.0,41.439
+2022,12,French Grand Prix,2022-07-24 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,10.0,8.0,Finished,53.0,4.0,46.372
+2022,12,French Grand Prix,2022-07-24 13:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,9.0,9.0,Finished,53.0,2.0,49.785
+2022,12,French Grand Prix,2022-07-24 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,15.0,10.0,Finished,53.0,1.0,51.962
+2022,12,French Grand Prix,2022-07-24 13:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,12.0,11.0,Finished,53.0,0.0,53.907
+2022,12,French Grand Prix,2022-07-24 13:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,14.0,12.0,Finished,53.0,0.0,54.861
+2022,12,French Grand Prix,2022-07-24 13:00:00,albon,ALB,Alexander Albon,williams,Williams,13.0,13.0,Finished,53.0,0.0,57.978
+2022,12,French Grand Prix,2022-07-24 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,11.0,14.0,Finished,53.0,0.0,66.079
+2022,12,French Grand Prix,2022-07-24 13:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,17.0,15.0,Finished,53.0,0.0,69.807
+2022,12,French Grand Prix,2022-07-24 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,16.0,16.0,+6 Laps,47.0,0.0,
+2022,12,French Grand Prix,2022-07-24 13:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,18.0,17.0,Collision damage,40.0,0.0,
+2022,12,French Grand Prix,2022-07-24 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20.0,18.0,Collision damage,37.0,0.0,
+2022,12,French Grand Prix,2022-07-24 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,19.0,Accident,17.0,0.0,
+2022,12,French Grand Prix,2022-07-24 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,8.0,20.0,Undertray,17.0,0.0,
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,10.0,1.0,Finished,70.0,25.0,5968.078
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,7.0,2.0,Finished,70.0,19.0,0.0
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,1.0,3.0,Finished,70.0,15.0,4.503
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,2.0,4.0,Finished,70.0,12.0,6.745
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,11.0,5.0,Finished,70.0,10.0,7.854
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,3.0,6.0,Finished,70.0,8.0,8.213
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,4.0,7.0,Finished,70.0,6.0,70.466
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,6.0,8.0,+1 Lap,69.0,4.0,
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,5.0,9.0,+1 Lap,69.0,2.0,
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,18.0,10.0,+1 Lap,69.0,1.0,
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,14.0,11.0,+1 Lap,69.0,0.0,
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,0.0,12.0,+1 Lap,69.0,0.0,
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,12.0,13.0,+1 Lap,69.0,0.0,
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,15.0,14.0,+1 Lap,69.0,0.0,
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,9.0,15.0,+1 Lap,69.0,0.0,
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,13.0,16.0,+1 Lap,69.0,0.0,
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,albon,ALB,Alexander Albon,williams,Williams,17.0,17.0,+1 Lap,69.0,0.0,
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,19.0,18.0,+1 Lap,69.0,0.0,
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,16.0,19.0,+2 Laps,68.0,0.0,
+2022,13,Hungarian Grand Prix,2022-07-31 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,8.0,20.0,Power Unit,65.0,0.0,
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,14.0,1.0,Finished,44.0,26.0,5135.053
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,2.0,2.0,Finished,44.0,18.0,0.0
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,1.0,3.0,Finished,44.0,15.0,9.045
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,5.0,4.0,Finished,44.0,12.0,11.299
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,3.0,5.0,Finished,44.0,10.0,55.415
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,15.0,6.0,Finished,44.0,8.0,57.095
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,16.0,7.0,Finished,44.0,6.0,57.799
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,10.0,8.0,Finished,44.0,4.0,60.266
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,0.0,9.0,Finished,44.0,2.0,74.34
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,albon,ALB,Alexander Albon,williams,Williams,6.0,10.0,Finished,44.0,1.0,84.059
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,9.0,11.0,Finished,44.0,0.0,85.237
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,17.0,12.0,Finished,44.0,0.0,86.898
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,0.0,13.0,Finished,44.0,0.0,87.376
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,18.0,14.0,Finished,44.0,0.0,88.411
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,7.0,15.0,Finished,44.0,0.0,89.322
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,12.0,16.0,+1 Lap,43.0,0.0,
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,19.0,17.0,+1 Lap,43.0,0.0,
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,11.0,18.0,+1 Lap,43.0,0.0,
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,13.0,19.0,Accident,1.0,0.0,
+2022,14,Belgian Grand Prix,2022-08-28 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,4.0,20.0,Collision damage,0.0,0.0,
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,72.0,26.0,5798.702
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,6.0,2.0,Finished,72.0,18.0,0.0
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,2.0,3.0,Finished,72.0,15.0,6.858
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,4.0,4.0,Finished,72.0,12.0,8.945
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,5.0,5.0,Finished,72.0,10.0,14.097
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,13.0,6.0,Finished,72.0,8.0,14.683
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,7.0,7.0,Finished,72.0,6.0,15.235
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,3.0,8.0,Finished,72.0,4.0,16.845
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,12.0,9.0,Finished,72.0,2.0,17.046
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,10.0,10.0,Finished,72.0,1.0,18.388
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,11.0,11.0,Finished,72.0,0.0,22.938
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,albon,ALB,Alexander Albon,williams,Williams,15.0,12.0,Finished,72.0,0.0,26.319
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,8.0,13.0,Finished,72.0,0.0,28.924
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,19.0,14.0,Finished,72.0,0.0,31.936
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,18.0,15.0,Finished,72.0,0.0,32.798
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,14.0,16.0,Finished,72.0,0.0,33.249
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,17.0,17.0,Finished,72.0,0.0,33.693
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,20.0,18.0,+1 Lap,71.0,0.0,
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,16.0,19.0,Engine,53.0,0.0,
+2022,15,Dutch Grand Prix,2022-09-04 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,9.0,20.0,Differential,43.0,0.0,
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,7.0,1.0,Finished,53.0,25.0,4825.065
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,2.0,Finished,53.0,18.0,0.0
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,2.0,3.0,Finished,53.0,15.0,0.959
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,18.0,4.0,Finished,53.0,12.0,2.615
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,19.0,5.0,Finished,53.0,10.0,2.934
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,13.0,6.0,Finished,53.0,9.0,3.645
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,3.0,7.0,Finished,53.0,6.0,3.761
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,5.0,8.0,Finished,53.0,4.0,3.95
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,de_vries,DEV,Nyck De Vries,williams,Williams,8.0,9.0,Finished,53.0,2.0,4.676
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,9.0,10.0,Finished,53.0,1.0,5.464
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,14.0,11.0,Finished,53.0,0.0,5.877
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,17.0,12.0,Finished,53.0,0.0,6.103
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,15.0,13.0,+1 Lap,52.0,0.0,
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,20.0,14.0,+1 Lap,52.0,0.0,
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,10.0,15.0,+1 Lap,52.0,0.0,
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,16.0,16.0,+1 Lap,52.0,0.0,
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,4.0,17.0,Oil leak,45.0,0.0,
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,12.0,18.0,Engine,39.0,0.0,
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,6.0,19.0,Water pressure,31.0,0.0,
+2022,16,Italian Grand Prix,2022-09-11 13:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,11.0,20.0,Engine,10.0,0.0,
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,2.0,1.0,Finished,59.0,25.0,7337.643
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,2.0,Finished,59.0,18.0,0.0
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,4.0,3.0,Finished,59.0,15.0,7.71
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,norris,NOR,Lando Norris,mclaren,McLaren,6.0,4.0,Finished,59.0,12.0,18.538
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,16.0,5.0,Finished,59.0,10.0,50.687
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,11.0,6.0,Finished,59.0,8.0,53.735
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,8.0,7.0,Finished,59.0,6.0,56.23
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,13.0,8.0,Finished,59.0,4.0,57.437
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,3.0,9.0,Finished,59.0,2.0,58.92
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,7.0,10.0,Finished,59.0,1.0,66.981
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,15.0,11.0,Finished,59.0,0.0,86.249
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,9.0,12.0,Finished,59.0,0.0,90.015
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,12.0,13.0,+1 Lap,58.0,0.0,
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,russell,RUS,George Russell,mercedes,Mercedes,0.0,14.0,+2 Laps,57.0,0.0,
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,10.0,15.0,Accident,34.0,0.0,
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,17.0,16.0,Engine,26.0,0.0,
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,albon,ALB,Alexander Albon,williams,Williams,18.0,17.0,Collision damage,25.0,0.0,
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,5.0,18.0,Engine,20.0,0.0,
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,19.0,19.0,Collision damage,7.0,0.0,
+2022,17,Singapore Grand Prix,2022-10-02 12:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,14.0,20.0,Collision,6.0,0.0,
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,28.0,25.0,10876.938
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,4.0,2.0,Finished,28.0,18.0,0.0
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,2.0,3.0,Finished,28.0,15.0,4.697
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,5.0,4.0,Finished,28.0,12.0,12.619
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,6.0,5.0,Finished,28.0,10.0,13.26
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,9.0,6.0,Finished,28.0,8.0,19.292
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,7.0,7.0,Finished,28.0,6.0,19.303
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,russell,RUS,George Russell,mercedes,Mercedes,8.0,8.0,Finished,28.0,4.0,20.595
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,20.0,9.0,Finished,28.0,2.0,43.077
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,norris,NOR,Lando Norris,mclaren,McLaren,10.0,10.0,Finished,28.0,1.0,43.716
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,11.0,11.0,Finished,28.0,0.0,45.811
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,19.0,12.0,Finished,28.0,0.0,46.838
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,13.0,13.0,Finished,28.0,0.0,48.533
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,18.0,14.0,Finished,28.0,0.0,58.95
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,12.0,15.0,Finished,28.0,0.0,59.43
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,14.0,16.0,Finished,28.0,0.0,59.977
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,15.0,17.0,Finished,28.0,0.0,65.457
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,17.0,18.0,Finished,28.0,0.0,81.025
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,3.0,19.0,Accident,0.0,0.0,
+2022,18,Japanese Grand Prix,2022-10-09 05:00:00,albon,ALB,Alexander Albon,williams,Williams,16.0,20.0,Hydraulics,0.0,0.0,
+2022,19,United States Grand Prix,2022-10-23 19:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,56.0,25.0,6126.664
+2022,19,United States Grand Prix,2022-10-23 19:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,3.0,2.0,Finished,56.0,18.0,0.0
+2022,19,United States Grand Prix,2022-10-23 19:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,12.0,3.0,Finished,56.0,15.0,2.4779999999999998
+2022,19,United States Grand Prix,2022-10-23 19:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,9.0,4.0,Finished,56.0,12.0,3.27
+2022,19,United States Grand Prix,2022-10-23 19:00:00,russell,RUS,George Russell,mercedes,Mercedes,4.0,5.0,Finished,56.0,11.0,39.792
+2022,19,United States Grand Prix,2022-10-23 19:00:00,norris,NOR,Lando Norris,mclaren,McLaren,6.0,6.0,Finished,56.0,8.0,48.762
+2022,19,United States Grand Prix,2022-10-23 19:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,14.0,7.0,Finished,56.0,6.0,50.055
+2022,19,United States Grand Prix,2022-10-23 19:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,10.0,8.0,Finished,56.0,4.0,60.331
+2022,19,United States Grand Prix,2022-10-23 19:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,13.0,9.0,Finished,56.0,2.0,60.811
+2022,19,United States Grand Prix,2022-10-23 19:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,19.0,10.0,Finished,56.0,1.0,65.896
+2022,19,United States Grand Prix,2022-10-23 19:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,0.0,11.0,Finished,56.0,0.0,67.852
+2022,19,United States Grand Prix,2022-10-23 19:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,18.0,12.0,Finished,56.0,0.0,71.141
+2022,19,United States Grand Prix,2022-10-23 19:00:00,albon,ALB,Alexander Albon,williams,Williams,8.0,13.0,Finished,56.0,0.0,75.034
+2022,19,United States Grand Prix,2022-10-23 19:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,11.0,14.0,Finished,56.0,0.0,76.74
+2022,19,United States Grand Prix,2022-10-23 19:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,16.0,15.0,Finished,56.0,0.0,79.467
+2022,19,United States Grand Prix,2022-10-23 19:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,15.0,16.0,Finished,56.0,0.0,85.464
+2022,19,United States Grand Prix,2022-10-23 19:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,17.0,17.0,Finished,56.0,0.0,98.565
+2022,19,United States Grand Prix,2022-10-23 19:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,5.0,18.0,Collision,21.0,0.0,
+2022,19,United States Grand Prix,2022-10-23 19:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,7.0,19.0,Spun off,16.0,0.0,
+2022,19,United States Grand Prix,2022-10-23 19:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,1.0,20.0,Collision damage,1.0,0.0,
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,71.0,25.0,5901.543
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,3.0,2.0,Finished,71.0,18.0,0.0
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,4.0,3.0,Finished,71.0,15.0,2.911
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,russell,RUS,George Russell,mercedes,Mercedes,2.0,4.0,Finished,71.0,13.0,34.245
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,5.0,5.0,Finished,71.0,10.0,42.937
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,7.0,6.0,Finished,71.0,8.0,53.588
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,11.0,7.0,+1 Lap,70.0,6.0,
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,10.0,8.0,+1 Lap,70.0,4.0,
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,norris,NOR,Lando Norris,mclaren,McLaren,8.0,9.0,+1 Lap,70.0,2.0,
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,6.0,10.0,+1 Lap,70.0,1.0,
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,14.0,11.0,+1 Lap,70.0,0.0,
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,albon,ALB,Alexander Albon,williams,Williams,17.0,12.0,+1 Lap,70.0,0.0,
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,12.0,13.0,+1 Lap,70.0,0.0,
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,16.0,14.0,+1 Lap,70.0,0.0,
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,20.0,15.0,+1 Lap,70.0,0.0,
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,15.0,16.0,+1 Lap,70.0,0.0,
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,19.0,17.0,+1 Lap,70.0,0.0,
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,18.0,18.0,+2 Laps,69.0,0.0,
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,9.0,19.0,Engine,63.0,0.0,
+2022,20,Mexico City Grand Prix,2022-10-30 20:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,13.0,20.0,Collision damage,50.0,0.0,
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,russell,RUS,George Russell,mercedes,Mercedes,1.0,1.0,Finished,71.0,26.0,5912.515
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,2.0,2.0,Finished,71.0,18.0,0.0
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,7.0,3.0,Finished,71.0,15.0,2.5220000000000002
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,5.0,4.0,Finished,71.0,12.0,6.912
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,17.0,5.0,Finished,71.0,10.0,8.032
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,3.0,6.0,Finished,71.0,8.0,8.527
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,4.0,7.0,Finished,71.0,6.0,12.551
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,16.0,8.0,Finished,71.0,4.0,17.161
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,14.0,9.0,Finished,71.0,2.0,21.023
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,15.0,10.0,Finished,71.0,1.0,22.023
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,9.0,11.0,Finished,71.0,0.0,24.654
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,13.0,12.0,Finished,71.0,0.0,27.796
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,12.0,13.0,Finished,71.0,0.0,28.37
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10.0,14.0,Finished,71.0,0.0,30.338
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,albon,ALB,Alexander Albon,williams,Williams,19.0,15.0,Finished,71.0,0.0,34.487
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,18.0,16.0,Finished,71.0,0.0,35.509
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,0.0,17.0,+1 Lap,70.0,0.0,
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,norris,NOR,Lando Norris,mclaren,McLaren,6.0,18.0,Gearbox,50.0,0.0,
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,8.0,19.0,Collision,0.0,0.0,
+2022,21,São Paulo Grand Prix,2022-11-13 18:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,11.0,20.0,Collision,0.0,0.0,
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,58.0,25.0,5257.143
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,3.0,2.0,Finished,58.0,18.0,0.0
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,2.0,3.0,Finished,58.0,15.0,1.322
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,4.0,4.0,Finished,58.0,12.0,16.121
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,6.0,5.0,Finished,58.0,10.0,27.117
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,7.0,6.0,Finished,58.0,9.0,47.463
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,8.0,7.0,Finished,58.0,6.0,48.469
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,14.0,8.0,Finished,58.0,4.0,68.16
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,13.0,9.0,Finished,58.0,2.0,74.497
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,9.0,10.0,Finished,58.0,1.0,75.127
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,11.0,11.0,Finished,58.0,0.0,80.6
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,15.0,12.0,+1 Lap,57.0,0.0,
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,albon,ALB,Alexander Albon,williams,Williams,19.0,13.0,+1 Lap,57.0,0.0,
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,17.0,14.0,+1 Lap,57.0,0.0,
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,18.0,15.0,+1 Lap,57.0,0.0,
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,12.0,16.0,+1 Lap,57.0,0.0,
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,16.0,17.0,+1 Lap,57.0,0.0,
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,5.0,18.0,Hydraulics,55.0,0.0,
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,latifi,LAT,Nicholas Latifi,williams,Williams,20.0,19.0,Collision damage,55.0,0.0,
+2022,22,Abu Dhabi Grand Prix,2022-11-20 13:00:00,alonso,ALO,Fernando Alonso,alpine,Alpine,10.0,20.0,Water leak,27.0,0.0,
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,57.0,25.0,5635.6
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,2.0,2.0,Finished,57.0,18.0,10.850999999999999
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,5.0,3.0,Finished,57.0,15.0,37.501
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,4.0,4.0,Finished,57.0,12.0,46.916
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,7.0,5.0,Finished,57.0,10.0,49.841
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,8.0,6.0,Finished,57.0,8.0,53.366
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,russell,RUS,George Russell,mercedes,Mercedes,6.0,7.0,Finished,57.0,6.0,54.737
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,12.0,8.0,Finished,57.0,4.0,71.511
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,20.0,9.0,Finished,57.0,2.0,72.617
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,albon,ALB,Alexander Albon,williams,Williams,15.0,10.0,Finished,57.0,1.0,88.638
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,14.0,11.0,Finished,57.0,0.0,89.734
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,16.0,12.0,Lapped,56.0,0.0,0.0
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,17.0,13.0,Lapped,56.0,0.0,15.621
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,de_vries,DEV,Nyck De Vries,alphatauri,AlphaTauri,19.0,14.0,Lapped,56.0,0.0,21.387
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,10.0,15.0,Lapped,56.0,0.0,37.775
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,13.0,16.0,Lapped,56.0,0.0,38.513
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,norris,NOR,Lando Norris,mclaren,McLaren,11.0,17.0,Lapped,55.0,0.0,5.5
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,9.0,18.0,Retired,41.0,0.0,
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,3.0,19.0,Retired,39.0,0.0,
+2023,1,Bahrain Grand Prix,2023-03-05 15:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,18.0,20.0,Retired,13.0,0.0,
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,1.0,1.0,Finished,50.0,25.0,4869.539
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,15.0,2.0,Finished,50.0,19.0,0.0
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,2.0,3.0,Finished,50.0,15.0,15.373
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,russell,RUS,George Russell,mercedes,Mercedes,3.0,4.0,Finished,50.0,12.0,20.511
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,7.0,5.0,Finished,50.0,10.0,25.71
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,4.0,6.0,Finished,50.0,8.0,30.521
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,12.0,7.0,Finished,50.0,6.0,37.807
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,6.0,8.0,Finished,50.0,4.0,47.477
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,9.0,9.0,Finished,50.0,2.0,49.392
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,13.0,10.0,Finished,50.0,1.0,59.471
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,16.0,11.0,Finished,50.0,0.0,62.139
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,10.0,12.0,Finished,50.0,0.0,65.233
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,11.0,13.0,Finished,50.0,0.0,70.705
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,de_vries,DEV,Nyck De Vries,alphatauri,AlphaTauri,18.0,14.0,Finished,50.0,0.0,72.123
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,8.0,15.0,Finished,50.0,0.0,79.666
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,20.0,16.0,Finished,50.0,0.0,80.938
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,norris,NOR,Lando Norris,mclaren,McLaren,19.0,17.0,Finished,50.0,0.0,81.09
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,14.0,18.0,Lapped,49.0,0.0,24.229
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,albon,ALB,Alexander Albon,williams,Williams,17.0,19.0,Retired,27.0,0.0,
+2023,2,Saudi Arabian Grand Prix,2023-03-19 17:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,5.0,20.0,Retired,16.0,0.0,
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,58.0,25.0,9158.192
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,3.0,2.0,Finished,58.0,18.0,0.0
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,4.0,3.0,Finished,58.0,15.0,0.59
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,6.0,4.0,Finished,58.0,12.0,2.903
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,20.0,5.0,Finished,58.0,11.0,3.141
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,norris,NOR,Lando Norris,mclaren,McLaren,13.0,6.0,Finished,58.0,8.0,3.5220000000000002
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,10.0,7.0,Finished,58.0,6.0,4.76
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,16.0,8.0,Finished,58.0,4.0,5.203
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,17.0,9.0,Finished,58.0,2.0,5.534
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,12.0,10.0,Finished,58.0,1.0,5.873
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,19.0,11.0,Finished,58.0,0.0,6.334
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,5.0,12.0,Finished,58.0,0.0,6.415
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,9.0,13.0,Retired,56.0,0.0,
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,11.0,14.0,Retired,56.0,0.0,
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,de_vries,DEV,Nyck De Vries,alphatauri,AlphaTauri,15.0,15.0,Retired,56.0,0.0,
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,18.0,16.0,Retired,56.0,0.0,
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,14.0,17.0,Retired,52.0,0.0,
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,russell,RUS,George Russell,mercedes,Mercedes,2.0,18.0,Retired,17.0,0.0,
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,albon,ALB,Alexander Albon,williams,Williams,8.0,19.0,Retired,6.0,0.0,
+2023,3,Australian Grand Prix,2023-04-02 05:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,7.0,20.0,Retired,0.0,0.0,
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,3.0,1.0,Finished,51.0,25.0,5560.299
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,2.0,Finished,51.0,18.0,0.0
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,3.0,Finished,51.0,15.0,19.08
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,6.0,4.0,Finished,51.0,12.0,19.887
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,4.0,5.0,Finished,51.0,10.0,43.354
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,5.0,6.0,Finished,51.0,8.0,44.008
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,9.0,7.0,Finished,51.0,6.0,49.48
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,russell,RUS,George Russell,mercedes,Mercedes,11.0,8.0,Finished,51.0,5.0,72.103
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,norris,NOR,Lando Norris,mclaren,McLaren,7.0,9.0,Finished,51.0,2.0,78.239
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,8.0,10.0,Finished,51.0,1.0,81.725
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,10.0,11.0,Finished,51.0,0.0,84.364
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,albon,ALB,Alexander Albon,williams,Williams,12.0,12.0,Finished,51.0,0.0,86.486
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,16.0,13.0,Finished,51.0,0.0,87.592
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,17.0,14.0,Finished,51.0,0.0,89.195
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,19.0,15.0,Finished,51.0,0.0,95.657
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,14.0,16.0,Finished,51.0,0.0,98.806
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,20.0,17.0,Lapped,50.0,0.0,7.8
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,13.0,18.0,Lapped,50.0,0.0,16.961
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,15.0,19.0,Retired,36.0,0.0,
+2023,4,Azerbaijan Grand Prix,2023-04-30 11:00:00,de_vries,DEV,Nyck De Vries,alphatauri,AlphaTauri,18.0,20.0,Retired,9.0,0.0,
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,9.0,1.0,Finished,57.0,26.0,5252.857
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,1.0,2.0,Finished,57.0,18.0,0.0
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,2.0,3.0,Finished,57.0,15.0,20.921
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,russell,RUS,George Russell,mercedes,Mercedes,6.0,4.0,Finished,57.0,12.0,27.845
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,3.0,5.0,Finished,57.0,10.0,37.127
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,13.0,6.0,Finished,57.0,8.0,45.865
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,7.0,7.0,Finished,57.0,6.0,47.604
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,gasly,GAS,Pierre Gasly,alpine,Alpine,5.0,8.0,Finished,57.0,4.0,50.286
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,ocon,OCO,Esteban Ocon,alpine,Alpine,8.0,9.0,Finished,57.0,2.0,52.739
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,4.0,10.0,Finished,57.0,1.0,57.561
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,17.0,11.0,Finished,57.0,0.0,58.925
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18.0,12.0,Finished,57.0,0.0,59.37
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,10.0,13.0,Finished,57.0,0.0,66.253
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,albon,ALB,Alexander Albon,williams,Williams,11.0,14.0,Finished,57.0,0.0,67.477
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,12.0,15.0,Finished,57.0,0.0,69.566
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,14.0,16.0,Finished,57.0,0.0,73.056
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,norris,NOR,Lando Norris,mclaren,McLaren,16.0,17.0,Finished,57.0,0.0,82.333
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,de_vries,DEV,Nyck De Vries,alphatauri,AlphaTauri,15.0,18.0,Finished,57.0,0.0,83.565
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,19.0,19.0,Lapped,56.0,0.0,15.126
+2023,5,Miami Grand Prix,2023-05-07 19:30:00,sargeant,SAR,Logan Sargeant,williams,Williams,20.0,20.0,Lapped,56.0,0.0,29.004
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,78.0,25.0,6527.919
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,2.0,2.0,Finished,78.0,18.0,23.86
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,3.0,3.0,Finished,78.0,15.0,32.929
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,5.0,4.0,Finished,78.0,13.0,35.001
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,8.0,5.0,Finished,78.0,10.0,52.223
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,6.0,6.0,Finished,78.0,8.0,57.829
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,7.0,7.0,Finished,78.0,6.0,58.301
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,4.0,8.0,Finished,78.0,4.0,59.33
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,10.0,9.0,Lapped,77.0,2.0,0.0
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,11.0,10.0,Lapped,77.0,1.0,9.898
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,15.0,11.0,Lapped,77.0,0.0,24.902
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,de_vries,DEV,Nyck De Vries,alphatauri,AlphaTauri,12.0,12.0,Lapped,77.0,0.0,53.256
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,19.0,13.0,Lapped,77.0,0.0,67.791
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,albon,ALB,Alexander Albon,williams,Williams,13.0,14.0,Lapped,77.0,0.0,75.149
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,9.0,15.0,Lapped,76.0,0.0,3.484
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,20.0,16.0,Lapped,76.0,0.0,44.963
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,18.0,17.0,Lapped,76.0,0.0,54.445
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,16.0,18.0,Lapped,76.0,0.0,73.922
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,17.0,19.0,Retired,70.0,0.0,
+2023,6,Monaco Grand Prix,2023-05-28 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,14.0,20.0,Retired,53.0,0.0,
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,66.0,26.0,5273.665
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,4.0,2.0,Finished,66.0,18.0,19.815
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,12.0,3.0,Finished,66.0,15.0,28.114
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,11.0,4.0,Finished,66.0,12.0,31.537
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,2.0,5.0,Finished,66.0,10.0,41.423
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,5.0,6.0,Finished,66.0,8.0,59.045
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,8.0,7.0,Finished,66.0,6.0,59.852
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,6.0,8.0,Finished,66.0,4.0,64.967
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,13.0,9.0,Finished,66.0,2.0,67.603
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,10.0,10.0,Finished,66.0,1.0,69.255
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,19.0,11.0,Finished,66.0,0.0,70.144
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,15.0,12.0,Finished,66.0,0.0,71.141
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,9.0,13.0,Lapped,65.0,0.0,0.0
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,de_vries,DEV,Nyck De Vries,alphatauri,AlphaTauri,14.0,14.0,Lapped,65.0,0.0,1.052
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,7.0,15.0,Lapped,65.0,0.0,13.022
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,albon,ALB,Alexander Albon,williams,Williams,18.0,16.0,Lapped,65.0,0.0,23.433
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,3.0,17.0,Lapped,65.0,0.0,26.115
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,17.0,18.0,Lapped,65.0,0.0,33.805
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,16.0,19.0,Lapped,65.0,0.0,45.668
+2023,7,Spanish Grand Prix,2023-06-04 13:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,20.0,20.0,Lapped,65.0,0.0,47.402
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,70.0,25.0,5628.778
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,2.0,2.0,Finished,70.0,18.0,0.0
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,3.0,3.0,Finished,70.0,15.0,4.598
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,10.0,4.0,Finished,70.0,12.0,9.078
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,11.0,5.0,Finished,70.0,10.0,11.97
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,12.0,6.0,Finished,70.0,9.0,41.458
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,albon,ALB,Alexander Albon,williams,Williams,9.0,7.0,Finished,70.0,6.0,51.243
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,6.0,8.0,Finished,70.0,4.0,52.122
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,16.0,9.0,Finished,70.0,2.0,54.832
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,14.0,10.0,Finished,70.0,1.0,54.862
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,8.0,11.0,Finished,70.0,0.0,55.531
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,15.0,12.0,Finished,70.0,0.0,55.679
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,norris,NOR,Lando Norris,mclaren,McLaren,7.0,13.0,Finished,70.0,0.0,58.793
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,19.0,14.0,Finished,70.0,0.0,63.853
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,5.0,15.0,Lapped,69.0,0.0,7.373
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,20.0,16.0,Lapped,69.0,0.0,7.807
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,13.0,17.0,Lapped,69.0,0.0,60.689
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,de_vries,DEV,Nyck De Vries,alphatauri,AlphaTauri,17.0,18.0,Lapped,69.0,0.0,65.397
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,russell,RUS,George Russell,mercedes,Mercedes,4.0,19.0,Retired,53.0,0.0,
+2023,8,Canadian Grand Prix,2023-06-18 18:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,18.0,20.0,Retired,6.0,0.0,
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,71.0,26.0,5128.452
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,2.0,2.0,Finished,71.0,18.0,0.0
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,15.0,3.0,Finished,71.0,15.0,12.033
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,4.0,4.0,Finished,71.0,12.0,21.172
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,7.0,5.0,Finished,71.0,10.0,25.162
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,3.0,6.0,Finished,71.0,8.0,26.222
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,11.0,7.0,Finished,71.0,6.0,43.248
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,5.0,8.0,Finished,71.0,4.0,44.041
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,6.0,9.0,Finished,71.0,2.0,53.888
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,9.0,10.0,Finished,71.0,1.0,62.512
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,albon,ALB,Alexander Albon,williams,Williams,10.0,11.0,Finished,71.0,0.0,74.612
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,17.0,12.0,Lapped,70.0,0.0,19.478
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,18.0,13.0,Lapped,70.0,0.0,26.229
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,12.0,14.0,Lapped,70.0,0.0,36.985
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,14.0,15.0,Lapped,70.0,0.0,37.622
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,13.0,16.0,Lapped,70.0,0.0,41.414
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,de_vries,DEV,Nyck De Vries,alphatauri,AlphaTauri,20.0,17.0,Lapped,70.0,0.0,44.548
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,19.0,18.0,Lapped,70.0,0.0,51.498
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,16.0,19.0,Lapped,70.0,0.0,54.718
+2023,9,Austrian Grand Prix,2023-07-02 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,8.0,20.0,Retired,12.0,0.0,
+2023,10,British Grand Prix,2023-07-09 14:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,52.0,26.0,5113.14
+2023,10,British Grand Prix,2023-07-09 14:00:00,norris,NOR,Lando Norris,mclaren,McLaren,2.0,2.0,Finished,52.0,18.0,0.0
+2023,10,British Grand Prix,2023-07-09 14:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,7.0,3.0,Finished,52.0,15.0,2.985
+2023,10,British Grand Prix,2023-07-09 14:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,3.0,4.0,Finished,52.0,12.0,3.9779999999999998
+2023,10,British Grand Prix,2023-07-09 14:00:00,russell,RUS,George Russell,mercedes,Mercedes,6.0,5.0,Finished,52.0,10.0,7.408
+2023,10,British Grand Prix,2023-07-09 14:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,15.0,6.0,Finished,52.0,8.0,9.084
+2023,10,British Grand Prix,2023-07-09 14:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,9.0,7.0,Finished,52.0,6.0,13.395
+2023,10,British Grand Prix,2023-07-09 14:00:00,albon,ALB,Alexander Albon,williams,Williams,8.0,8.0,Finished,52.0,4.0,14.08
+2023,10,British Grand Prix,2023-07-09 14:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,4.0,9.0,Finished,52.0,2.0,14.891
+2023,10,British Grand Prix,2023-07-09 14:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,5.0,10.0,Finished,52.0,1.0,15.65
+2023,10,British Grand Prix,2023-07-09 14:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,14.0,11.0,Finished,52.0,0.0,19.834
+2023,10,British Grand Prix,2023-07-09 14:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,20.0,12.0,Finished,52.0,0.0,22.032
+2023,10,British Grand Prix,2023-07-09 14:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,11.0,13.0,Finished,52.0,0.0,22.865
+2023,10,British Grand Prix,2023-07-09 14:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,12.0,14.0,Finished,52.0,0.0,23.685
+2023,10,British Grand Prix,2023-07-09 14:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,17.0,15.0,Finished,52.0,0.0,26.022
+2023,10,British Grand Prix,2023-07-09 14:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,16.0,16.0,Finished,52.0,0.0,27.427
+2023,10,British Grand Prix,2023-07-09 14:00:00,de_vries,DEV,Nyck De Vries,alphatauri,AlphaTauri,18.0,17.0,Finished,52.0,0.0,29.33
+2023,10,British Grand Prix,2023-07-09 14:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,10.0,18.0,Retired,46.0,0.0,
+2023,10,British Grand Prix,2023-07-09 14:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,19.0,19.0,Retired,31.0,0.0,
+2023,10,British Grand Prix,2023-07-09 14:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,13.0,20.0,Retired,9.0,0.0,
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,70.0,26.0,5874.019
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,3.0,2.0,Finished,70.0,18.0,19.116
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,9.0,3.0,Finished,70.0,15.0,22.988
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,1.0,4.0,Finished,70.0,12.0,24.519
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,4.0,5.0,Finished,70.0,10.0,47.957
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,18.0,6.0,Finished,70.0,8.0,51.21
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,6.0,7.0,Finished,70.0,6.0,55.702
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,11.0,8.0,Finished,70.0,4.0,56.458
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,8.0,9.0,Finished,70.0,2.0,61.094
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,14.0,10.0,Lapped,69.0,1.0,0.0
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,albon,ALB,Alexander Albon,williams,Williams,16.0,11.0,Lapped,69.0,0.0,14.472
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,7.0,12.0,Lapped,69.0,0.0,15.464
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,ricciardo,RIC,Daniel Ricciardo,alphatauri,AlphaTauri,13.0,13.0,Lapped,69.0,0.0,21.642
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,10.0,14.0,Lapped,69.0,0.0,36.683
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,17.0,15.0,Lapped,69.0,0.0,36.928
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,5.0,16.0,Lapped,69.0,0.0,45.876
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,19.0,17.0,Lapped,69.0,0.0,67.736
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,20.0,18.0,Retired,67.0,0.0,
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,12.0,19.0,Retired,2.0,0.0,
+2023,11,Hungarian Grand Prix,2023-07-23 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,15.0,20.0,Retired,1.0,0.0,
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,6.0,1.0,Finished,44.0,25.0,4928.145
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,2.0,2.0,Finished,44.0,18.0,0.0
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,3.0,Finished,44.0,15.0,9.954
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,3.0,4.0,Finished,44.0,13.0,27.366
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,9.0,5.0,Finished,44.0,10.0,33.879
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,8.0,6.0,Finished,44.0,8.0,40.796
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,7.0,7.0,Finished,44.0,6.0,51.414
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,14.0,8.0,Finished,44.0,4.0,52.414
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,10.0,9.0,Finished,44.0,2.0,57.035
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,11.0,10.0,Finished,44.0,1.0,57.916
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,12.0,11.0,Finished,44.0,0.0,60.779
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,13.0,12.0,Finished,44.0,0.0,62.886
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,17.0,13.0,Finished,44.0,0.0,73.136
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,albon,ALB,Alexander Albon,williams,Williams,15.0,14.0,Finished,44.0,0.0,73.879
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,16.0,15.0,Finished,44.0,0.0,79.449
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,ricciardo,RIC,Daniel Ricciardo,alphatauri,AlphaTauri,19.0,16.0,Finished,44.0,0.0,80.766
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,18.0,17.0,Finished,44.0,0.0,82.171
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,20.0,18.0,Finished,44.0,0.0,88.145
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,4.0,19.0,Retired,23.0,0.0,
+2023,12,Belgian Grand Prix,2023-07-30 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,5.0,20.0,Retired,0.0,0.0,
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,72.0,25.0,8640.667
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,5.0,2.0,Finished,72.0,19.0,0.0
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,12.0,3.0,Finished,72.0,15.0,3.314
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,7.0,4.0,Finished,72.0,12.0,6.324
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,6.0,5.0,Finished,72.0,10.0,8.797
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,13.0,6.0,Finished,72.0,8.0,9.465
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,2.0,7.0,Finished,72.0,6.0,9.488
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,albon,ALB,Alexander Albon,williams,Williams,4.0,8.0,Finished,72.0,4.0,11.411
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,8.0,9.0,Finished,72.0,2.0,12.836
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,16.0,10.0,Finished,72.0,1.0,14.602
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,11.0,11.0,Finished,72.0,0.0,16.343
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,14.0,12.0,Finished,72.0,0.0,17.096
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,lawson,LAW,Liam Lawson,alphatauri,AlphaTauri,19.0,13.0,Finished,72.0,0.0,22.403
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,18.0,14.0,Finished,72.0,0.0,23.644
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,17.0,15.0,Finished,72.0,0.0,26.149
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,0.0,16.0,Finished,72.0,0.0,27.666
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,3.0,17.0,Finished,72.0,0.0,52.01
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,15.0,18.0,Accident,62.0,0.0,
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,9.0,19.0,Undertray,41.0,0.0,
+2023,13,Dutch Grand Prix,2023-08-27 13:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,10.0,20.0,Accident,14.0,0.0,
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,51.0,25.0,4419.05
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,5.0,2.0,Finished,51.0,18.0,3.971
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,1.0,3.0,Finished,51.0,15.0,9.1
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,3.0,4.0,Finished,51.0,12.0,9.284
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,4.0,5.0,Finished,51.0,10.0,20.935
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,8.0,6.0,Finished,51.0,8.0,40.586
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,albon,ALB,Alexander Albon,williams,Williams,6.0,7.0,Finished,51.0,6.0,43.013
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,9.0,8.0,Finished,51.0,4.0,43.356
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,10.0,9.0,Finished,51.0,2.0,44.201
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,14.0,10.0,Finished,51.0,1.0,61.963
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,lawson,LAW,Liam Lawson,alphatauri,AlphaTauri,12.0,11.0,Finished,51.0,0.0,68.545
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,7.0,12.0,Finished,51.0,0.0,70.981
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,15.0,13.0,Finished,51.0,0.0,76.464
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,16.0,14.0,Finished,51.0,0.0,78.071
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,17.0,15.0,Finished,51.0,0.0,80.417
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,20.0,16.0,Finished,51.0,0.0,85.173
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,13.0,17.0,Lapped,50.0,0.0,0.0
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,19.0,18.0,Lapped,50.0,0.0,10.531
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,18.0,19.0,Retired,39.0,0.0,
+2023,14,Italian Grand Prix,2023-09-03 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,11.0,20.0,Did not start,0.0,0.0,
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,1.0,1.0,Finished,62.0,25.0,6396.606
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,norris,NOR,Lando Norris,mclaren,McLaren,4.0,2.0,Finished,62.0,18.0,0.0
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,5.0,3.0,Finished,62.0,16.0,0.457
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,3.0,4.0,Finished,62.0,12.0,20.365
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,11.0,5.0,Finished,62.0,10.0,20.629
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,12.0,6.0,Finished,62.0,8.0,37.629
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,17.0,7.0,Finished,62.0,6.0,40.667
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,13.0,8.0,Finished,62.0,4.0,58.722
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,lawson,LAW,Liam Lawson,alphatauri,AlphaTauri,10.0,9.0,Finished,62.0,2.0,65.106
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,6.0,10.0,Finished,62.0,1.0,71.304
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,albon,ALB,Alexander Albon,williams,Williams,14.0,11.0,Finished,62.0,0.0,72.605
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,19.0,12.0,Finished,62.0,0.0,82.837
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,9.0,13.0,Finished,62.0,0.0,85.389
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,18.0,14.0,Finished,62.0,0.0,86.077
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,7.0,15.0,Finished,62.0,0.0,86.791
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,russell,RUS,George Russell,mercedes,Mercedes,2.0,16.0,Retired,61.0,0.0,
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,16.0,17.0,Retired,51.0,0.0,
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,8.0,18.0,Retired,42.0,0.0,
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,15.0,19.0,Retired,0.0,0.0,
+2023,15,Singapore Grand Prix,2023-09-17 12:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,,,Withdrew,0.0,0.0,
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,53.0,26.0,5455.332
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,norris,NOR,Lando Norris,mclaren,McLaren,3.0,2.0,Finished,53.0,18.0,16.298
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,2.0,3.0,Finished,53.0,15.0,33.405
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,4.0,4.0,Finished,53.0,12.0,40.909
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,7.0,5.0,Finished,53.0,10.0,46.287
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,6.0,6.0,Finished,53.0,8.0,47.132
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,russell,RUS,George Russell,mercedes,Mercedes,8.0,7.0,Finished,53.0,6.0,54.57
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,10.0,8.0,Finished,53.0,4.0,71.636
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,14.0,9.0,Finished,53.0,2.0,76.589
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,12.0,10.0,Finished,53.0,1.0,80.066
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,lawson,LAW,Liam Lawson,alphatauri,AlphaTauri,11.0,11.0,Lapped,52.0,0.0,0.0
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,9.0,12.0,Lapped,52.0,0.0,0.885
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,19.0,13.0,Lapped,52.0,0.0,3.251
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,18.0,14.0,Lapped,52.0,0.0,6.509
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,15.0,15.0,Lapped,52.0,0.0,26.481
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,albon,ALB,Alexander Albon,williams,Williams,13.0,16.0,Retired,26.0,0.0,
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,20.0,17.0,Retired,22.0,0.0,
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,17.0,18.0,Retired,20.0,0.0,
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,5.0,19.0,Retired,15.0,0.0,
+2023,16,Japanese Grand Prix,2023-09-24 05:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,16.0,20.0,Retired,7.0,0.0,
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,57.0,26.0,5257.922
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,6.0,2.0,Finished,57.0,18.0,3.5869999999999997
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,norris,NOR,Lando Norris,mclaren,McLaren,10.0,3.0,Finished,57.0,15.0,4.723
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,russell,RUS,George Russell,mercedes,Mercedes,2.0,4.0,Finished,57.0,12.0,32.873
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,5.0,5.0,Finished,57.0,10.0,37.73
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,4.0,6.0,Finished,57.0,8.0,47.786
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,8.0,7.0,Finished,57.0,6.0,61.144
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,9.0,8.0,Finished,57.0,4.0,65.317
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,19.0,9.0,Finished,57.0,2.0,74.881
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,20.0,10.0,Finished,57.0,1.0,78.935
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,16.0,11.0,Finished,57.0,0.0,80.406
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,7.0,12.0,Finished,57.0,0.0,81.054
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,albon,ALB,Alexander Albon,williams,Williams,13.0,13.0,Finished,57.0,0.0,89.768
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,18.0,14.0,Lapped,56.0,0.0,0.0
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,11.0,15.0,Lapped,56.0,0.0,7.712
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,14.0,16.0,Lapped,56.0,0.0,13.839
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,lawson,LAW,Liam Lawson,alphatauri,AlphaTauri,17.0,17.0,Lapped,56.0,0.0,25.862
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,15.0,18.0,Retired,40.0,0.0,
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,3.0,19.0,Retired,0.0,0.0,
+2023,17,Qatar Grand Prix,2023-10-08 17:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,12.0,20.0,Did not start,0.0,0.0,
+2023,18,United States Grand Prix,2023-10-22 19:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,6.0,1.0,Finished,56.0,25.0,5719.137
+2023,18,United States Grand Prix,2023-10-22 19:00:00,norris,NOR,Lando Norris,mclaren,McLaren,2.0,2.0,Finished,56.0,18.0,8.505
+2023,18,United States Grand Prix,2023-10-22 19:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,4.0,3.0,Finished,56.0,15.0,12.909
+2023,18,United States Grand Prix,2023-10-22 19:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,9.0,4.0,Finished,56.0,12.0,16.235
+2023,18,United States Grand Prix,2023-10-22 19:00:00,russell,RUS,George Russell,mercedes,Mercedes,5.0,5.0,Finished,56.0,10.0,22.774
+2023,18,United States Grand Prix,2023-10-22 19:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,7.0,6.0,Finished,56.0,8.0,45.771
+2023,18,United States Grand Prix,2023-10-22 19:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,20.0,7.0,Finished,56.0,6.0,46.471
+2023,18,United States Grand Prix,2023-10-22 19:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,11.0,8.0,Finished,56.0,5.0,72.16
+2023,18,United States Grand Prix,2023-10-22 19:00:00,albon,ALB,Alexander Albon,williams,Williams,15.0,9.0,Finished,56.0,2.0,84.489
+2023,18,United States Grand Prix,2023-10-22 19:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,16.0,10.0,Finished,56.0,1.0,85.773
+2023,18,United States Grand Prix,2023-10-22 19:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,18.0,11.0,Finished,56.0,0.0,87.679
+2023,18,United States Grand Prix,2023-10-22 19:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,13.0,12.0,Finished,56.0,0.0,96.376
+2023,18,United States Grand Prix,2023-10-22 19:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,12.0,13.0,Lapped,55.0,0.0,1.351
+2023,18,United States Grand Prix,2023-10-22 19:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,17.0,14.0,Lapped,55.0,0.0,5.8469999999999995
+2023,18,United States Grand Prix,2023-10-22 19:00:00,ricciardo,RIC,Daniel Ricciardo,alphatauri,AlphaTauri,14.0,15.0,Lapped,55.0,0.0,6.627
+2023,18,United States Grand Prix,2023-10-22 19:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,19.0,16.0,Retired,49.0,0.0,
+2023,18,United States Grand Prix,2023-10-22 19:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,10.0,17.0,Retired,10.0,0.0,
+2023,18,United States Grand Prix,2023-10-22 19:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,8.0,18.0,Retired,6.0,0.0,
+2023,18,United States Grand Prix,2023-10-22 19:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,3.0,19.0,Disqualified,56.0,0.0,0.0
+2023,18,United States Grand Prix,2023-10-22 19:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,20.0,Disqualified,56.0,0.0,22.437
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,3.0,1.0,Finished,71.0,25.0,7336.939
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,6.0,2.0,Finished,71.0,19.0,0.0
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,3.0,Finished,71.0,15.0,9.249
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,2.0,4.0,Finished,71.0,12.0,13.279
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,norris,NOR,Lando Norris,mclaren,McLaren,17.0,5.0,Finished,71.0,10.0,19.391
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,russell,RUS,George Russell,mercedes,Mercedes,8.0,6.0,Finished,71.0,8.0,27.145
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,ricciardo,RIC,Daniel Ricciardo,alphatauri,AlphaTauri,4.0,7.0,Finished,71.0,6.0,27.695
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,7.0,8.0,Finished,71.0,4.0,29.229
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,albon,ALB,Alexander Albon,williams,Williams,14.0,9.0,Finished,71.0,2.0,34.698
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,15.0,10.0,Finished,71.0,1.0,49.004
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,11.0,11.0,Finished,71.0,0.0,52.333
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,18.0,12.0,Finished,71.0,0.0,65.107
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,12.0,13.0,Finished,71.0,0.0,66.434
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,10.0,14.0,Finished,71.0,0.0,67.801
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,9.0,15.0,Finished,71.0,0.0,71.722
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,19.0,16.0,Retired,70.0,0.0,
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,0.0,17.0,Collision damage,66.0,0.0,
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,13.0,18.0,Withdrew,47.0,0.0,
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,16.0,19.0,Accident,31.0,0.0,
+2023,19,Mexico City Grand Prix,2023-10-29 20:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,5.0,20.0,Collision damage,1.0,0.0,
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,71.0,25.0,7005.258
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,norris,NOR,Lando Norris,mclaren,McLaren,6.0,2.0,Finished,71.0,19.0,4.641
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,4.0,3.0,Finished,71.0,15.0,30.519
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,9.0,4.0,Finished,71.0,12.0,30.572
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,3.0,5.0,Finished,71.0,10.0,37.209
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,7.0,6.0,Finished,71.0,8.0,46.552
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,15.0,7.0,Finished,71.0,6.0,52.457
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,5.0,8.0,Finished,71.0,4.0,59.223
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,16.0,9.0,Finished,71.0,2.0,66.244
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,14.0,10.0,Lapped,70.0,1.0,6.205
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,19.0,11.0,Lapped,70.0,0.0,22.572
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,11.0,12.0,Lapped,70.0,0.0,26.324
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,ricciardo,RIC,Daniel Ricciardo,alphatauri,AlphaTauri,17.0,13.0,Lapped,70.0,0.0,66.325
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,10.0,14.0,Lapped,69.0,0.0,0.0
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,russell,RUS,George Russell,mercedes,Mercedes,8.0,15.0,Retired,57.0,0.0,
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,18.0,16.0,Retired,39.0,0.0,
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,20.0,17.0,Retired,22.0,0.0,
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,12.0,18.0,Retired,0.0,0.0,
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,albon,ALB,Alexander Albon,williams,Williams,13.0,19.0,Retired,0.0,0.0,
+2023,20,São Paulo Grand Prix,2023-11-05 17:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,2.0,20.0,Did not start,0.0,0.0,
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,50.0,25.0,5346.219
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,2.0,Finished,50.0,18.0,0.0
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,11.0,3.0,Finished,50.0,15.0,0.171
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,16.0,4.0,Finished,50.0,12.0,16.595
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,19.0,5.0,Finished,50.0,10.0,17.997
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,12.0,6.0,Finished,50.0,8.0,18.764
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10.0,7.0,Finished,50.0,6.0,19.685
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,russell,RUS,George Russell,mercedes,Mercedes,3.0,8.0,Finished,50.0,4.0,21.021
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,9.0,9.0,Finished,50.0,2.0,23.894
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,18.0,10.0,Finished,50.0,2.0,27.426
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,4.0,11.0,Finished,50.0,0.0,32.2
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,albon,ALB,Alexander Albon,williams,Williams,5.0,12.0,Finished,50.0,0.0,41.328
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,8.0,13.0,Finished,50.0,0.0,42.755
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,ricciardo,RIC,Daniel Ricciardo,alphatauri,AlphaTauri,14.0,14.0,Finished,50.0,0.0,46.455
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,17.0,15.0,Finished,50.0,0.0,48.092
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,6.0,16.0,Finished,50.0,0.0,48.812
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,7.0,17.0,Finished,50.0,0.0,83.28
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,20.0,18.0,Retired,46.0,0.0,
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,13.0,19.0,Retired,45.0,0.0,
+2023,21,Las Vegas Grand Prix,2023-11-19 06:00:00,norris,NOR,Lando Norris,mclaren,McLaren,15.0,20.0,Retired,2.0,0.0,
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,58.0,26.0,5210.213
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,2.0,2.0,Finished,58.0,18.0,5.582
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,4.0,3.0,Finished,58.0,15.0,7.917
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,9.0,4.0,Finished,58.0,12.0,9.042
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,5.0,5.0,Finished,58.0,10.0,11.873
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,3.0,6.0,Finished,58.0,8.0,19.076
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,7.0,7.0,Finished,58.0,6.0,27.101
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,6.0,8.0,Finished,58.0,4.0,30.677
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,11.0,9.0,Finished,58.0,2.0,32.013
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,13.0,10.0,Finished,58.0,1.0,43.221
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,ricciardo,RIC,Daniel Ricciardo,alphatauri,AlphaTauri,15.0,11.0,Finished,58.0,0.0,43.818
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,12.0,12.0,Finished,58.0,0.0,53.962
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,10.0,13.0,Finished,58.0,0.0,57.949
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,albon,ALB,Alexander Albon,williams,Williams,14.0,14.0,Finished,58.0,0.0,60.773
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,8.0,15.0,Finished,58.0,0.0,71.285
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,20.0,16.0,Finished,58.0,0.0,75.38
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,zhou,ZHO,Guanyu Zhou,alfa,Alfa Romeo,19.0,17.0,Finished,58.0,0.0,77.011
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,16.0,18.0,Retired,57.0,0.0,
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,bottas,BOT,Valtteri Bottas,alfa,Alfa Romeo,18.0,19.0,Lapped,57.0,0.0,0.0
+2023,22,Abu Dhabi Grand Prix,2023-11-26 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,17.0,20.0,Lapped,57.0,0.0,2.465
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,57.0,26.0,5497.983
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,5.0,2.0,Finished,57.0,18.0,15.698
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,4.0,3.0,Finished,57.0,15.0,18.351
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,2.0,4.0,Finished,57.0,12.0,32.91
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,russell,RUS,George Russell,mercedes,Mercedes,3.0,5.0,Finished,57.0,10.0,40.029
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,norris,NOR,Lando Norris,mclaren,McLaren,7.0,6.0,Finished,57.0,8.0,41.699
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,9.0,7.0,Finished,57.0,6.0,43.565
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,8.0,8.0,Finished,57.0,4.0,49.323
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,6.0,9.0,Finished,57.0,2.0,68.128
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,12.0,10.0,Finished,57.0,1.0,86.457
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,17.0,11.0,Lapped,56.0,0.0,0.0
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,15.0,12.0,Lapped,56.0,0.0,1.557
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,14.0,13.0,Lapped,56.0,0.0,2.199
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,11.0,14.0,Lapped,56.0,0.0,2.723
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,albon,ALB,Alexander Albon,williams,Williams,13.0,15.0,Lapped,56.0,0.0,5.127
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,10.0,16.0,Lapped,56.0,0.0,10.873
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,19.0,17.0,Lapped,56.0,0.0,24.691
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,20.0,18.0,Lapped,56.0,0.0,25.658
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,16.0,19.0,Lapped,56.0,0.0,76.471
+2024,1,Bahrain Grand Prix,2024-03-02 15:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,18.0,20.0,Lapped,55.0,0.0,14.036
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,50.0,25.0,4839.272
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,3.0,2.0,Finished,50.0,18.0,9.642
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,2.0,3.0,Finished,50.0,16.0,14.638
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,5.0,4.0,Finished,50.0,12.0,28.006
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,4.0,5.0,Finished,50.0,10.0,31.758
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,russell,RUS,George Russell,mercedes,Mercedes,7.0,6.0,Finished,50.0,8.0,35.935
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,bearman,BEA,Oliver Bearman,ferrari,Ferrari,11.0,7.0,Finished,50.0,6.0,38.678
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,norris,NOR,Lando Norris,mclaren,McLaren,6.0,8.0,Finished,50.0,4.0,41.707
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,8.0,9.0,Finished,50.0,2.0,43.39
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,15.0,10.0,Finished,50.0,1.0,72.995
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,albon,ALB,Alexander Albon,williams,Williams,12.0,11.0,Finished,50.0,0.0,84.353
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,13.0,12.0,Finished,50.0,0.0,101.736
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,17.0,13.0,Lapped,49.0,0.0,0.0
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,19.0,14.0,Lapped,49.0,0.0,2.784
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,9.0,15.0,Lapped,49.0,0.0,6.532
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,14.0,16.0,Lapped,49.0,0.0,16.714
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,16.0,17.0,Lapped,49.0,0.0,19.114
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,20.0,18.0,Lapped,49.0,0.0,25.552
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,10.0,19.0,Retired,5.0,0.0,
+2024,2,Saudi Arabian Grand Prix,2024-03-09 17:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,18.0,20.0,Retired,1.0,0.0,
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,2.0,1.0,Finished,58.0,25.0,4824.477
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,4.0,2.0,Finished,58.0,19.0,0.0
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,norris,NOR,Lando Norris,mclaren,McLaren,3.0,3.0,Finished,58.0,15.0,3.5380000000000003
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,5.0,4.0,Finished,58.0,12.0,33.404
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,6.0,5.0,Finished,58.0,10.0,53.943
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,9.0,6.0,Finished,58.0,8.0,90.856
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,8.0,7.0,Finished,58.0,6.0,93.235
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,10.0,8.0,Finished,58.0,4.0,98.626
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,16.0,9.0,Finished,58.0,2.0,102.187
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,14.0,10.0,Lapped,57.0,1.0,1.7149999999999999
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,albon,ALB,Alexander Albon,williams,Williams,12.0,11.0,Lapped,57.0,0.0,2.643
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,18.0,12.0,Lapped,57.0,0.0,9.142
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,17.0,13.0,Lapped,57.0,0.0,38.587
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,13.0,14.0,Lapped,57.0,0.0,39.96
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,19.0,15.0,Lapped,57.0,0.0,41.927
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,15.0,16.0,Lapped,57.0,0.0,51.613
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,russell,RUS,George Russell,mercedes,Mercedes,7.0,17.0,Retired,56.0,0.0,
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,11.0,18.0,Retired,15.0,0.0,
+2024,3,Australian Grand Prix,2024-03-24 04:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,19.0,Retired,3.0,0.0,
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,53.0,26.0,6861.964
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,2.0,2.0,Finished,53.0,18.0,10.933
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,4.0,3.0,Finished,53.0,15.0,19.264
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,8.0,4.0,Finished,53.0,12.0,24.92
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,norris,NOR,Lando Norris,mclaren,McLaren,3.0,5.0,Finished,53.0,10.0,28.098
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,5.0,6.0,Finished,53.0,8.0,42.67
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,russell,RUS,George Russell,mercedes,Mercedes,9.0,7.0,Finished,53.0,6.0,44.349
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,6.0,8.0,Finished,53.0,4.0,45.923
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,7.0,9.0,Finished,53.0,2.0,47.024
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,10.0,10.0,Lapped,52.0,1.0,0.0
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,12.0,11.0,Lapped,52.0,0.0,5.566
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,16.0,12.0,Lapped,52.0,0.0,9.631
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,18.0,13.0,Lapped,52.0,0.0,16.317
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,13.0,14.0,Lapped,52.0,0.0,17.291
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,15.0,15.0,Lapped,52.0,0.0,39.55
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,17.0,16.0,Lapped,52.0,0.0,53.464
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,19.0,17.0,Lapped,52.0,0.0,71.163
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,20.0,18.0,Retired,12.0,0.0,
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,11.0,19.0,Retired,0.0,0.0,
+2024,4,Japanese Grand Prix,2024-04-07 05:00:00,albon,ALB,Alexander Albon,williams,Williams,14.0,20.0,Retired,0.0,0.0,
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,56.0,25.0,6038.781
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,norris,NOR,Lando Norris,mclaren,McLaren,4.0,2.0,Finished,56.0,18.0,0.0
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,2.0,3.0,Finished,56.0,15.0,5.3870000000000005
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,6.0,4.0,Finished,56.0,12.0,9.85
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,7.0,5.0,Finished,56.0,10.0,20.21
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,russell,RUS,George Russell,mercedes,Mercedes,8.0,6.0,Finished,56.0,8.0,24.951
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,3.0,7.0,Finished,56.0,7.0,29.641
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,5.0,8.0,Finished,56.0,4.0,42.425
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,18.0,9.0,Finished,56.0,2.0,44.213
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,9.0,10.0,Finished,56.0,1.0,46.703
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,13.0,11.0,Finished,56.0,0.0,49.039
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,albon,ALB,Alexander Albon,williams,Williams,14.0,12.0,Finished,56.0,0.0,51.733
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,15.0,13.0,Finished,56.0,0.0,55.45
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,16.0,14.0,Finished,56.0,0.0,57.916
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,11.0,15.0,Finished,56.0,0.0,69.013
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,17.0,16.0,Finished,56.0,0.0,73.76
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,20.0,17.0,Finished,56.0,0.0,81.337
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,12.0,18.0,Retired,33.0,0.0,
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,19.0,19.0,Retired,26.0,0.0,
+2024,5,Chinese Grand Prix,2024-04-21 07:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,10.0,20.0,Retired,19.0,0.0,
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,norris,NOR,Lando Norris,mclaren,McLaren,5.0,1.0,Finished,57.0,25.0,5442.264
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,2.0,Finished,57.0,18.0,0.0
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,2.0,3.0,Finished,57.0,15.0,2.308
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,4.0,4.0,Finished,57.0,12.0,7.038
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,3.0,5.0,Finished,57.0,10.0,8.795
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,8.0,6.0,Finished,57.0,8.0,8.973
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,10.0,7.0,Finished,57.0,6.0,18.573
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,russell,RUS,George Russell,mercedes,Mercedes,7.0,8.0,Finished,57.0,4.0,27.177
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,15.0,9.0,Finished,57.0,2.0,29.495
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,13.0,10.0,Finished,57.0,1.0,32.134
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,9.0,11.0,Finished,57.0,0.0,33.177
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,12.0,12.0,Finished,57.0,0.0,37.346
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,6.0,13.0,Finished,57.0,0.0,42.144
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,19.0,14.0,Finished,57.0,0.0,42.367
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,20.0,15.0,Finished,57.0,0.0,43.344
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,16.0,16.0,Finished,57.0,0.0,44.744
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,11.0,17.0,Finished,57.0,0.0,47.561
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,albon,ALB,Alexander Albon,williams,Williams,14.0,18.0,Finished,57.0,0.0,68.479
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,18.0,19.0,Finished,57.0,0.0,77.071
+2024,6,Miami Grand Prix,2024-05-05 20:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,17.0,20.0,Retired,27.0,0.0,
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,1.0,Finished,63.0,25.0,5124.527
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,2.0,2.0,Finished,63.0,18.0,0.0
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,3.0,3.0,Finished,63.0,15.0,7.191
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,5.0,4.0,Finished,63.0,12.0,13.407
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,4.0,5.0,Finished,63.0,10.0,21.6
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,8.0,6.0,Finished,63.0,8.0,34.379
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,6.0,7.0,Finished,63.0,7.0,46.429
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,11.0,8.0,Finished,63.0,4.0,54.051
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,13.0,9.0,Finished,63.0,2.0,78.831
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,7.0,10.0,Lapped,62.0,1.0,17.131
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,10.0,11.0,Lapped,62.0,0.0,24.552
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,18.0,12.0,Lapped,62.0,0.0,25.709
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,9.0,13.0,Lapped,62.0,0.0,26.936
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,12.0,14.0,Lapped,62.0,0.0,43.182
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,17.0,15.0,Lapped,62.0,0.0,44.208
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,15.0,16.0,Lapped,62.0,0.0,48.99
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,19.0,17.0,Lapped,62.0,0.0,50.326
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,16.0,18.0,Lapped,62.0,0.0,55.618
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,20.0,19.0,Lapped,62.0,0.0,74.399
+2024,7,Emilia Romagna Grand Prix,2024-05-19 13:00:00,albon,ALB,Alexander Albon,williams,Williams,14.0,20.0,Retired,51.0,0.0,
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,1.0,Finished,78.0,25.0,8591.7
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,2.0,2.0,Finished,78.0,18.0,3.298
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,3.0,3.0,Finished,78.0,15.0,3.731
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,4.0,4.0,Finished,78.0,12.0,4.796
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,5.0,5.0,Finished,78.0,10.0,9.455
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,6.0,6.0,Finished,78.0,8.0,9.999
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,7.0,7.0,Finished,78.0,7.0,11.054
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,8.0,8.0,Lapped,77.0,4.0,35.633
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,albon,ALB,Alexander Albon,williams,Williams,9.0,9.0,Lapped,77.0,2.0,50.198
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,10.0,10.0,Lapped,77.0,1.0,56.387
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,14.0,11.0,Lapped,76.0,0.0,0.0
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,12.0,12.0,Lapped,76.0,0.0,0.41
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,17.0,13.0,Lapped,76.0,0.0,0.634
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,13.0,14.0,Lapped,76.0,0.0,2.113
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,15.0,15.0,Lapped,76.0,0.0,5.172
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,18.0,16.0,Lapped,76.0,0.0,51.406
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,11.0,17.0,Retired,0.0,0.0,
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,16.0,18.0,Retired,0.0,0.0,
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,19.0,19.0,Retired,0.0,0.0,
+2024,8,Monaco Grand Prix,2024-05-26 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20.0,20.0,Retired,0.0,0.0,
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,70.0,25.0,6344.048
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,norris,NOR,Lando Norris,mclaren,McLaren,3.0,2.0,Finished,70.0,18.0,0.0
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,russell,RUS,George Russell,mercedes,Mercedes,1.0,3.0,Finished,70.0,15.0,0.438
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,7.0,4.0,Finished,70.0,13.0,1.036
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,4.0,5.0,Finished,70.0,10.0,6.32
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,6.0,6.0,Finished,70.0,8.0,13.631
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,9.0,7.0,Finished,70.0,6.0,19.746
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,5.0,8.0,Finished,70.0,4.0,24.793
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,15.0,9.0,Finished,70.0,2.0,26.142
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,18.0,10.0,Finished,70.0,1.0,26.434
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,17.0,11.0,Finished,70.0,0.0,26.945
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,14.0,12.0,Finished,70.0,0.0,27.374
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,19.0,13.0,Finished,70.0,0.0,36.608
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,8.0,14.0,Finished,70.0,0.0,48.815
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,20.0,15.0,Lapped,69.0,0.0,49.649
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,12.0,16.0,Retired,52.0,0.0,
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,albon,ALB,Alexander Albon,williams,Williams,10.0,17.0,Retired,52.0,0.0,
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,16.0,18.0,Retired,51.0,0.0,
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,11.0,19.0,Retired,40.0,0.0,
+2024,9,Canadian Grand Prix,2024-06-09 18:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,13.0,20.0,Retired,23.0,0.0,
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,66.0,25.0,5298.008
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,1.0,2.0,Finished,66.0,19.0,0.0
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,3.0,3.0,Finished,66.0,15.0,15.571
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,4.0,4.0,Finished,66.0,12.0,20.101
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,5.0,5.0,Finished,66.0,10.0,20.49
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,6.0,6.0,Finished,66.0,8.0,28.809
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,9.0,7.0,Finished,66.0,6.0,31.541
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,11.0,8.0,Finished,66.0,4.0,57.305
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,7.0,9.0,Finished,66.0,2.0,59.806
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,8.0,10.0,Finished,66.0,1.0,69.67
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,13.0,11.0,Finished,66.0,0.0,76.996
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,10.0,12.0,Lapped,65.0,0.0,7.2780000000000005
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,15.0,13.0,Lapped,65.0,0.0,13.257
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,14.0,14.0,Lapped,65.0,0.0,23.033
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,18.0,15.0,Lapped,65.0,0.0,41.831
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,12.0,16.0,Lapped,65.0,0.0,51.094
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,16.0,17.0,Lapped,65.0,0.0,52.569
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,albon,ALB,Alexander Albon,williams,Williams,20.0,18.0,Lapped,65.0,0.0,55.93
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,17.0,19.0,Lapped,65.0,0.0,66.685
+2024,10,Spanish Grand Prix,2024-06-23 13:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,19.0,20.0,Lapped,64.0,0.0,2.6470000000000002
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,3.0,1.0,Finished,71.0,25.0,5060.892
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,7.0,2.0,Finished,71.0,18.0,0.0
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,4.0,3.0,Finished,71.0,15.0,2.627
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,5.0,4.0,Finished,71.0,12.0,21.236
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,1.0,5.0,Finished,71.0,10.0,35.347
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,9.0,6.0,Finished,71.0,8.0,52.182
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,8.0,7.0,Finished,71.0,6.0,52.766
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,12.0,8.0,Finished,71.0,4.0,58.449
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,11.0,9.0,Finished,71.0,2.0,59.263
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,13.0,10.0,Finished,71.0,1.0,59.86
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,6.0,11.0,Finished,71.0,0.0,65.15
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,10.0,12.0,Finished,71.0,0.0,66.419
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,17.0,13.0,Lapped,70.0,0.0,8.328
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,14.0,14.0,Lapped,70.0,0.0,11.239
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,albon,ALB,Alexander Albon,williams,Williams,16.0,15.0,Lapped,70.0,0.0,13.96
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,18.0,16.0,Lapped,70.0,0.0,17.469
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,20.0,17.0,Lapped,70.0,0.0,42.976
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,15.0,18.0,Lapped,70.0,0.0,45.754
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,19.0,19.0,Lapped,69.0,0.0,4.4030000000000005
+2024,11,Austrian Grand Prix,2024-06-30 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,2.0,20.0,Lapped,64.0,0.0,
+2024,12,British Grand Prix,2024-07-07 14:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,2.0,1.0,Finished,52.0,25.0,4945.594
+2024,12,British Grand Prix,2024-07-07 14:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,4.0,2.0,Finished,52.0,18.0,0.0
+2024,12,British Grand Prix,2024-07-07 14:00:00,norris,NOR,Lando Norris,mclaren,McLaren,3.0,3.0,Finished,52.0,15.0,6.082
+2024,12,British Grand Prix,2024-07-07 14:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,5.0,4.0,Finished,52.0,12.0,10.964
+2024,12,British Grand Prix,2024-07-07 14:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,7.0,5.0,Finished,52.0,11.0,45.853
+2024,12,British Grand Prix,2024-07-07 14:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,6.0,6.0,Finished,52.0,8.0,54.257
+2024,12,British Grand Prix,2024-07-07 14:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,8.0,7.0,Finished,52.0,6.0,55.104
+2024,12,British Grand Prix,2024-07-07 14:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,10.0,8.0,Finished,52.0,4.0,62.112
+2024,12,British Grand Prix,2024-07-07 14:00:00,albon,ALB,Alexander Albon,williams,Williams,9.0,9.0,Finished,52.0,2.0,66.922
+2024,12,British Grand Prix,2024-07-07 14:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,13.0,10.0,Finished,52.0,1.0,77.838
+2024,12,British Grand Prix,2024-07-07 14:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,12.0,11.0,Finished,52.0,0.0,87.495
+2024,12,British Grand Prix,2024-07-07 14:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,17.0,12.0,Finished,52.0,0.0,88.688
+2024,12,British Grand Prix,2024-07-07 14:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,15.0,13.0,Lapped,51.0,0.0,8.472
+2024,12,British Grand Prix,2024-07-07 14:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,11.0,14.0,Lapped,51.0,0.0,39.008
+2024,12,British Grand Prix,2024-07-07 14:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,16.0,15.0,Lapped,51.0,0.0,40.356
+2024,12,British Grand Prix,2024-07-07 14:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,18.0,16.0,Lapped,50.0,0.0,9.217
+2024,12,British Grand Prix,2024-07-07 14:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,20.0,17.0,Lapped,50.0,0.0,16.54
+2024,12,British Grand Prix,2024-07-07 14:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,14.0,18.0,Lapped,50.0,0.0,53.011
+2024,12,British Grand Prix,2024-07-07 14:00:00,russell,RUS,George Russell,mercedes,Mercedes,1.0,19.0,Retired,33.0,0.0,
+2024,12,British Grand Prix,2024-07-07 14:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,19.0,20.0,Did not start,0.0,0.0,
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,2.0,1.0,Finished,70.0,25.0,5879.848
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,1.0,2.0,Finished,70.0,18.0,0.0
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,5.0,3.0,Finished,70.0,15.0,12.739
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,6.0,4.0,Finished,70.0,12.0,17.545
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,3.0,5.0,Finished,70.0,10.0,19.208
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,4.0,6.0,Finished,70.0,8.0,20.932
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,16.0,7.0,Finished,70.0,6.0,37.651
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,17.0,8.0,Finished,70.0,5.0,40.227
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,10.0,9.0,Finished,70.0,2.0,75.118
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,8.0,10.0,Finished,70.0,1.0,75.835
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,7.0,11.0,Finished,70.0,0.0,80.319
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,9.0,12.0,Lapped,69.0,0.0,15.783
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,11.0,13.0,Lapped,69.0,0.0,31.043
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,albon,ALB,Alexander Albon,williams,Williams,13.0,14.0,Lapped,69.0,0.0,34.628
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,15.0,15.0,Lapped,69.0,0.0,43.161
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,12.0,16.0,Lapped,69.0,0.0,43.268
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,14.0,17.0,Lapped,69.0,0.0,50.45
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,19.0,18.0,Lapped,69.0,0.0,58.788
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,18.0,19.0,Lapped,69.0,0.0,61.457
+2024,13,Hungarian Grand Prix,2024-07-21 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,20.0,20.0,Retired,33.0,0.0,
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,3.0,1.0,Finished,44.0,25.0,4796.919
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,5.0,2.0,Finished,44.0,18.0,0.0
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,3.0,Finished,44.0,15.0,7.376
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,11.0,4.0,Finished,44.0,12.0,8.053
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,4.0,5.0,Finished,44.0,10.0,8.677
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,7.0,6.0,Finished,44.0,8.0,18.622
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,2.0,7.0,Finished,44.0,7.0,42.022
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,8.0,8.0,Finished,44.0,4.0,48.79
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,9.0,9.0,Finished,44.0,2.0,51.379
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,13.0,10.0,Finished,44.0,1.0,53.753
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,15.0,11.0,Finished,44.0,0.0,61.838
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,albon,ALB,Alexander Albon,williams,Williams,10.0,12.0,Finished,44.0,0.0,62.478
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,12.0,13.0,Finished,44.0,0.0,63.192
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,17.0,14.0,Finished,44.0,0.0,65.458
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,14.0,15.0,Finished,44.0,0.0,69.465
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,20.0,16.0,Finished,44.0,0.0,75.564
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,18.0,17.0,Finished,44.0,0.0,84.884
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,16.0,18.0,Finished,44.0,0.0,87.66
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,19.0,19.0,Retired,5.0,0.0,
+2024,14,Belgian Grand Prix,2024-07-28 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,6.0,20.0,Disqualified,44.0,0.0,
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,1.0,1.0,Finished,72.0,26.0,5442.271
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,2.0,Finished,72.0,18.0,19.648
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,6.0,3.0,Finished,72.0,15.0,22.191
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,3.0,4.0,Finished,72.0,12.0,24.089
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,10.0,5.0,Finished,72.0,10.0,28.889
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,5.0,6.0,Finished,72.0,8.0,36.294
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,4.0,7.0,Finished,72.0,6.0,41.369
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,14.0,8.0,Finished,72.0,4.0,46.351
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,9.0,9.0,Lapped,71.0,2.0,5.356
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,7.0,10.0,Lapped,71.0,1.0,10.285
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,12.0,11.0,Lapped,71.0,0.0,15.966
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,13.0,12.0,Lapped,71.0,0.0,17.819
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,8.0,13.0,Lapped,71.0,0.0,22.464
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,albon,ALB,Alexander Albon,williams,Williams,19.0,14.0,Lapped,71.0,0.0,37.463
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,15.0,15.0,Lapped,71.0,0.0,43.63
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,sargeant,SAR,Logan Sargeant,williams,Williams,18.0,16.0,Lapped,71.0,0.0,61.291
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,11.0,17.0,Lapped,71.0,0.0,61.898
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20.0,18.0,Lapped,71.0,0.0,62.459
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,16.0,19.0,Lapped,70.0,0.0,0.0
+2024,15,Dutch Grand Prix,2024-08-25 13:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,17.0,20.0,Lapped,70.0,0.0,32.771
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,4.0,1.0,Finished,53.0,25.0,4478.063
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,2.0,2.0,Finished,53.0,18.0,0.0
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,1.0,3.0,Finished,53.0,16.0,3.489
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,5.0,4.0,Finished,53.0,12.0,12.957
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,6.0,5.0,Finished,53.0,10.0,20.156
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,7.0,6.0,Finished,53.0,8.0,35.268
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,3.0,7.0,Finished,53.0,6.0,37.051
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,8.0,8.0,Finished,53.0,4.0,51.484
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,albon,ALB,Alexander Albon,williams,Williams,9.0,9.0,Finished,53.0,2.0,64.792
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,13.0,10.0,Finished,53.0,1.0,65.638
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,11.0,11.0,Finished,53.0,0.0,65.831
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,colapinto,COL,Franco Colapinto,williams,Williams,18.0,12.0,Finished,53.0,0.0,78.644
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,12.0,13.0,Finished,53.0,0.0,90.788
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,15.0,14.0,Lapped,52.0,0.0,9.995
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,14.0,15.0,Lapped,52.0,0.0,15.68
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,19.0,16.0,Lapped,52.0,0.0,24.547
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,10.0,17.0,Lapped,52.0,0.0,28.206
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,20.0,18.0,Lapped,52.0,0.0,37.391
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,17.0,19.0,Lapped,52.0,0.0,40.844
+2024,16,Italian Grand Prix,2024-09-01 13:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,16.0,20.0,Retired,7.0,0.0,
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,2.0,1.0,Finished,51.0,25.0,5567.097
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,1.0,2.0,Finished,51.0,18.0,0.0
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,russell,RUS,George Russell,mercedes,Mercedes,5.0,3.0,Finished,51.0,15.0,20.418
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,norris,NOR,Lando Norris,mclaren,McLaren,15.0,4.0,Finished,51.0,13.0,25.233
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,6.0,5.0,Finished,51.0,10.0,66.188
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,7.0,6.0,Finished,51.0,8.0,74.558
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,albon,ALB,Alexander Albon,williams,Williams,9.0,7.0,Finished,51.0,6.0,76.486
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,colapinto,COL,Franco Colapinto,williams,Williams,8.0,8.0,Finished,51.0,4.0,78.631
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,19.0,9.0,Finished,51.0,2.0,81.491
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,bearman,BEA,Oliver Bearman,haas,Haas F1 Team,10.0,10.0,Finished,51.0,1.0,82.217
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,12.0,11.0,Finished,51.0,0.0,82.555
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,18.0,12.0,Finished,51.0,0.0,106.279
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,14.0,13.0,Finished,51.0,0.0,135.997
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,17.0,14.0,Finished,51.0,0.0,137.931
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,20.0,15.0,Lapped,50.0,0.0,10.434
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,16.0,16.0,Lapped,50.0,0.0,14.485
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,4.0,17.0,Retired,49.0,0.0,
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,3.0,18.0,Retired,49.0,0.0,
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,13.0,19.0,Retired,45.0,0.0,
+2024,17,Azerbaijan Grand Prix,2024-09-15 11:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,11.0,20.0,Retired,14.0,0.0,
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,norris,NOR,Lando Norris,mclaren,McLaren,1.0,1.0,Finished,62.0,25.0,6051.698
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,2.0,Finished,62.0,18.0,20.072
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,5.0,3.0,Finished,62.0,15.0,40.95
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,russell,RUS,George Russell,mercedes,Mercedes,4.0,4.0,Finished,62.0,12.0,60.167
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,9.0,5.0,Finished,62.0,10.0,61.557
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,3.0,6.0,Finished,62.0,8.0,84.375
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,10.0,7.0,Finished,62.0,6.0,95.166
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,7.0,8.0,Lapped,61.0,4.0,0.0
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,6.0,9.0,Lapped,61.0,2.0,2.267
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,13.0,10.0,Lapped,61.0,1.0,3.751
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,colapinto,COL,Franco Colapinto,williams,Williams,12.0,11.0,Lapped,61.0,0.0,5.411
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,8.0,12.0,Lapped,61.0,0.0,7.9190000000000005
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,15.0,13.0,Lapped,61.0,0.0,43.132
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,17.0,14.0,Lapped,61.0,0.0,46.698
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,20.0,15.0,Lapped,61.0,0.0,56.347
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,19.0,16.0,Lapped,61.0,0.0,56.956
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,18.0,17.0,Lapped,61.0,0.0,58.186
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,ricciardo,RIC,Daniel Ricciardo,rb,RB,16.0,18.0,Lapped,61.0,0.0,88.923
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,14.0,19.0,Retired,57.0,0.0,
+2024,18,Singapore Grand Prix,2024-09-22 12:00:00,albon,ALB,Alexander Albon,williams,Williams,11.0,20.0,Retired,15.0,0.0,
+2024,19,United States Grand Prix,2024-10-20 19:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,4.0,1.0,Finished,56.0,25.0,5707.913
+2024,19,United States Grand Prix,2024-10-20 19:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,3.0,2.0,Finished,56.0,18.0,6.836
+2024,19,United States Grand Prix,2024-10-20 19:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,3.0,Finished,56.0,15.0,17.686
+2024,19,United States Grand Prix,2024-10-20 19:00:00,norris,NOR,Lando Norris,mclaren,McLaren,1.0,4.0,Finished,56.0,12.0,18.628
+2024,19,United States Grand Prix,2024-10-20 19:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,5.0,5.0,Finished,56.0,10.0,20.195
+2024,19,United States Grand Prix,2024-10-20 19:00:00,russell,RUS,George Russell,mercedes,Mercedes,20.0,6.0,Finished,56.0,8.0,54.569
+2024,19,United States Grand Prix,2024-10-20 19:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,9.0,7.0,Finished,56.0,6.0,57.346
+2024,19,United States Grand Prix,2024-10-20 19:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,11.0,8.0,Finished,56.0,4.0,61.231
+2024,19,United States Grand Prix,2024-10-20 19:00:00,lawson,LAW,Liam Lawson,rb,RB,19.0,9.0,Finished,56.0,2.0,68.837
+2024,19,United States Grand Prix,2024-10-20 19:00:00,colapinto,COL,Franco Colapinto,williams,Williams,15.0,10.0,Finished,56.0,1.0,70.253
+2024,19,United States Grand Prix,2024-10-20 19:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,8.0,11.0,Finished,56.0,0.0,78.056
+2024,19,United States Grand Prix,2024-10-20 19:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,6.0,12.0,Finished,56.0,0.0,88.832
+2024,19,United States Grand Prix,2024-10-20 19:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,7.0,13.0,Lapped,55.0,0.0,0.0
+2024,19,United States Grand Prix,2024-10-20 19:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,10.0,14.0,Lapped,55.0,0.0,6.486
+2024,19,United States Grand Prix,2024-10-20 19:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,13.0,15.0,Lapped,55.0,0.0,15.257
+2024,19,United States Grand Prix,2024-10-20 19:00:00,albon,ALB,Alexander Albon,williams,Williams,14.0,16.0,Lapped,55.0,0.0,16.366
+2024,19,United States Grand Prix,2024-10-20 19:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,16.0,17.0,Lapped,55.0,0.0,32.607
+2024,19,United States Grand Prix,2024-10-20 19:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,12.0,18.0,Lapped,55.0,0.0,40.386
+2024,19,United States Grand Prix,2024-10-20 19:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,18.0,19.0,Lapped,55.0,0.0,47.514
+2024,19,United States Grand Prix,2024-10-20 19:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,17.0,20.0,Retired,1.0,0.0,
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,1.0,1.0,Finished,71.0,25.0,6053.08
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,norris,NOR,Lando Norris,mclaren,McLaren,3.0,2.0,Finished,71.0,18.0,1.9849999999999999
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,4.0,3.0,Finished,71.0,16.0,31.667
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,6.0,4.0,Finished,71.0,12.0,42.06
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,russell,RUS,George Russell,mercedes,Mercedes,5.0,5.0,Finished,71.0,10.0,45.816
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,6.0,Finished,71.0,8.0,56.838
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,7.0,7.0,Finished,71.0,6.0,60.922
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,17.0,8.0,Finished,71.0,4.0,62.208
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,10.0,9.0,Lapped,70.0,2.0,0.0
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,8.0,10.0,Lapped,70.0,1.0,15.867
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,14.0,11.0,Lapped,70.0,0.0,22.352
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,colapinto,COL,Franco Colapinto,williams,Williams,16.0,12.0,Lapped,70.0,0.0,34.777
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,0.0,13.0,Lapped,70.0,0.0,36.943
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,15.0,14.0,Lapped,70.0,0.0,39.507
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,19.0,15.0,Lapped,70.0,0.0,59.002
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,lawson,LAW,Liam Lawson,rb,RB,12.0,16.0,Lapped,70.0,0.0,61.746
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,18.0,17.0,Lapped,70.0,0.0,70.564
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,13.0,18.0,Retired,15.0,0.0,
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,albon,ALB,Alexander Albon,williams,Williams,9.0,19.0,Retired,0.0,0.0,
+2024,20,Mexico City Grand Prix,2024-10-27 20:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,11.0,20.0,Retired,0.0,0.0,
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,17.0,1.0,Finished,69.0,26.0,7594.953
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,ocon,OCO,Esteban Ocon,alpine,Alpine,4.0,2.0,Finished,69.0,18.0,0.0
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,gasly,GAS,Pierre Gasly,alpine,Alpine,13.0,3.0,Finished,69.0,15.0,3.055
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,russell,RUS,George Russell,mercedes,Mercedes,2.0,4.0,Finished,69.0,12.0,3.7880000000000003
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,6.0,5.0,Finished,69.0,10.0,10.7
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,norris,NOR,Lando Norris,mclaren,McLaren,1.0,6.0,Finished,69.0,8.0,11.895
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,3.0,7.0,Finished,69.0,6.0,22.579
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,8.0,8.0,Finished,69.0,4.0,25.466
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,lawson,LAW,Liam Lawson,rb,RB,5.0,9.0,Finished,69.0,2.0,30.975
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,14.0,10.0,Finished,69.0,1.0,31.276
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,12.0,11.0,Finished,69.0,0.0,32.054
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,bearman,BEA,Oliver Bearman,haas,Haas F1 Team,15.0,12.0,Finished,69.0,0.0,37.608
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,11.0,13.0,Finished,69.0,0.0,44.111
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,9.0,14.0,Finished,69.0,0.0,58.572
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,19.0,15.0,Finished,69.0,0.0,60.172
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,20.0,16.0,Retired,38.0,0.0,
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,colapinto,COL,Franco Colapinto,williams,Williams,16.0,17.0,Retired,30.0,0.0,
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,albon,ALB,Alexander Albon,williams,Williams,7.0,18.0,Did not start,0.0,0.0,
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,10.0,19.0,Did not start,0.0,0.0,
+2024,21,São Paulo Grand Prix,2024-11-03 15:30:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,18.0,20.0,Disqualified,0.0,0.0,
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,russell,RUS,George Russell,mercedes,Mercedes,1.0,1.0,Finished,50.0,25.0,4923.909
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10.0,2.0,Finished,50.0,18.0,5.253
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,2.0,3.0,Finished,50.0,15.0,9.846
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,4.0,4.0,Finished,50.0,12.0,12.223
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,5.0,5.0,Finished,50.0,10.0,14.522
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,norris,NOR,Lando Norris,mclaren,McLaren,6.0,6.0,Finished,50.0,9.0,41.325
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,8.0,7.0,Finished,50.0,6.0,49.305
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,9.0,8.0,Finished,50.0,4.0,57.748
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,7.0,9.0,Finished,50.0,2.0,60.748
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,15.0,10.0,Finished,50.0,1.0,61.054
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,16.0,11.0,Finished,50.0,0.0,67.135
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,12.0,12.0,Finished,50.0,0.0,67.743
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,13.0,13.0,Finished,50.0,0.0,72.025
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,colapinto,COL,Franco Colapinto,williams,Williams,20.0,14.0,Finished,50.0,0.0,73.112
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18.0,15.0,Finished,50.0,0.0,82.042
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,lawson,LAW,Liam Lawson,rb,RB,14.0,16.0,Finished,50.0,0.0,88.945
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,11.0,17.0,Lapped,49.0,0.0,0.0
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,19.0,18.0,Lapped,49.0,0.0,9.225
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,albon,ALB,Alexander Albon,williams,Williams,17.0,19.0,Retired,25.0,0.0,
+2024,22,Las Vegas Grand Prix,2024-11-24 06:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,3.0,20.0,Retired,15.0,0.0,
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,2.0,1.0,Finished,57.0,25.0,5459.292
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,5.0,2.0,Finished,57.0,18.0,0.0
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,4.0,3.0,Finished,57.0,15.0,0.788
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,russell,RUS,George Russell,mercedes,Mercedes,1.0,4.0,Finished,57.0,12.0,8.073
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,11.0,5.0,Finished,57.0,10.0,10.751
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,7.0,6.0,Finished,57.0,8.0,11.445
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,8.0,7.0,Finished,57.0,6.0,13.836
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,12.0,8.0,Finished,57.0,4.0,19.329
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,10.0,9.0,Finished,57.0,2.0,26.146
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,norris,NOR,Lando Norris,mclaren,McLaren,3.0,10.0,Finished,57.0,2.0,29.731
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,13.0,11.0,Finished,57.0,0.0,44.212
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,6.0,12.0,Finished,57.0,0.0,50.091
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,14.0,13.0,Finished,57.0,0.0,55.069
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,lawson,LAW,Liam Lawson,rb,RB,17.0,14.0,Finished,57.0,0.0,56.625
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,albon,ALB,Alexander Albon,williams,Williams,16.0,15.0,Lapped,56.0,0.0,6.938
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,18.0,16.0,Retired,39.0,0.0,
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,9.0,17.0,Retired,38.0,0.0,
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,15.0,18.0,Retired,8.0,0.0,
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,colapinto,COL,Franco Colapinto,williams,Williams,19.0,19.0,Retired,0.0,0.0,
+2024,23,Qatar Grand Prix,2024-12-01 16:00:00,ocon,OCO,Esteban Ocon,alpine,Alpine,20.0,20.0,Retired,0.0,0.0,
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,norris,NOR,Lando Norris,mclaren,McLaren,1.0,1.0,Finished,58.0,25.0,5187.459
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,sainz,SAI,Carlos Sainz,ferrari,Ferrari,3.0,2.0,Finished,58.0,18.0,0.0
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,19.0,3.0,Finished,58.0,15.0,26.096
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,16.0,4.0,Finished,58.0,12.0,30.651
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,russell,RUS,George Russell,mercedes,Mercedes,6.0,5.0,Finished,58.0,10.0,31.706
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,max_verstappen,VER,Max Verstappen,red_bull,Red Bull Racing,4.0,6.0,Finished,58.0,8.0,44.015
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,gasly,GAS,Pierre Gasly,alpine,Alpine,5.0,7.0,Finished,58.0,6.0,66.728
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,hulkenberg,HUL,Nico Hulkenberg,haas,Haas F1 Team,7.0,8.0,Finished,58.0,4.0,69.722
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,alonso,ALO,Fernando Alonso,aston_martin,Aston Martin,8.0,9.0,Finished,58.0,2.0,76.541
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,piastri,PIA,Oscar Piastri,mclaren,McLaren,2.0,10.0,Finished,58.0,1.0,77.989
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,albon,ALB,Alexander Albon,williams,Williams,18.0,11.0,Lapped,57.0,0.0,5.419
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,tsunoda,TSU,Yuki Tsunoda,rb,RB,11.0,12.0,Lapped,57.0,0.0,8.906
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,zhou,ZHO,Guanyu Zhou,sauber,Kick Sauber,15.0,13.0,Lapped,57.0,0.0,11.472
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,stroll,STR,Lance Stroll,aston_martin,Aston Martin,13.0,14.0,Lapped,57.0,0.0,12.641
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,doohan,DOO,Jack Doohan,alpine,Alpine,17.0,15.0,Lapped,57.0,0.0,20.723
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,14.0,16.0,Lapped,57.0,0.0,71.765
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,lawson,LAW,Liam Lawson,rb,RB,12.0,17.0,Retired,55.0,0.0,
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,bottas,BOT,Valtteri Bottas,sauber,Kick Sauber,9.0,18.0,Retired,30.0,0.0,
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,colapinto,COL,Franco Colapinto,williams,Williams,20.0,19.0,Retired,26.0,0.0,
+2024,24,Abu Dhabi Grand Prix,2024-12-08 13:00:00,perez,PER,Sergio Perez,red_bull,Red Bull Racing,10.0,20.0,Retired,0.0,0.0,
